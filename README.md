@@ -6,7 +6,7 @@ The review does **not** rank presidents by animals saved or total suffering redu
 
 - **Research cutoff:** October 19, 2026. Individual datasets end earlier; 2026 is incomplete.
 - **Repository:** [IamGRootMSE/animal-welfare-policy-evidence](https://github.com/IamGRootMSE/animal-welfare-policy-evidence).
-- **Expected public site:** [Animal Welfare Policy Evidence](https://iamgrootmse.github.io/animal-welfare-policy-evidence/). **Deployment is pending verification.** This link is the intended address, not a claim that publication has succeeded.
+- **Public site:** [Animal Welfare Policy Evidence](https://iamgrootmse.github.io/animal-welfare-policy-evidence/). Deployment and HTTP publication were verified October 19, 2026: all 37 pages and five checked data downloads passed. See [validation details and remaining limits](research/VALIDATION.md).
 - **Stack:** static Astro 7 site with TypeScript, local JSON/CSV downloads, and Node.js analysis scripts.
 
 ## What the evidence supports
@@ -37,6 +37,8 @@ pnpm preview
 Open the local address printed by the preview command, including the `/animal-welfare-policy-evidence/` base path. For development, use `pnpm dev`.
 
 `pnpm build` merges the curated records, regenerates CSV/JSON exports and descriptive calculations, and builds the static site into `dist/`. `pnpm test` runs repository tests. `pnpm check:links` checks local links in the built site; it does not establish that remote sources remain available or that their contents are correct. These commands describe the validation workflow, not a certificate that a particular checkout has passed it.
+
+After deployment, `pnpm check:live` checks all built page routes at the public URL and compares five published downloads against `dist/`. It requires network access and a local build of the deployed revision. It verifies HTTP publication, not rendered layout or browser interactions.
 
 For the intended GitHub Pages deployment, set `SITE_URL` to `https://iamgrootmse.github.io` and `BASE_PATH` to `/animal-welfare-policy-evidence` before building. The checked-in configuration defaults to the public GitHub Pages origin and project base path. Local preview works without a published site.
 
