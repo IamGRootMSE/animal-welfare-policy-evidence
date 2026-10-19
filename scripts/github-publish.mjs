@@ -39,4 +39,33 @@ if (action === 'check') {
   const runs = await api(`/repos/${owner}/${slug}/actions/runs?per_page=3`);
   const pages = await api(`/repos/${owner}/${slug}/pages`);
   console.log(JSON.stringify({pages:{status:pages.status,url:pages.data.html_url},runs:runs.data.workflow_runs?.map(x=>({id:x.id,status:x.status,conclusion:x.conclusion,url:x.html_url,sha:x.head_sha}))}));
-} else { throw new Error('Allowed actions: check, create, pages, status'); }
+} else if (action === 'allow-pages-branch') {
+  if (repo.status !== 200) throw new Error('Repository not found.');
+  const branch = 'codex/initial-release';
+  const path = `/repos/${owner}/${slug}/environments/github-pages/deployment-branch-policies`;
+  const policies = await api(path);
+  if (policies.status !== 200) throw new Error(`Unable to read deployment branch policies (${policies.status}).`);
+  if (policies.data.branch_policies?.some(x => x.name === branch && x.type === 'branch')) {
+    console.log(JSON.stringify({branch,alreadyAllowed:true}));
+  } else {
+    const created = await api(path, 'POST', {name:branch,type:'branch'});
+    if (created.status !== 200) throw new Error(`Unable to allow the publication branch (${created.status}): ${created.data.message}`);
+    console.log(JSON.stringify({branch:created.data.name,type:created.data.type,allowed:true}));
+  }
+} else if (action === 'diagnose') {
+  const runs = await api(`/repos/${owner}/${slug}/actions/runs?per_page=1`);
+  const run = runs.data.workflow_runs?.[0];
+  if (!run) throw new Error('No workflow run found.');
+  const jobs = await api(`/repos/${owner}/${slug}/actions/runs/${run.id}/jobs`);
+  for (const job of jobs.data.jobs || []) {
+    console.log(JSON.stringify({job:job.name,status:job.status,conclusion:job.conclusion,steps:job.steps}));
+    if (job.check_run_url) {
+      const check = await api(job.check_run_url.replace('https://api.github.com',''));
+      console.log(JSON.stringify({output:check.data.output}));
+      const annotations = await api(job.check_run_url.replace('https://api.github.com','') + '/annotations');
+      console.log(JSON.stringify({annotations:annotations.data}));
+    }
+  }
+  const environment = await api(`/repos/${owner}/${slug}/environments/github-pages`);
+  console.log(JSON.stringify({environmentStatus:environment.status,protectionRules:environment.data.protection_rules,deploymentBranchPolicy:environment.data.deployment_branch_policy}));
+} else { throw new Error('Allowed actions: check, create, pages, status, diagnose, allow-pages-branch'); }

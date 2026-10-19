@@ -42,7 +42,7 @@ For the intended GitHub Pages deployment, set `SITE_URL` to `https://iamgrootmse
 
 ## Deploy through GitHub Pages
 
-The `.github/workflows/pages.yml` workflow builds and tests on pushes to `codex/initial-release` or `main`, then deploys the static artifact. Pull requests run the build/check job without publishing. In repository Settings → Pages, select GitHub Actions as the source. The repository's initial default branch is `codex/initial-release`; if it is renamed, update the workflow branch filter too. The workflow uses Node 24, the pinned pnpm version and the checked-in lockfile. It needs GitHub's standard Pages deployment permissions, but no runtime credentials or paid API.
+The `.github/workflows/pages.yml` workflow builds and tests on pushes to `codex/initial-release` or `main`, then deploys the static artifact. Pull requests run the build/check job without publishing. In repository Settings → Pages, select GitHub Actions as the source. The repository's initial default branch is `codex/initial-release`; if it is renamed, update the workflow branch filter and the allowed deployment branch in Settings → Environments → github-pages. The workflow uses Node 24, the pinned pnpm version and the checked-in lockfile. It needs GitHub's standard Pages deployment permissions, but no runtime credentials or paid API.
 
 Rendered browser QA was blocked by the local browser access policy. See [VALIDATION.md](research/VALIDATION.md) for completed checks and the outstanding desktop/mobile and assistive-technology review.
 
