@@ -1,0 +1,639 @@
+{
+  "policies": [
+    {
+      "id": "cv-policy-esa",
+      "title": "Endangered Species Act: habitat harm, threatened-species rules, and regulatory reversals",
+      "area": "Wildlife",
+      "species": [
+        "Listed wildlife",
+        "Threatened wildlife",
+        "Listed plants (conservation context)"
+      ],
+      "administrations": [
+        "Clinton",
+        "Obama",
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2019-08-27",
+      "status": "2026 final rules effective; separate listing and consultation proposals pending in current agency materials; later litigation not fully audited",
+      "summary": "ESA regulations repeatedly changed legal protection for listed species and habitat. These are conservation policies with implications for individual animals, not direct measures of suffering or survival.",
+      "changed": "The scope of habitat-related take, default protections for future threatened species, habitat-exclusion procedures, and listing and consultation rules changed at different times.",
+      "afterward": "The 2026 harm rescission and FWS revisions reached final-rule status. Other proposed revisions must be evaluated separately.",
+      "attribution": "Congress supplied the statute. FWS, NMFS and DOI made administrative changes under Trump I, Biden and Trump II. Obama-era habitat policy and the Clinton-era Sweet Home judgment are background; a court judgment is not presidential executive credit.",
+      "unknown": "No causal estimate of deaths, injuries, suffering, extinction risk, or habitat loss attributable to these reversals was established in this bounded review.",
+      "mechanism": "Listing, take prohibitions, threatened-species protective rules, and consultation over federal actions.",
+      "coverage": "Listed species and designated habitat, with different provisions for wildlife, plants, threatened species and federal actions.",
+      "exceptions": "Permits and species-specific rules matter. Existing threatened-species protections survive the 2026 blanket-rule change. Removing the regulatory harm definition does not repeal the ESA.",
+      "outcomeEvidence": "legal only",
+      "confidence": "moderate",
+      "confidenceReason": "High confidence in retrieved rule text; lower confidence in complete litigation status and no independently estimated animal-welfare effect.",
+      "contributors": [
+        {
+          "institution": "Congress",
+          "role": "ESA statutory framework"
+        },
+        {
+          "institution": "FWS and NMFS",
+          "role": "Regulations and implementation within their jurisdictions"
+        },
+        {
+          "institution": "Federal courts",
+          "role": "Statutory interpretation and review of agency actions"
+        }
+      ],
+      "history": [
+        {
+          "date": "1995-06-29",
+          "status": "Judicial decision",
+          "event": "Sweet Home upheld the prior definition covering habitat modification that actually kills or injures wildlife.",
+          "sourceIds": [
+            "cv-esa-sweethome"
+          ]
+        },
+        {
+          "date": "2019-08-27",
+          "status": "Final rules",
+          "event": "Trump I revised listing and consultation regulations and removed FWS's blanket option for future threatened listings; existing blanket protection remained.",
+          "sourceIds": [
+            "cv-esa-list2024",
+            "cv-esa-consult2024",
+            "cv-esa-4d2026"
+          ]
+        },
+        {
+          "date": "2020-12-18",
+          "status": "Final rule",
+          "event": "FWS adopted habitat-exclusion procedures superseding its 2016 policy; Biden rescinded those regulations on July 21, 2022.",
+          "sourceIds": [
+            "cv-esa-habitat2026"
+          ]
+        },
+        {
+          "date": "2024-04-05",
+          "status": "Final rules",
+          "event": "Biden restored the blanket option and revised listing and consultation rules, effective May 6. Listing text again expressly excluded economic impacts from listing determinations.",
+          "sourceIds": [
+            "cv-esa-list2024",
+            "cv-esa-consult2024",
+            "cv-esa-4d2026"
+          ]
+        },
+        {
+          "date": "2025-04-17",
+          "status": "Proposal only at publication",
+          "event": "FWS and NMFS proposed rescinding their harm definitions; proposal publication itself changed no operative regulation.",
+          "sourceIds": [
+            "cv-esa-harm2026"
+          ]
+        },
+        {
+          "date": "2025-11",
+          "status": "Proposed rules",
+          "event": "Trump II proposed four additional ESA regulatory revisions.",
+          "sourceIds": [
+            "cv-esa-status"
+          ]
+        },
+        {
+          "date": "2026-07-14",
+          "status": "Final rule; effective September 14, 2026",
+          "event": "Agencies finalized harm-definition removal from 50 CFR 17.3 and 222.102.",
+          "sourceIds": [
+            "cv-esa-harm2026"
+          ]
+        },
+        {
+          "date": "2026-07-21",
+          "status": "Final rules; effective August 20, 2026",
+          "event": "FWS finalized future blanket-option removal and revised habitat-exclusion procedures.",
+          "sourceIds": [
+            "cv-esa-4d2026",
+            "cv-esa-habitat2026"
+          ]
+        },
+        {
+          "date": "2026-10-19",
+          "status": "Access-date status check",
+          "event": "FWS still categorizes separate listing and interagency-cooperation revisions as proposed.",
+          "sourceIds": [
+            "cv-esa-status"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cv-esa-sweethome",
+        "cv-esa-list2024",
+        "cv-esa-consult2024",
+        "cv-esa-4d2026",
+        "cv-esa-habitat2026",
+        "cv-esa-harm2026",
+        "cv-esa-status"
+      ],
+      "claimIds": [
+        "cv-esa-c1",
+        "cv-esa-c2",
+        "cv-esa-c3",
+        "cv-esa-c4",
+        "cv-esa-c5"
+      ]
+    },
+    {
+      "id": "cv-policy-mbta",
+      "title": "Migratory Bird Treaty Act: incidental-take reversals",
+      "area": "Wildlife",
+      "species": [
+        "Migratory birds protected by the MBTA"
+      ],
+      "administrations": [
+        "Obama",
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2017-01",
+      "status": "DOI exclusion interpretation restored in 2025 with explicit Southern District of New York exception; implementation corroborated May 2026",
+      "summary": "Successive administrations reversed whether accidental bird killing falls within the agency's MBTA interpretation. This changed a prevention and enforcement tool; the resulting mortality effect is unmeasured here.",
+      "changed": "Agency legal interpretations, a temporary regulation, enforcement guidance, and a proposed authorization initiative changed separately.",
+      "afterward": "FWS confirms implementation of the 2025 reversal; no comparable national enforcement or mortality series was verified for this policy.",
+      "attribution": "Obama DOI reaffirmed broad coverage; Trump I DOI narrowed it and promulgated a rule. Biden withdrew the opinion and revoked the rule. Trump II restored the opinion. Courts independently constrained interpretation.",
+      "unknown": "How changes affected preventive industry behavior, enforcement, mortality, or suffering, after accounting for hazard exposure, technology and other laws.",
+      "mechanism": "Legal liability and agency enforcement concerning incidental injury or killing.",
+      "coverage": "Birds covered by the MBTA and relevant conduct; this is a conservation statute rather than a comprehensive individual-animal welfare standard.",
+      "exceptions": "Permits, judicial precedent, and enforcement discretion matter. The 2025 memorandum expressly excepts reliance within SDNY jurisdiction.",
+      "outcomeEvidence": "legal only",
+      "confidence": "moderate",
+      "confidenceReason": "Primary rules, memoranda and a court opinion verify chronology; no full post-May-2026 litigation audit or causal outcomes estimate.",
+      "contributors": [
+        {
+          "institution": "Congress and treaty partners",
+          "role": "Statutory and treaty foundation"
+        },
+        {
+          "institution": "DOI Solicitor and FWS",
+          "role": "Interpretation, regulations and enforcement"
+        },
+        {
+          "institution": "Federal courts",
+          "role": "Review with differing jurisdictional interpretations"
+        }
+      ],
+      "history": [
+        {
+          "date": "2017-01",
+          "status": "Agency opinion",
+          "event": "Obama's M-37041 reaffirmed the longstanding agency view that incidental take is prohibited.",
+          "sourceIds": [
+            "cv-mbta-nrdc"
+          ]
+        },
+        {
+          "date": "2017-12-22",
+          "status": "Agency opinion",
+          "event": "Trump I's M-37050 reversed that position.",
+          "sourceIds": [
+            "cv-mbta-jan2021"
+          ]
+        },
+        {
+          "date": "2020-08-11",
+          "status": "Judicial vacatur",
+          "event": "SDNY vacated M-37050 and remanded to DOI.",
+          "sourceIds": [
+            "cv-mbta-nrdc"
+          ]
+        },
+        {
+          "date": "2021-01-07",
+          "status": "Final rule",
+          "event": "Trump I codified incidental-take exclusion; the corrected effective date was March 8, 2021.",
+          "sourceIds": [
+            "cv-mbta-jan2021",
+            "cv-mbta-revoke2021"
+          ]
+        },
+        {
+          "date": "2021-03-08",
+          "status": "Opinion withdrawn",
+          "event": "Biden's M-37065 withdrew M-37050 after the government's appeal was dismissed March 2.",
+          "sourceIds": [
+            "cv-mbta-m37065"
+          ]
+        },
+        {
+          "date": "2021-10-04",
+          "status": "Final revocation and proposed initiative",
+          "event": "Biden revoked the January rule effective December 3 and separately initiated rulemaking on incidental-take authorization.",
+          "sourceIds": [
+            "cv-mbta-revoke2021",
+            "cv-mbta-withdraw2025"
+          ]
+        },
+        {
+          "date": "2025-04-11",
+          "status": "Agency opinion",
+          "event": "Trump II's M-37085 withdrew M-37065 and restored reliance on M-37050 with the SDNY exception.",
+          "sourceIds": [
+            "cv-mbta-m37085"
+          ]
+        },
+        {
+          "date": "2025-04-21",
+          "status": "Proposal withdrawn",
+          "event": "FWS withdrew the 2021 incidental-take authorization advance notice.",
+          "sourceIds": [
+            "cv-mbta-withdraw2025"
+          ]
+        },
+        {
+          "date": "2026-05",
+          "status": "Implementation update",
+          "event": "FWS confirmed the restored interpretation, withdrawn advance notice and rescinded Director's Order 225.",
+          "sourceIds": [
+            "cv-mbta-status2026"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cv-mbta-jan2021",
+        "cv-mbta-nrdc",
+        "cv-mbta-m37065",
+        "cv-mbta-revoke2021",
+        "cv-mbta-m37085",
+        "cv-mbta-withdraw2025",
+        "cv-mbta-status2026"
+      ],
+      "claimIds": [
+        "cv-mbta-c1",
+        "cv-mbta-c2",
+        "cv-mbta-c3",
+        "cv-mbta-c4"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cv-esa-sweethome",
+      "title": "Babbitt v. Sweet Home Chapter, 515 U.S. 687",
+      "publisher": "Supreme Court of the United States",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-515/pdf/USREPORTS-515-687.pdf",
+      "publicationDate": "1995-06-29",
+      "accessDate": "2026-10-19",
+      "locator": "Syllabus and majority holding, pp. 687–708",
+      "evidenceType": "Judicial opinion",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": true,
+      "verificationNote": "Court opinion read; judicial review is independent of the executive agency."
+    },
+    {
+      "id": "cv-esa-list2024",
+      "title": "Listing Endangered and Threatened Species and Designating Critical Habitat",
+      "publisher": "FWS and NMFS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2024-04-05/pdf/2024-06899.pdf",
+      "publicationDate": "2024-04-05",
+      "accessDate": "2026-10-19",
+      "locator": "89 FR 24300; Background, responses on economic impacts, final §§424.11–424.12",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-esa-consult2024",
+      "title": "Regulations for Interagency Cooperation",
+      "publisher": "FWS and NMFS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2024-04-05/pdf/2024-06902.pdf",
+      "publicationDate": "2024-04-05",
+      "accessDate": "2026-10-19",
+      "locator": "89 FR 24268; Background and final 50 CFR part 402",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-esa-4d2026",
+      "title": "Regulations Pertaining to Endangered and Threatened Wildlife and Plants",
+      "publisher": "FWS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-21/pdf/2026-14633.pdf",
+      "publicationDate": "2026-07-21",
+      "accessDate": "2026-10-19",
+      "locator": "91 FR 45723; Background pp.45724–45725; final §§17.31,17.71",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-esa-habitat2026",
+      "title": "Regulations for Designating Critical Habitat",
+      "publisher": "FWS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-21/pdf/2026-14629.pdf",
+      "publicationDate": "2026-07-21",
+      "accessDate": "2026-10-19",
+      "locator": "91 FR 45662; Background, Effects of the Final Rule, final §17.90",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-esa-harm2026",
+      "title": "Rescinding the Definition of Harm Under the Endangered Species Act",
+      "publisher": "FWS and NMFS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-14/pdf/2026-14195.pdf",
+      "publicationDate": "2026-07-14",
+      "accessDate": "2026-10-19",
+      "locator": "91 FR 43300; Dates, Background, final amendments to §§17.3 and 222.102",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-esa-status",
+      "title": "Endangered Species Act Regulation Revisions",
+      "publisher": "U.S. Fish and Wildlife Service",
+      "url": "https://www.fws.gov/project/endangered-species-act-regulation-revisions",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Final Rules and Proposed Rules sections, accessed October 19, 2026",
+      "evidenceType": "Agency status page",
+      "limitations": "Current agency page separates three final actions from two pending proposals; not a comprehensive litigation docket audit.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-mbta-jan2021",
+      "title": "Regulations Governing Take of Migratory Birds",
+      "publisher": "FWS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2021-01-07/pdf/2021-00054.pdf",
+      "publicationDate": "2021-01-07",
+      "accessDate": "2026-10-19",
+      "locator": "86 FR 1134; Background; former §10.14",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-mbta-nrdc",
+      "title": "NRDC v. U.S. Department of the Interior, Opinion and Order, document 89",
+      "publisher": "U.S. District Court, Southern District of New York; copy hosted by Justia",
+      "url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2018cv04596/494390/89/",
+      "publicationDate": "2020-08-11",
+      "accessDate": "2026-10-19",
+      "locator": "478 F.Supp.3d 469; background pp.4–6 and conclusion p.31",
+      "evidenceType": "Judicial opinion",
+      "limitations": "Primary court document on a third-party host; subsequent history separately sourced.",
+      "independentlyVerified": true,
+      "verificationNote": "Court opinion read; judicial review is independent of the executive agency."
+    },
+    {
+      "id": "cv-mbta-m37065",
+      "title": "M-37065: Permanent Withdrawal of Solicitor Opinion M-37050",
+      "publisher": "Department of the Interior, Office of the Solicitor",
+      "url": "https://www.doi.gov/sites/default/files/permanent-withdrawl-of-sol-m-37050-mbta-3.8.2021.pdf",
+      "publicationDate": "2021-03-08",
+      "accessDate": "2026-10-19",
+      "locator": "One-page memorandum",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-mbta-revoke2021",
+      "title": "Regulations Governing Take of Migratory Birds; Revocation of Provisions",
+      "publisher": "FWS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2021-10-04/pdf/2021-21473.pdf",
+      "publicationDate": "2021-10-04",
+      "accessDate": "2026-10-19",
+      "locator": "86 FR 54642; Dates, Background, removal of §10.14",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-mbta-m37085",
+      "title": "M-37085: Withdrawal of Solicitor Opinion M-37065",
+      "publisher": "Department of the Interior, Office of the Solicitor",
+      "url": "https://www.doi.gov/sites/default/files/documents/2025-04/m-37085.pdf",
+      "publicationDate": "2025-04-11",
+      "accessDate": "2026-10-19",
+      "locator": "One-page memorandum, final paragraph",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-mbta-withdraw2025",
+      "title": "Migratory Bird Permits; Authorizing the Incidental Take of Migratory Birds: Withdrawal",
+      "publisher": "FWS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2025-04-21/pdf/2025-06782.pdf",
+      "publicationDate": "2025-04-21",
+      "accessDate": "2026-10-19",
+      "locator": "90 FR 16664; withdrawal of 86 FR 54667 advance notice",
+      "evidenceType": "Primary legal record",
+      "limitations": "Establishes legal text and agency action, not measured animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    },
+    {
+      "id": "cv-mbta-status2026",
+      "title": "Migratory Bird Incidental Take: Tribal coordination meeting presentation",
+      "publisher": "U.S. Fish and Wildlife Service",
+      "url": "https://www.fws.gov/sites/default/files/documents/2026-05/02_mbta-r8-tribal-coordination-meeting-may-2026_508_0.pdf",
+      "publicationDate": "2026-05",
+      "accessDate": "2026-10-19",
+      "locator": "Slide 1",
+      "evidenceType": "Agency implementation report",
+      "limitations": "May 2026 agency presentation confirms implementation; no verified census of enforcement or mortality and no full subsequent docket audit.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary agency record read; no claim of independent effectiveness verification."
+    }
+  ],
+  "claims": [
+    {
+      "id": "cv-esa-c1",
+      "policyId": "cv-policy-esa",
+      "claim": "Sweet Home upheld the earlier habitat-related harm definition; the 2026 rescission is an agency action, not a Supreme Court reversal of that decision.",
+      "sourceIds": [
+        "cv-esa-sweethome",
+        "cv-esa-harm2026"
+      ],
+      "locator": "515 U.S.687 majority; 91 FR43300 Background",
+      "evidenceType": "Judicial opinion and final rule",
+      "confidence": "high",
+      "limitations": "Does not resolve later challenges to the rescission.",
+      "independentlyVerified": true
+    },
+    {
+      "id": "cv-esa-c2",
+      "policyId": "cv-policy-esa",
+      "claim": "The 2024 rules revised portions of the 2019 listing and consultation framework and restored the FWS blanket protection option. They did not repeal every 2019 provision.",
+      "sourceIds": [
+        "cv-esa-list2024",
+        "cv-esa-consult2024",
+        "cv-esa-4d2026"
+      ],
+      "locator": "2024 rules Background; 91 FR45724",
+      "evidenceType": "Primary legal records",
+      "confidence": "high",
+      "limitations": "Framework changes do not themselves establish improved welfare.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cv-esa-c3",
+      "policyId": "cv-policy-esa",
+      "claim": "The April 2025 harm proposal became a July 14, 2026 final rule, effective September 14. It removes regulatory definitions, while harm remains in the statutory definition of take.",
+      "sourceIds": [
+        "cv-esa-harm2026"
+      ],
+      "locator": "91 FR43300 Dates and Background; final amendments",
+      "evidenceType": "Final rule",
+      "confidence": "high",
+      "limitations": "Judicial interpretation and enforcement remain material; no claim that all habitat destruction became lawful.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cv-esa-c4",
+      "policyId": "cv-policy-esa",
+      "claim": "Effective August 20, 2026, FWS removed the future blanket-rule option, preserving existing threatened-species protections. Species-specific rules remain available; removal does not mean every newly threatened species lacks protection.",
+      "sourceIds": [
+        "cv-esa-4d2026"
+      ],
+      "locator": "91 FR45723–45725; final §§17.31,17.71",
+      "evidenceType": "Final rule",
+      "confidence": "high",
+      "limitations": "FWS rule, not a change to NMFS's separate threatened-species program.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cv-esa-c5",
+      "policyId": "cv-policy-esa",
+      "claim": "The 2026 critical-habitat exclusion procedure is final; separate listing and consultation revisions are still described as proposals on the current FWS status page.",
+      "sourceIds": [
+        "cv-esa-habitat2026",
+        "cv-esa-status"
+      ],
+      "locator": "91 FR45662 Dates; status page Final Rules / Proposed Rules",
+      "evidenceType": "Final rule and agency status page",
+      "confidence": "moderate",
+      "limitations": "Status-page freshness and later court orders require continued checking.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cv-mbta-c1",
+      "policyId": "cv-policy-mbta",
+      "claim": "Obama's January 2017 opinion endorsed incidental-take coverage. Trump I reversed the interpretation, and the Southern District of New York vacated that opinion in August 2020.",
+      "sourceIds": [
+        "cv-mbta-nrdc",
+        "cv-mbta-jan2021"
+      ],
+      "locator": "Court opinion background and conclusion; 86 FR1134",
+      "evidenceType": "Judicial opinion and agency rule",
+      "confidence": "high",
+      "limitations": "Circuit interpretations differ; this is not a Supreme Court holding.",
+      "independentlyVerified": true
+    },
+    {
+      "id": "cv-mbta-c2",
+      "policyId": "cv-policy-mbta",
+      "claim": "Trump I's January 2021 regulation excluded incidental take. Biden revoked it effective December 3, 2021, returning to incidental-take coverage subject to judicial precedent and enforcement discretion.",
+      "sourceIds": [
+        "cv-mbta-jan2021",
+        "cv-mbta-revoke2021"
+      ],
+      "locator": "86 FR1134; 86 FR54642–54643",
+      "evidenceType": "Final rules",
+      "confidence": "high",
+      "limitations": "No standardized mortality counterfactual is established by these rules.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cv-mbta-c3",
+      "policyId": "cv-policy-mbta",
+      "claim": "M-37085 reinstates the 2017 exclusion interpretation as binding within DOI, except actions relying on it within the Southern District of New York's jurisdiction.",
+      "sourceIds": [
+        "cv-mbta-m37085"
+      ],
+      "locator": "Final paragraph",
+      "evidenceType": "Solicitor memorandum",
+      "confidence": "high",
+      "limitations": "Agency interpretation does not amend the statute or settle conflicting judicial interpretations.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cv-mbta-c4",
+      "policyId": "cv-policy-mbta",
+      "claim": "Trump II withdrew the 2021 advance notice for incidental-take authorization; FWS's May 2026 presentation also reports rescission of Director's Order 225.",
+      "sourceIds": [
+        "cv-mbta-withdraw2025",
+        "cv-mbta-status2026"
+      ],
+      "locator": "90 FR16664; presentation slide1",
+      "evidenceType": "Withdrawal notice and agency implementation report",
+      "confidence": "high",
+      "limitations": "The advance notice was a rulemaking initiative, not an operational general permit program.",
+      "independentlyVerified": false
+    }
+  ],
+  "observations": [],
+  "cases": [
+    {
+      "id": "cv-case-nrdc",
+      "policyId": "cv-policy-mbta",
+      "caseName": "Natural Resources Defense Council, Inc. v. U.S. Department of the Interior",
+      "court": "U.S. District Court, Southern District of New York",
+      "docket": "1:18-cv-04596-VEC",
+      "date": "2020-08-11",
+      "recordUnit": "case",
+      "statute": "MBTA; Administrative Procedure Act",
+      "disposition": "M-37050 vacated and remanded.",
+      "defendants": null,
+      "animals": null,
+      "penalty": "Not applicable: administrative judicial review, not a criminal animal count.",
+      "followup": "Appeal dismissed March 2, 2021 at government's request; 2025 DOI memorandum preserves an SDNY exception.",
+      "sourceIds": [
+        "cv-mbta-nrdc",
+        "cv-mbta-m37065",
+        "cv-mbta-m37085"
+      ],
+      "limitations": "Selected precedent; no prosecution, animal total, or national case census."
+    }
+  ],
+  "gaps": [
+    {
+      "id": "cv-gap-outcomes",
+      "topic": "Conservation is not a welfare outcome",
+      "detail": "No policy-specific causal mortality, injury or suffering estimate is supported by this legal chronology.",
+      "neededData": "Species and site exposure, hazards, enforcement, prevention behavior and measured outcomes with a credible counterfactual.",
+      "impact": "No lives-saved total, welfare effect size or presidential ranking."
+    },
+    {
+      "id": "cv-gap-status",
+      "topic": "Cutoff and litigation completeness",
+      "detail": "ESA status was checked against the agency's current rule page; MBTA implementation is directly corroborated through May 2026. A full court-docket audit through October 19 was not completed.",
+      "neededData": "Current dockets and any later injunctions, stays, appeals, rules or memoranda.",
+      "impact": "Published effective dates are reported with a status-completeness caveat."
+    },
+    {
+      "id": "cv-gap-harmguidance",
+      "topic": "Later ESA implementation guidance",
+      "detail": "Secondary reports describe September 2026 take guidance; its primary text was not retrieved in this bounded review and its specific instructions are excluded.",
+      "neededData": "Signed FWS and NMFS guidance, implementation records and judicial review.",
+      "impact": "Do not infer from the regulatory rescission that every accidental killing or habitat impact is exempt."
+    },
+    {
+      "id": "cv-gap-access",
+      "topic": "Historic-source access",
+      "detail": "Direct older DOI links for M-37041 and M-37050 returned 404. Their history is documented using the retrieved court opinion and later primary agency records.",
+      "neededData": "Archived signed opinions for a complete documentary archive.",
+      "impact": "January 2017 is retained at month precision, consistent with the retrieved court record."
+    }
+  ]
+}

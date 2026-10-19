@@ -1,0 +1,1342 @@
+{
+  "policies": [
+    {
+      "area": "Cross-cutting",
+      "outcomeEvidence": "implementation",
+      "confidence": "moderate",
+      "confidenceReason": "High confidence in legal text; selected enforcement records establish use, but no credible estimate of change in national animal suffering was identified.",
+      "id": "cr-depiction-1999",
+      "title": "1999 federal prohibition on depictions of animal cruelty",
+      "species": [
+        "Mammals",
+        "Birds",
+        "Other animals"
+      ],
+      "administrations": [
+        "Clinton",
+        "George W. Bush",
+        "Obama"
+      ],
+      "date": "1999-12-09",
+      "status": "Invalidated in 2010; replaced by narrower legislation",
+      "summary": "Congress created a federal commercial-depiction offense; the Supreme Court later held it substantially overbroad.",
+      "changed": "Added 18 U.S.C. §48 with a five-year maximum sentence.",
+      "afterward": "Stevens's conviction was vacated; the Supreme Court affirmed on April 20, 2010. Congress enacted a narrower law that December.",
+      "attribution": "Clinton signed Congress's 1999 enactment. Federal prosecution occurred under George W. Bush, and litigation continued under Obama. The invalidation was a judicial decision.",
+      "unknown": "No reliable national estimate of cruelty prevented during the law's operation.",
+      "mechanism": "Target commercial distribution incentives for depictions of unlawful animal harm.",
+      "coverage": "Knowing creation, sale, or possession intended for interstate/foreign commerce for gain.",
+      "exceptions": "Depictions with serious religious, political, scientific, educational, journalistic, historical, or artistic value.",
+      "contributors": [
+        {
+          "institution": "Congress",
+          "role": "Enacted the offense."
+        },
+        {
+          "institution": "President Clinton",
+          "role": "Signed enactment."
+        },
+        {
+          "institution": "Federal courts",
+          "role": "Invalidated the overbroad speech restriction."
+        }
+      ],
+      "history": [
+        {
+          "date": "1999-12-09",
+          "status": "Enacted",
+          "event": "P.L.106-152 added §48.",
+          "sourceIds": [
+            "cr-s1999"
+          ]
+        },
+        {
+          "date": "2010-04-20",
+          "status": "Invalidated",
+          "event": "Stevens held the statute substantially overbroad under the First Amendment.",
+          "sourceIds": [
+            "cr-sstevens"
+          ]
+        },
+        {
+          "date": "2010-12-09",
+          "status": "Replaced",
+          "event": "P.L.111-294 rewrote §48.",
+          "sourceIds": [
+            "cr-s2010"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cr-s1999",
+        "cr-sstevens",
+        "cr-s2010"
+      ],
+      "claimIds": [
+        "cr-c1999",
+        "cr-cstevens"
+      ]
+    },
+    {
+      "area": "Cross-cutting",
+      "outcomeEvidence": "legal only",
+      "confidence": "moderate",
+      "confidenceReason": "High confidence in legal text; selected enforcement records establish use, but no credible estimate of change in national animal suffering was identified.",
+      "id": "cr-fighting-2007",
+      "title": "Animal Fighting Prohibition Enforcement Act of 2007",
+      "species": [
+        "Dogs",
+        "Birds",
+        "Other mammals"
+      ],
+      "administrations": [
+        "George W. Bush"
+      ],
+      "date": "2007-05-03",
+      "status": "In force as subsequently amended; original penalty superseded",
+      "summary": "Made covered federal animal-fighting violations felonies and prohibited interstate commerce in sharp bird-fighting implements.",
+      "changed": "Raised maximum imprisonment from one year to three; created 18 U.S.C. §49.",
+      "afterward": "Congress increased the maximum again in 2008; current §49 retains the enforcement framework.",
+      "attribution": "Congress enacted the bill and George W. Bush signed it. Later enforcement cannot be attributed to this enactment alone.",
+      "unknown": "Incremental effect of felony classification on fighting incidence or suffering.",
+      "mechanism": "Higher criminal exposure and disruption of equipment supply.",
+      "coverage": "Specified animal-fighting conduct and interstate/foreign trade in gaffs, knives, or similar bird-fighting implements.",
+      "exceptions": "Scope is statutory animal-fighting ventures; hunting another animal remains excluded from that definition.",
+      "contributors": [
+        {
+          "institution": "Congress",
+          "role": "Drafted and enacted felony/equipment changes."
+        },
+        {
+          "institution": "President George W. Bush",
+          "role": "Signed P.L.110-22."
+        },
+        {
+          "institution": "USDA and DOJ",
+          "role": "Investigation and prosecution under the evolving framework."
+        }
+      ],
+      "history": [
+        {
+          "date": "2007-05-03",
+          "status": "Enacted",
+          "event": "Felony penalties and equipment prohibition enacted.",
+          "sourceIds": [
+            "cr-s2007"
+          ]
+        },
+        {
+          "date": "2008-05-22",
+          "status": "Amended",
+          "event": "Five-year maximum superseded original three-year maximum.",
+          "sourceIds": [
+            "cr-s2008",
+            "cr-scode49"
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "status": "Codified",
+          "event": "Current Code retains amended §49 and equipment prohibition.",
+          "sourceIds": [
+            "cr-scode49",
+            "cr-scode2156"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cr-s2007",
+        "cr-s2008",
+        "cr-scode49",
+        "cr-scode2156"
+      ],
+      "claimIds": [
+        "cr-c2007",
+        "cr-cfighting-current"
+      ]
+    },
+    {
+      "area": "Cross-cutting",
+      "outcomeEvidence": "implementation",
+      "confidence": "moderate",
+      "confidenceReason": "High confidence in legal text; selected enforcement records establish use, but no credible estimate of change in national animal suffering was identified.",
+      "id": "cr-fighting-2008",
+      "title": "2008 farm-bill expansion of animal-fighting offenses",
+      "species": [
+        "Dogs",
+        "Birds",
+        "Other mammals"
+      ],
+      "administrations": [
+        "George W. Bush",
+        "Obama",
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2008-05-22",
+      "status": "In force as subsequently amended",
+      "summary": "Expanded preparation offenses and federal jurisdiction, and raised maximum imprisonment to five years.",
+      "changed": "Added possession and training for fighting; recast the commerce connection around the venture.",
+      "afterward": "Sentencing Commission responded in 2016; later prosecutions use the amended framework.",
+      "attribution": "Congress enacted the omnibus farm bill over George W. Bush's veto. This is an enactment during his administration, not a presidential signing or evidence of his position on this provision alone.",
+      "unknown": "Separate effects of the 2007 and 2008 changes cannot be recovered from selected prosecutions.",
+      "mechanism": "Allow intervention against preparations and ventures affecting commerce; increase sentencing exposure.",
+      "coverage": "Covered fighting ventures involving live birds or non-human mammals.",
+      "exceptions": "Hunting exclusion and statutory jurisdictional requirements apply.",
+      "contributors": [
+        {
+          "institution": "Congress",
+          "role": "Enacted and overrode the omnibus veto."
+        },
+        {
+          "institution": "President George W. Bush",
+          "role": "Vetoed the omnibus legislation."
+        },
+        {
+          "institution": "U.S. Sentencing Commission",
+          "role": "Adjusted advisory guidelines in 2016."
+        }
+      ],
+      "history": [
+        {
+          "date": "2008-05-22",
+          "status": "Effective",
+          "event": "Original enactment date retained by later corrective enactment.",
+          "sourceIds": [
+            "cr-scode49",
+            "cr-scode2156"
+          ]
+        },
+        {
+          "date": "2008-06-18",
+          "status": "Reenacted",
+          "event": "P.L.110-246 replaced duplicate enactment; Congress overrode veto.",
+          "sourceIds": [
+            "cr-s2008"
+          ]
+        },
+        {
+          "date": "2016-11-01",
+          "status": "Implemented",
+          "event": "Amendment 800 increased ordinary fighting base offense level from 10 to 16.",
+          "sourceIds": [
+            "cr-sussc800"
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "status": "Codified",
+          "event": "Current Code retains preparation offenses and five-year maximum.",
+          "sourceIds": [
+            "cr-scode2156",
+            "cr-scode49"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cr-s2008",
+        "cr-scode2156",
+        "cr-scode49",
+        "cr-sussc800",
+        "cr-sgray"
+      ],
+      "claimIds": [
+        "cr-c2008",
+        "cr-c2008-veto",
+        "cr-cussc",
+        "cr-cgray"
+      ]
+    },
+    {
+      "area": "Cross-cutting",
+      "outcomeEvidence": "implementation",
+      "confidence": "moderate",
+      "confidenceReason": "High confidence in legal text; selected enforcement records establish use, but no credible estimate of change in national animal suffering was identified.",
+      "id": "cr-crush-video-2010",
+      "title": "Animal Crush Video Prohibition Act of 2010",
+      "species": [
+        "Mammals",
+        "Birds",
+        "Reptiles",
+        "Amphibians"
+      ],
+      "administrations": [
+        "Obama",
+        "Trump I"
+      ],
+      "date": "2010-12-09",
+      "status": "Video provisions continued within the 2019 rewrite",
+      "summary": "Replaced the invalidated depiction law with an obscenity-based prohibition covering specified animal-harm videos.",
+      "changed": "Criminalized covered creation and distribution, including qualifying foreign production/distribution; maximum seven years.",
+      "afterward": "The Fifth Circuit upheld the narrower framework; in Justice's 2017 appeal it nevertheless acquitted one count for failure of the obscenity element.",
+      "attribution": "Congress redesigned the law after Stevens; Obama signed it. Prosecutors and courts determined its implementation and limits.",
+      "unknown": "No national causal estimate of reduced production, demand, or animal suffering.",
+      "mechanism": "Interrupt the commercial market supporting creation of obscene abuse videos.",
+      "coverage": "Obscene visual depictions of specified serious harm, with statutory commerce connections.",
+      "exceptions": "Veterinary/agricultural practices, food slaughter, hunting/trapping/fishing, and qualifying good-faith referrals.",
+      "contributors": [
+        {
+          "institution": "Congress",
+          "role": "Rewrote §48 in response to Stevens."
+        },
+        {
+          "institution": "President Obama",
+          "role": "Signed P.L.111-294."
+        },
+        {
+          "institution": "Fifth Circuit",
+          "role": "Applied obscenity limits in criminal litigation."
+        }
+      ],
+      "history": [
+        {
+          "date": "2010-12-09",
+          "status": "Enacted",
+          "event": "Narrower §48 replaced invalidated text.",
+          "sourceIds": [
+            "cr-s2010",
+            "cr-s2010actions"
+          ]
+        },
+        {
+          "date": "2017-11-20",
+          "status": "Judicial application",
+          "event": "Justice appeal affirmed three counts and acquitted one.",
+          "sourceIds": [
+            "cr-sjustice"
+          ]
+        },
+        {
+          "date": "2019-11-25",
+          "status": "Expanded",
+          "event": "PACT added a separate conduct offense while retaining video offenses.",
+          "sourceIds": [
+            "cr-s2019"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cr-s2010",
+        "cr-s2010actions",
+        "cr-sjustice",
+        "cr-s2019",
+        "cr-scode48"
+      ],
+      "claimIds": [
+        "cr-c2010",
+        "cr-cjustice"
+      ]
+    },
+    {
+      "area": "Cross-cutting",
+      "outcomeEvidence": "implementation",
+      "confidence": "moderate",
+      "confidenceReason": "High confidence in legal text; selected enforcement records establish use, but no credible estimate of change in national animal suffering was identified.",
+      "id": "cr-spectators-2014",
+      "title": "Federal animal-fighting spectator and child-attendance offenses",
+      "species": [
+        "Dogs",
+        "Birds",
+        "Other mammals"
+      ],
+      "administrations": [
+        "Obama",
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2014-02-07",
+      "status": "In force",
+      "summary": "Extended federal liability to knowing attendance and causing children under 16 to attend animal fights.",
+      "changed": "Added separate maximums: one year for attendance, three years for causing under-16 attendance.",
+      "afterward": "Anderson received a concurrent 18-month sentence for the child-attendance offense in 2021.",
+      "attribution": "Congress included the provision in the farm bill signed by Obama. Biden-era prosecution in the selected case enforced an inherited law.",
+      "unknown": "Changes in spectator demand, youth exposure, and fighting incidence attributable to this provision.",
+      "mechanism": "Reduce spectator support and penalize bringing children to fights.",
+      "coverage": "Knowing attendance at a covered animal-fighting venture or causing a child under 16 to attend.",
+      "exceptions": "Statutory venture definition and jurisdictional limitations; age threshold is under 16, not under 18.",
+      "contributors": [
+        {
+          "institution": "Congress and President Obama",
+          "role": "Enactment and signing."
+        },
+        {
+          "institution": "U.S. Sentencing Commission",
+          "role": "Guideline implementation in 2016."
+        },
+        {
+          "institution": "USDA-OIG and DOJ",
+          "role": "Investigation/prosecution in selected 2021 case."
+        }
+      ],
+      "history": [
+        {
+          "date": "2014-02-07",
+          "status": "Enacted",
+          "event": "P.L.113-79 §12308(b) added spectator offenses.",
+          "sourceIds": [
+            "cr-s2014"
+          ]
+        },
+        {
+          "date": "2016-11-01",
+          "status": "Implemented",
+          "event": "Amendment 800 addressed new attendance offenses.",
+          "sourceIds": [
+            "cr-sussc800"
+          ]
+        },
+        {
+          "date": "2021-10-06",
+          "status": "Selected enforcement",
+          "event": "Anderson sentenced on conspiracy and child-attendance counts.",
+          "sourceIds": [
+            "cr-sanderson-bulletin",
+            "cr-sanderson"
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "status": "Codified",
+          "event": "Current Code retains offenses and penalties.",
+          "sourceIds": [
+            "cr-scode2156",
+            "cr-scode49"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cr-s2014",
+        "cr-scode2156",
+        "cr-scode49",
+        "cr-sussc800",
+        "cr-sanderson",
+        "cr-sanderson-bulletin"
+      ],
+      "claimIds": [
+        "cr-c2014",
+        "cr-canderson"
+      ]
+    },
+    {
+      "area": "Cross-cutting",
+      "outcomeEvidence": "legal only",
+      "confidence": "moderate",
+      "confidenceReason": "High confidence in legal text; selected enforcement records establish use, but no credible estimate of change in national animal suffering was identified.",
+      "id": "cr-territories-2018",
+      "title": "Extension of animal-fighting prohibition to U.S. territories",
+      "species": [
+        "Birds"
+      ],
+      "administrations": [
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2018-12-20",
+      "status": "Effective December 20, 2019; retained in current Code",
+      "summary": "Removed remaining local-law exceptions for sponsoring/exhibiting bird fights and promoting them.",
+      "changed": "Ended statutory exceptions important to cockfighting in territories.",
+      "afterward": "First Circuit upheld the challenged application to Puerto Rico on January 14, 2021.",
+      "attribution": "Congress enacted the farm-bill provision signed by Trump. Courts upheld it; enforcement and compliance depend on agencies and local conditions.",
+      "unknown": "No verified territory-wide pre/post prevalence or welfare-outcome series was obtained.",
+      "mechanism": "Apply the federal prohibition despite permissive local cockfighting law.",
+      "coverage": "Territories and Puerto Rico within the statutory definition of State; commerce-connected fighting ventures.",
+      "exceptions": "General venture definition and hunting exclusion remain; abolished local-law carve-outs no longer apply.",
+      "contributors": [
+        {
+          "institution": "Congress and President Trump",
+          "role": "Enactment and signing."
+        },
+        {
+          "institution": "First Circuit",
+          "role": "Upheld challenged Puerto Rico application."
+        },
+        {
+          "institution": "Federal enforcement agencies",
+          "role": "Implementation."
+        }
+      ],
+      "history": [
+        {
+          "date": "2018-12-20",
+          "status": "Enacted",
+          "event": "P.L.115-334 §12616 enacted.",
+          "sourceIds": [
+            "cr-s2018"
+          ]
+        },
+        {
+          "date": "2019-12-20",
+          "status": "Effective",
+          "event": "One-year delayed effective date.",
+          "sourceIds": [
+            "cr-s2018",
+            "cr-scode2156"
+          ]
+        },
+        {
+          "date": "2021-01-14",
+          "status": "Upheld",
+          "event": "Hernández-Gotay rejected Commerce Clause and individual-rights challenges.",
+          "sourceIds": [
+            "cr-shernandez"
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "status": "Codified",
+          "event": "Current Code retains removal of the exceptions.",
+          "sourceIds": [
+            "cr-scode2156"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cr-s2018",
+        "cr-scode2156",
+        "cr-shernandez"
+      ],
+      "claimIds": [
+        "cr-c2018",
+        "cr-chernandez"
+      ]
+    },
+    {
+      "area": "Cross-cutting",
+      "outcomeEvidence": "implementation",
+      "confidence": "moderate",
+      "confidenceReason": "High confidence in legal text; selected enforcement records establish use, but no credible estimate of change in national animal suffering was identified.",
+      "id": "cr-pact-2019",
+      "title": "Preventing Animal Cruelty and Torture (PACT) Act",
+      "species": [
+        "Mammals",
+        "Birds",
+        "Reptiles",
+        "Amphibians"
+      ],
+      "administrations": [
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2019-11-25",
+      "status": "In force; Code verified through October 9, 2026",
+      "summary": "Added a federal offense for specified purposeful serious harm independent of making an obscene video.",
+      "changed": "Expanded §48 from video offenses to qualifying conduct itself.",
+      "afterward": "DOJ reports conduct convictions including Scott (2021) and Brown (reported October 2026), and video prosecutions including Herrera (2023).",
+      "attribution": "Congress enacted the bipartisan legislation and Trump signed it. Enforcement continued across administrations; post-2019 video cases also rely on the earlier statutory lineage.",
+      "unknown": "National deterrence, prevalence, rescued-animal totals, and causal suffering reduction.",
+      "mechanism": "Prosecute purposeful serious harm with the required federal connection.",
+      "coverage": "Living non-human mammals, birds, reptiles, and amphibians; interstate/foreign-commerce nexus or special federal jurisdiction. Fish and invertebrates are outside the definition.",
+      "exceptions": "Normal animal management/agriculture/veterinary practices, food slaughter, hunting/fishing and listed sports/pest control, research, protection of life/property, euthanasia, accidental conduct, and other statutory qualifications.",
+      "contributors": [
+        {
+          "institution": "Congress and President Trump",
+          "role": "Enactment and signing."
+        },
+        {
+          "institution": "DOJ, federal and local investigators",
+          "role": "Case-specific enforcement across administrations."
+        },
+        {
+          "institution": "Courts",
+          "role": "Adjudication and sentencing."
+        }
+      ],
+      "history": [
+        {
+          "date": "2019-11-25",
+          "status": "Enacted",
+          "event": "P.L.116-72 added the conduct offense.",
+          "sourceIds": [
+            "cr-s2019"
+          ]
+        },
+        {
+          "date": "2021-11-10",
+          "status": "Selected enforcement report",
+          "event": "DOJ reported Scott's 30-month sentence.",
+          "sourceIds": [
+            "cr-sscott"
+          ]
+        },
+        {
+          "date": "2023-12-20",
+          "status": "Selected enforcement",
+          "event": "Herrera sentenced for video-related conduct.",
+          "sourceIds": [
+            "cr-sherrera"
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "status": "Selected enforcement report",
+          "event": "DOJ reported Brown's 60-month sentence.",
+          "sourceIds": [
+            "cr-sbrown"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cr-s2019",
+        "cr-scode48",
+        "cr-sscott",
+        "cr-sherrera",
+        "cr-sbrown"
+      ],
+      "claimIds": [
+        "cr-c2019",
+        "cr-cpactscope",
+        "cr-cscott",
+        "cr-cherrera",
+        "cr-cbrown"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cr-s1999",
+      "title": "Public Law 106-152: Depiction of animal cruelty",
+      "publisher": "U.S. Congress / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ152/html/PLAW-106publ152.htm",
+      "publicationDate": "1999-12-09",
+      "accessDate": "2026-10-19",
+      "locator": "§1; 113 Stat. 1732",
+      "evidenceType": "statute",
+      "limitations": "Historical law; invalidated in Stevens and replaced in 2010.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-sstevens",
+      "title": "United States v. Stevens, 559 U.S. 460 (2010)",
+      "publisher": "Supreme Court of the United States / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-559/pdf/USREPORTS-559-460.pdf",
+      "publicationDate": "2010-04-20",
+      "accessDate": "2026-10-19",
+      "locator": "pp. 460–482; case history at pp. 466–467; holding at pp. 481–482",
+      "evidenceType": "judicial opinion",
+      "limitations": "Constitutional adjudication, not an animal-welfare impact study.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-s2007",
+      "title": "Animal Fighting Prohibition Enforcement Act of 2007, Public Law 110-22",
+      "publisher": "U.S. Congress / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-110publ22/html/PLAW-110publ22.htm",
+      "publicationDate": "2007-05-03",
+      "accessDate": "2026-10-19",
+      "locator": "§§2–3; 121 Stat. 88–89",
+      "evidenceType": "statute",
+      "limitations": "Original three-year penalty was increased in 2008.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-s2008",
+      "title": "Food, Conservation, and Energy Act of 2008, Public Law 110-246",
+      "publisher": "U.S. Congress / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-110publ246/html/PLAW-110publ246.htm",
+      "publicationDate": "2008-06-18",
+      "accessDate": "2026-10-19",
+      "locator": "§14207, 122 Stat. 2223–2224; §4; veto-override certification, 122 Stat. 2312–2313",
+      "evidenceType": "statute",
+      "limitations": "Omnibus law; veto concerned the bill as a whole, not proof of opposition to this animal provision.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-s2010",
+      "title": "Animal Crush Video Prohibition Act of 2010, Public Law 111-294",
+      "publisher": "U.S. Congress / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ294/html/PLAW-111publ294.htm",
+      "publicationDate": "2010-12-09",
+      "accessDate": "2026-10-19",
+      "locator": "§§2–3; 124 Stat. 3177–3179",
+      "evidenceType": "statute",
+      "limitations": "Congressional findings express the legislative rationale; they are not measured causal effects.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-s2014",
+      "title": "Agricultural Act of 2014, Public Law 113-79",
+      "publisher": "U.S. Congress / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ79/html/PLAW-113publ79.htm",
+      "publicationDate": "2014-02-07",
+      "accessDate": "2026-10-19",
+      "locator": "§12308(b); 128 Stat. 990–991",
+      "evidenceType": "statute",
+      "limitations": "This entry addresses the spectator provision, not the entire farm bill.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-s2018",
+      "title": "Agriculture Improvement Act of 2018, Public Law 115-334",
+      "publisher": "U.S. Congress / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ334/html/PLAW-115publ334.htm",
+      "publicationDate": "2018-12-20",
+      "accessDate": "2026-10-19",
+      "locator": "§12616(a)–(e); 132 Stat. 5015–5016",
+      "evidenceType": "statute",
+      "limitations": "Effective one year after enactment; does not measure compliance.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-s2019",
+      "title": "Preventing Animal Cruelty and Torture Act, Public Law 116-72",
+      "publisher": "U.S. Congress / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ72/html/PLAW-116publ72.htm",
+      "publicationDate": "2019-11-25",
+      "accessDate": "2026-10-19",
+      "locator": "§2; 133 Stat. 1151–1152",
+      "evidenceType": "statute",
+      "limitations": "Narrow defined federal offense with jurisdictional elements and exceptions, not a universal cruelty ban.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-scode48",
+      "title": "18 U.S.C. §48: Animal crushing",
+      "publisher": "Office of the Law Revision Counsel, U.S. House of Representatives",
+      "url": "https://uscode.house.gov/us/usc/119-121/t18/s48/",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "§48(a)–(f); currency statement through P.L.119-121 (2026-10-09)",
+      "evidenceType": "current codified law",
+      "limitations": "Code currency is October 9, 2026, ten days before research cutoff.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-scode49",
+      "title": "18 U.S.C. §49: Enforcement of animal fighting prohibitions",
+      "publisher": "Office of the Law Revision Counsel, U.S. House of Representatives",
+      "url": "https://uscode.house.gov/us/usc/119-121/t18/s49/",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "§49(a)–(c); editorial and effective-date notes; currency through P.L.119-121 (2026-10-09)",
+      "evidenceType": "current codified law",
+      "limitations": "Code currency is October 9, 2026; statutory maximums are not typical or mandatory sentences.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-scode2156",
+      "title": "7 U.S.C. §2156: Animal fighting venture prohibition",
+      "publisher": "Office of the Law Revision Counsel, U.S. House of Representatives",
+      "url": "https://uscode.house.gov/us/usc/119-121/t7/s2156/",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "§2156(a)–(i); amendment/effective-date notes; currency through P.L.119-121 (2026-10-09)",
+      "evidenceType": "current codified law",
+      "limitations": "Code currency is October 9, 2026; legal coverage differs from prevalence or enforcement.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-sjustice",
+      "title": "United States v. Brent Justice, No. 16-20554",
+      "publisher": "U.S. Court of Appeals for the Fifth Circuit",
+      "url": "https://www.ca5.uscourts.gov/opinions/unpub/16/16-20554.0.pdf",
+      "publicationDate": "2017-11-20",
+      "accessDate": "2026-10-19",
+      "locator": "pp. 1–3; USDC No.4:12-CR-731-2",
+      "evidenceType": "judicial opinion",
+      "limitations": "Unpublished opinion with limited precedential status; independently documents appellate disposition.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-shernandez",
+      "title": "Hernández-Gotay v. United States, Nos.19-2236 and 20-1084",
+      "publisher": "U.S. Court of Appeals for the First Circuit",
+      "url": "https://media.ca1.uscourts.gov/pdf.opinions/19-2236P-01A.pdf",
+      "publicationDate": "2021-01-14",
+      "accessDate": "2026-10-19",
+      "locator": "pp. 4–7, 11–18",
+      "evidenceType": "judicial opinion",
+      "limitations": "Pre-enforcement constitutional challenge; not a count of prosecuted fights or animal outcomes.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-sscott",
+      "title": "Kokomo Resident Sentenced for Animal Crushing",
+      "publisher": "U.S. Attorney's Office, Southern District of Indiana",
+      "url": "https://www.justice.gov/usao-sdin/pr/kokomo-resident-sentenced-animal-crushing",
+      "publicationDate": "2021-11-10",
+      "accessDate": "2026-10-19",
+      "locator": "body paragraphs 1–4 and final paragraph; updated 2024-02-26",
+      "evidenceType": "agency case release",
+      "limitations": "Agency-reported disposition; judgment not separately retrieved. Exact animal count not reported.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-sherrera",
+      "title": "Wisconsin Man Sentenced to a Year in Prison for Violating the Preventing Animal Cruelty and Torture Act",
+      "publisher": "U.S. Department of Justice, Office of Public Affairs",
+      "url": "https://www.justice.gov/archives/opa/pr/wisconsin-man-sentenced-year-prison-violating-preventing-animal-cruelty-and-torture-act",
+      "publicationDate": "2023-12-21",
+      "accessDate": "2026-10-19",
+      "locator": "body paragraphs 1–3; release 23-1466",
+      "evidenceType": "agency case release",
+      "limitations": "Video-offense case; does not by itself establish use of the newly added conduct offense. Judgment not retrieved.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-sbrown",
+      "title": "Orangeburg Man Sentenced to 5 Years in Federal Prison for Burning Puppy Alive in S.C.'s First PACT Act Prosecution",
+      "publisher": "U.S. Attorney's Office, District of South Carolina",
+      "url": "https://www.justice.gov/usao-sc/pr/orangeburg-man-sentenced-5-years-federal-prison-burning-puppy-alive-scs-first-pact-act",
+      "publicationDate": "2026-10-15",
+      "accessDate": "2026-10-19",
+      "locator": "body paragraphs 1–3 and sentencing paragraph",
+      "evidenceType": "agency case release",
+      "limitations": "Reported by prosecuting agency; district's first case is not the first nationwide. Docket/judgment and appeal status not independently retrieved.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-sanderson",
+      "title": "Three Defendants Sentenced to Prison in Multi-State Dog Fighting Conspiracy",
+      "publisher": "U.S. Department of Justice, Office of Public Affairs",
+      "url": "https://www.justice.gov/archives/opa/pr/three-defendants-sentenced-prison-multi-state-dog-fighting-conspiracy",
+      "publicationDate": "2021-10-07",
+      "accessDate": "2026-10-19",
+      "locator": "Anderson sentencing paragraph; release 21-976",
+      "evidenceType": "agency case release",
+      "limitations": "Release describes three defendants; curated record below selects Anderson alone and must not count the whole release as a second case.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-sanderson-bulletin",
+      "title": "Environmental Crimes Section Monthly Bulletin, November 2021",
+      "publisher": "U.S. Department of Justice, Environment and Natural Resources Division",
+      "url": "https://www.justice.gov/d9/pages/attachments/2022/02/02/november_2021_bulletin_redacted_0.pdf",
+      "publicationDate": "2021-11",
+      "accessDate": "2026-10-19",
+      "locator": "p.20, United States v. Odell S. Anderson, Sr., et al.",
+      "evidenceType": "agency case bulletin",
+      "limitations": "Same agency as press release, not independent corroboration; lists case-number range, not defendant-specific mapping.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-sgray",
+      "title": "Lexington County Man Sentenced to Federal Prison for Dogfighting",
+      "publisher": "U.S. Attorney's Office, District of South Carolina",
+      "url": "https://www.justice.gov/usao-sc/pr/lexington-county-man-sentenced-federal-prison-dogfighting",
+      "publicationDate": "2025-11-19",
+      "accessDate": "2026-10-19",
+      "locator": "opening, seizure, and sentencing paragraphs",
+      "evidenceType": "agency case release",
+      "limitations": "Mixed animal-fighting and firearms conviction. Sentence cannot be assigned solely to animal-fighting law; judgment not retrieved.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-sussc800",
+      "title": "Amendment 800: Animal fighting offenses",
+      "publisher": "United States Sentencing Commission",
+      "url": "https://www.ussc.gov/guidelines/amendment/800",
+      "publicationDate": "2016",
+      "accessDate": "2026-10-19",
+      "locator": "Reason for Amendment, Higher Penalties; New Offenses; Effective Date",
+      "evidenceType": "official sentencing analysis",
+      "limitations": "Pooled FY2011–2014 sentenced-offender sample, not all incidents or prosecutions. Changes in sentencing do not measure animal suffering.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    },
+    {
+      "id": "cr-s2010actions",
+      "title": "H.R.5566, 111th Congress: All Actions",
+      "publisher": "Congress.gov / Library of Congress",
+      "url": "https://www.congress.gov/bill/111th-congress/house-bill/5566/all-actions",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "2010-12-09 signed by President and became law entries",
+      "evidenceType": "legislative history",
+      "limitations": "Legislative process establishes enactment, not implementation or impact.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary official source inspected directly; not represented as external independent verification."
+    }
+  ],
+  "claims": [
+    {
+      "id": "cr-c1999",
+      "policyId": "cr-depiction-1999",
+      "claim": "The 1999 law added a commercial-depiction offense with a five-year maximum and a serious-value exception.",
+      "sourceIds": [
+        "cr-s1999"
+      ],
+      "locator": "§1",
+      "evidenceType": "legal text",
+      "confidence": "high",
+      "limitations": "Does not establish reduced cruelty.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-cstevens",
+      "policyId": "cr-depiction-1999",
+      "claim": "On April 20, 2010, the Supreme Court held the 1999 §48 substantially overbroad under the First Amendment, affirming vacatur of Stevens's conviction.",
+      "sourceIds": [
+        "cr-sstevens"
+      ],
+      "locator": "559 U.S.460, 467, 481–482",
+      "evidenceType": "judicial outcome",
+      "confidence": "high",
+      "limitations": "Invalidation concerned the depiction statute, not permission to commit underlying cruelty.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-c2007",
+      "policyId": "cr-fighting-2007",
+      "claim": "P.L.110-22 established felony penalties up to three years and prohibited interstate/foreign trade in bird-fighting sharp implements.",
+      "sourceIds": [
+        "cr-s2007"
+      ],
+      "locator": "§§2–3",
+      "evidenceType": "legal text",
+      "confidence": "high",
+      "limitations": "The original penalty is historical and was replaced in 2008.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-cfighting-current",
+      "policyId": "cr-fighting-2007",
+      "claim": "Current federal animal-fighting statutes retain the equipment prohibition; ordinary covered violations carry up to five years, attendance up to one, and causing under-16 attendance up to three.",
+      "sourceIds": [
+        "cr-scode2156",
+        "cr-scode49"
+      ],
+      "locator": "§2156(d); §49(a)–(c)",
+      "evidenceType": "current legal status",
+      "confidence": "high",
+      "limitations": "Code verified through October 9, 2026; maximums do not describe actual sentences.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-c2008",
+      "policyId": "cr-fighting-2008",
+      "claim": "The 2008 amendment added possession/training offenses, expanded the commerce formulation, and increased the maximum to five years; the corrected enactment operates from May 22, 2008.",
+      "sourceIds": [
+        "cr-s2008",
+        "cr-scode2156",
+        "cr-scode49"
+      ],
+      "locator": "§14207; current Code effective-date notes",
+      "evidenceType": "legal text",
+      "confidence": "high",
+      "limitations": "Does not isolate incremental deterrent effect.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-c2008-veto",
+      "policyId": "cr-fighting-2008",
+      "claim": "Congress enacted P.L.110-246 over George W. Bush's veto on June 18, 2008; describing this as a presidential signing is incorrect.",
+      "sourceIds": [
+        "cr-s2008"
+      ],
+      "locator": "122 Stat.2312–2313, veto-override certifications",
+      "evidenceType": "legislative history",
+      "confidence": "high",
+      "limitations": "An omnibus veto does not establish the president's position on this individual provision.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-cussc",
+      "policyId": "cr-fighting-2008",
+      "claim": "Amendment 800 raised the ordinary animal-fighting base offense level from 10 to 16, effective November 1, 2016. Its pooled FY2011–2014 sample contained 74 offenders at base level 10; 31.0% received above-range sentences.",
+      "sourceIds": [
+        "cr-sussc800"
+      ],
+      "locator": "Higher Penalties for Animal Fighting Venture Offenses; Effective Date",
+      "evidenceType": "official sentencing analysis",
+      "confidence": "high",
+      "limitations": "Selected sentenced-offender population; no untreated comparator for animal-welfare effects; not an annual series.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-c2010",
+      "policyId": "cr-crush-video-2010",
+      "claim": "The 2010 rewrite limited covered animal-crush videos to obscene depictions, with commerce-related creation/distribution offenses, exceptions, and a seven-year maximum.",
+      "sourceIds": [
+        "cr-s2010"
+      ],
+      "locator": "§3, replacing 18 U.S.C.§48",
+      "evidenceType": "legal text",
+      "confidence": "high",
+      "limitations": "Legislative findings about incentives are not causal evaluation.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-cjustice",
+      "policyId": "cr-crush-video-2010",
+      "claim": "In 2017 the Fifth Circuit acquitted Brent Justice on one video-creation count for lack of the required obscenity element and affirmed the other three convictions.",
+      "sourceIds": [
+        "cr-sjustice"
+      ],
+      "locator": "pp.1–3",
+      "evidenceType": "judicial outcome",
+      "confidence": "high",
+      "limitations": "Unpublished decision; one count's reversal did not require resentencing because concurrent terms were identical.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-c2014",
+      "policyId": "cr-spectators-2014",
+      "claim": "The 2014 farm bill made knowing attendance at a covered animal fight punishable by up to one year and causing a child under 16 to attend punishable by up to three years.",
+      "sourceIds": [
+        "cr-s2014",
+        "cr-scode49"
+      ],
+      "locator": "§12308(b); §49(b)–(c)",
+      "evidenceType": "legal text",
+      "confidence": "high",
+      "limitations": "The child threshold is under 16.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-canderson",
+      "policyId": "cr-spectators-2014",
+      "claim": "DOJ reported Anderson's October 6, 2021 sentences of 18 months each for conspiracy and causing under-16 attendance, served concurrently.",
+      "sourceIds": [
+        "cr-sanderson-bulletin",
+        "cr-sanderson"
+      ],
+      "locator": "Bulletin p.20; release Anderson paragraph",
+      "evidenceType": "agency-reported implementation",
+      "confidence": "moderate",
+      "limitations": "Both records are DOJ publications; judgment and subsequent supervision outcomes not independently obtained.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-c2018",
+      "policyId": "cr-territories-2018",
+      "claim": "The 2018 law removed remaining live-bird local-law exceptions effective December 20, 2019, including exceptions important in U.S. territories.",
+      "sourceIds": [
+        "cr-s2018",
+        "cr-scode2156"
+      ],
+      "locator": "§12616; current Code amendment/effective-date notes",
+      "evidenceType": "legal text",
+      "confidence": "high",
+      "limitations": "Existing prohibitions on attendance and other activities predated this extension.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-chernandez",
+      "policyId": "cr-territories-2018",
+      "claim": "The First Circuit upheld challenged application of the territorial extension to Puerto Rico on January 14, 2021.",
+      "sourceIds": [
+        "cr-shernandez"
+      ],
+      "locator": "pp.4, 11–18",
+      "evidenceType": "judicial outcome",
+      "confidence": "high",
+      "limitations": "A constitutional decision is not evidence of compliance or reduced suffering.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-c2019",
+      "policyId": "cr-pact-2019",
+      "claim": "PACT added §48(a)(1), a purposeful animal-crushing conduct offense with a federal jurisdictional connection; video offenses remain separately defined.",
+      "sourceIds": [
+        "cr-s2019",
+        "cr-scode48"
+      ],
+      "locator": "§2; §48(a),(f)",
+      "evidenceType": "legal text",
+      "confidence": "high",
+      "limitations": "Only video offenses require obscenity; do not transfer that requirement to the conduct offense.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-cpactscope",
+      "policyId": "cr-pact-2019",
+      "claim": "PACT covers the enumerated mammals, birds, reptiles and amphibians, with substantial activity exceptions; it does not criminalize all animal cruelty or all harmful agriculture/research practices.",
+      "sourceIds": [
+        "cr-s2019",
+        "cr-scode48"
+      ],
+      "locator": "§48(d),(f)",
+      "evidenceType": "legal scope",
+      "confidence": "high",
+      "limitations": "Exceptions and jurisdictional elements require case-specific interpretation. Fish/invertebrates are not enumerated.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-cscott",
+      "policyId": "cr-pact-2019",
+      "claim": "DOJ reported Krystal Scott's conviction under §48(a), 30 months' imprisonment, and five years' supervised release in November 2021.",
+      "sourceIds": [
+        "cr-sscott"
+      ],
+      "locator": "opening, conviction, and final paragraphs",
+      "evidenceType": "agency-reported implementation",
+      "confidence": "moderate",
+      "limitations": "Primary sentencing judgment and precise subsection/animal count not retrieved.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-cherrera",
+      "policyId": "cr-pact-2019",
+      "claim": "DOJ reported Kenneth Herrera's December 20, 2023 sentence of 12 months and one day, three years of supervision, and $5,000 fine for video-related offenses.",
+      "sourceIds": [
+        "cr-sherrera"
+      ],
+      "locator": "opening three paragraphs",
+      "evidenceType": "agency-reported implementation",
+      "confidence": "moderate",
+      "limitations": "A post-PACT video case is not proof that the newly added conduct offense was necessary.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-cbrown",
+      "policyId": "cr-pact-2019",
+      "claim": "DOJ reported in October 2026 that Desmond Brown received 60 months' imprisonment and three years' supervision for animal crushing; the supervision conditions bar animal possession.",
+      "sourceIds": [
+        "cr-sbrown"
+      ],
+      "locator": "opening and sentencing paragraphs",
+      "evidenceType": "agency-reported implementation",
+      "confidence": "moderate",
+      "limitations": "Release date is October 15, 2026; exact judgment date and appeal status were not separately verified.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "cr-cgray",
+      "policyId": "cr-fighting-2008",
+      "claim": "DOJ reported Gray's 2025 guilty plea and 15-month sentence for a dogfighting venture and unlawful firearm possession; 14 dogs were seized.",
+      "sourceIds": [
+        "cr-sgray"
+      ],
+      "locator": "opening, seizure, sentencing paragraphs",
+      "evidenceType": "agency-reported implementation",
+      "confidence": "moderate",
+      "limitations": "Mixed offenses; seizure is an intervention count, not final rehabilitation/adoption outcomes or a causal estimate.",
+      "independentlyVerified": false
+    }
+  ],
+  "observations": [
+    {
+      "id": "cr-ob-ussc-n",
+      "dataset": "USSC Amendment 800 sentencing analysis",
+      "series": "Pooled FY2011–FY2014 offenders receiving base offense level 10 under §2E3.1",
+      "year": 2014,
+      "periodType": "fiscal",
+      "value": 74,
+      "unit": "sentenced offenders (four-year pooled sample)",
+      "denominator": null,
+      "denominatorDescription": "Selected offenders receiving this base offense level, not national animal-abuse incidents.",
+      "sourceId": "cr-sussc800",
+      "locator": "Reason for Amendment, Higher Penalties, paragraph beginning 'In making this change'",
+      "notes": "2014 is period-ending year. This is FY2011–2014 combined, not an FY2014 observation or annual time-series point.",
+      "status": "observed"
+    },
+    {
+      "id": "cr-ob-ussc-above",
+      "dataset": "USSC Amendment 800 sentencing analysis",
+      "series": "Above-guideline-range sentence share, pooled FY2011–FY2014 selected animal-fighting offenders",
+      "year": 2014,
+      "periodType": "fiscal",
+      "value": 31,
+      "unit": "percent",
+      "denominator": 74,
+      "denominatorDescription": "Offenders with base offense level 10 under §2E3.1 during FY2011–FY2014.",
+      "sourceId": "cr-sussc800",
+      "locator": "Reason for Amendment, Higher Penalties, paragraph beginning 'In making this change'",
+      "notes": "Reported percentage; no inferred integer numerator. Four-year pooled period; cannot show policy deterrence or changes in cruelty prevalence.",
+      "status": "observed"
+    }
+  ],
+  "cases": [
+    {
+      "id": "cr-case-stevens",
+      "policyId": "cr-depiction-1999",
+      "caseName": "United States v. Robert J. Stevens",
+      "court": "Supreme Court of the United States; underlying W.D. Pennsylvania",
+      "docket": "08-769; underlying 2:04-cr-00051-ANB",
+      "date": "2010-04-20",
+      "recordUnit": "defendant",
+      "statute": "18 U.S.C. §48 (1999 version)",
+      "disposition": "Three trial convictions were vacated by the Third Circuit; Supreme Court affirmed invalidation.",
+      "defendants": 1,
+      "animals": null,
+      "penalty": "Original concurrent 37-month sentences and three years' supervised release were attached to the vacated convictions.",
+      "followup": "2010 replacement statute enacted; this case is a failed conviction, not a successful enforcement outcome.",
+      "sourceIds": [
+        "cr-sstevens"
+      ],
+      "limitations": "Animal suffering prevented cannot be inferred; sale-of-depictions prosecution, not a conviction for the underlying fights."
+    },
+    {
+      "id": "cr-case-justice",
+      "policyId": "cr-crush-video-2010",
+      "caseName": "United States v. Brent Justice",
+      "court": "U.S. Court of Appeals for the Fifth Circuit; underlying S.D. Texas",
+      "docket": "16-20554; underlying 4:12-CR-731-2",
+      "date": "2017-11-20",
+      "recordUnit": "defendant",
+      "statute": "18 U.S.C. §48 (2010 version)",
+      "disposition": "Three video-related convictions affirmed; one video-creation conviction vacated with judgment of acquittal.",
+      "defendants": 1,
+      "animals": null,
+      "penalty": "57-month concurrent terms; opinion reports 14 months after credit for related state custody.",
+      "followup": "No resentencing required after reversal of one count; opinion is unpublished.",
+      "sourceIds": [
+        "cr-sjustice"
+      ],
+      "limitations": "Do not report all four original convictions as upheld, combine federal/state penalties, or treat sentence as an animal-welfare outcome."
+    },
+    {
+      "id": "cr-case-anderson",
+      "policyId": "cr-spectators-2014",
+      "caseName": "United States v. Odell S. Anderson, Sr.",
+      "court": "U.S. District Court for the Eastern District of Virginia",
+      "docket": null,
+      "date": "2021-10-06",
+      "recordUnit": "defendant",
+      "statute": "7 U.S.C. §2156(a)(2)(B); 18 U.S.C. §§49 and 371",
+      "disposition": "Guilty plea to dogfighting conspiracy and causing a child under 16 to attend.",
+      "defendants": 1,
+      "animals": null,
+      "penalty": "18 months on each count, concurrently; three years' supervised release.",
+      "followup": "Agency reports sentence; completion, recidivism, and animal placement not established.",
+      "sourceIds": [
+        "cr-sanderson",
+        "cr-sanderson-bulletin"
+      ],
+      "limitations": "Bulletin gives Nos.3:21-CR-00023–00026 for multi-defendant group without mapping a specific docket to Anderson; left null. Do not add the concurrent terms."
+    },
+    {
+      "id": "cr-case-scott",
+      "policyId": "cr-pact-2019",
+      "caseName": "United States v. Krystal Cherika Scott",
+      "court": "U.S. District Court for the Southern District of Indiana",
+      "docket": null,
+      "date": "2021-11-10",
+      "recordUnit": "defendant",
+      "statute": "18 U.S.C. §48(a), as reported by DOJ",
+      "disposition": "Found guilty; sentenced for animal crushing.",
+      "defendants": 1,
+      "animals": null,
+      "penalty": "DOJ reports 30 months' imprisonment and five years' supervised release.",
+      "followup": "Release was updated February 26, 2024; no independently retrieved post-sentence record.",
+      "sourceIds": [
+        "cr-sscott"
+      ],
+      "limitations": "Date denotes sentencing-report publication. Judgment not obtained, including verification of reported supervised-release term. Exact number of animals not supplied."
+    },
+    {
+      "id": "cr-case-herrera",
+      "policyId": "cr-pact-2019",
+      "caseName": "United States v. Kenneth J. Herrera",
+      "court": "U.S. District Court for the Western District of Wisconsin",
+      "docket": null,
+      "date": "2023-12-20",
+      "recordUnit": "defendant",
+      "statute": "18 U.S.C. §48 video provisions; release describes PACT Act",
+      "disposition": "Guilty plea for creating, selling and distributing an animal-crushing video, as described by DOJ.",
+      "defendants": 1,
+      "animals": 1,
+      "penalty": "12 months and one day imprisonment; three years' supervised release; $5,000 fine.",
+      "followup": "No completed supervision or recidivism outcome retrieved.",
+      "sourceIds": [
+        "cr-sherrera"
+      ],
+      "limitations": "One monkey is described in the charged video, not a total case-victim census. A video case cannot establish incremental effect of PACT's new conduct offense."
+    },
+    {
+      "id": "cr-case-gray",
+      "policyId": "cr-fighting-2008",
+      "caseName": "United States v. Samuel Alexander Gray",
+      "court": "U.S. District Court for the District of South Carolina",
+      "docket": null,
+      "date": "2025-11-19",
+      "recordUnit": "defendant",
+      "statute": "Animal-fighting venture and felon-in-possession offenses; release omits exact statutory subsections",
+      "disposition": "Guilty plea and sentence reported.",
+      "defendants": 1,
+      "animals": 14,
+      "penalty": "15 months imprisonment; three years' supervision with no dog ownership.",
+      "followup": "Dogs were seized following September 2023 investigation; final animal disposition not reported.",
+      "sourceIds": [
+        "cr-sgray"
+      ],
+      "limitations": "Date denotes sentencing-report publication. Mixed firearm/fighting sentence cannot be attributed solely to animal-fighting law. Fourteen denotes seized dogs, not all harmed animals."
+    },
+    {
+      "id": "cr-case-brown",
+      "policyId": "cr-pact-2019",
+      "caseName": "United States v. Desmond Levon Brown",
+      "court": "U.S. District Court for the District of South Carolina",
+      "docket": null,
+      "date": "2026-10-15",
+      "recordUnit": "defendant",
+      "statute": "18 U.S.C. §48 animal-crushing offense; release labels prosecution under PACT",
+      "disposition": "Sentence reported for purposeful killing of a puppy by burning.",
+      "defendants": 1,
+      "animals": 1,
+      "penalty": "60 months imprisonment; three years' supervision prohibiting animal ownership or possession.",
+      "followup": "Latest reviewed report October 15, 2026; appeal and sentence completion unknown.",
+      "sourceIds": [
+        "cr-sbrown"
+      ],
+      "limitations": "Date is release date, not independently verified judgment date. Agency's 'first PACT case' claim applies to South Carolina district, not the nation."
+    }
+  ],
+  "gaps": [
+    {
+      "id": "cr-gap-causal",
+      "topic": "Effect on suffering and deterrence",
+      "detail": "Targeted searches for evaluations of the 1999 depiction law, 2007/2008 fighting laws, 2010 video law, 2014 attendance provision, 2018 territorial expansion, and the animal PACT Act did not identify a credible national causal estimate. This is a search result, not proof no study exists.",
+      "neededData": "Repeatable measures of harm/prevalence, enforcement intensity, controls/counterfactual design, displacement and reporting changes.",
+      "impact": "Do not claim the laws reduced cruelty by a measured amount, or infer ineffectiveness from missing evaluations."
+    },
+    {
+      "id": "cr-gap-national-census",
+      "topic": "National criminal enforcement denominator",
+      "detail": "Selected DOJ releases and court opinions are not a census. Cases, defendants, charges, seizures, and sentences are different units; multi-statute prosecutions complicate attribution.",
+      "neededData": "Deduplicated docket-linked national data by statute/subsection, filing and disposition dates, dismissals, convictions, and outcomes.",
+      "impact": "No annual prosecution/conviction chart or presidential ranking can be built from these selected records."
+    },
+    {
+      "id": "cr-gap-freshness",
+      "topic": "Legal and 2026 data freshness",
+      "detail": "Research cutoff is October 19, 2026. Official Code text retrieved for §§48,49 and 7 USC2156 states currency through October 9, 2026. Latest selected agency report is October 15, 2026; this is not complete-year coverage.",
+      "neededData": "Refresh Code and any intervening session laws and court decisions after October 9; obtain full-year 2026 data when published.",
+      "impact": "Describe status as verified through source currency; avoid claiming complete 2026 legal or enforcement coverage."
+    },
+    {
+      "id": "cr-gap-followup",
+      "topic": "Actual outcomes for seized animals",
+      "detail": "Gray release reports 14 dogs seized but no verified rehabilitation, adoption, euthanasia, or long-term welfare follow-up. Other selected records have incomplete victim counts.",
+      "neededData": "Court forfeiture orders, shelter intake/disposition and veterinary follow-up linked to each case.",
+      "impact": "Seizure is an intervention measure; it cannot be converted into animals saved or suffering avoided."
+    },
+    {
+      "id": "cr-gap-pact-attribution",
+      "topic": "Attribution of post-2019 video prosecutions",
+      "detail": "§48 video offenses predate PACT. Herrera's 2023 video case illustrates implementation of the current statute but does not isolate what the 2019 conduct offense newly enabled.",
+      "neededData": "Charging instruments, judgments, offense subsections and legal counterfactual analysis.",
+      "impact": "Do not credit every post-2019 cruelty or video prosecution to the PACT expansion."
+    },
+    {
+      "id": "cr-gap-access",
+      "topic": "Source retrieval and validation",
+      "detail": "Legacy uscode.house.gov view.xhtml endpoints returned page-not-found/maintenance; CDN requests sometimes timed out. New /us/usc/119-121/ routes resolved current Code. Original Supreme Court slip-opinion link failed; official GovInfo U.S. Reports version was used.",
+      "neededData": "Archive retrieved documents and hashes; refresh working endpoints. Obtain sentencing judgments for agency-only case records.",
+      "impact": "Current source links are recorded; primary legal opinions are available, but case releases remain agency claims rather than independent case audits."
+    }
+  ]
+}

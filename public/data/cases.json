@@ -1,0 +1,216 @@
+[
+  {
+    "id": "cv-case-nrdc",
+    "policyId": "cv-policy-mbta",
+    "caseName": "Natural Resources Defense Council, Inc. v. U.S. Department of the Interior",
+    "court": "U.S. District Court, Southern District of New York",
+    "docket": "1:18-cv-04596-VEC",
+    "date": "2020-08-11",
+    "recordUnit": "case",
+    "statute": "MBTA; Administrative Procedure Act",
+    "disposition": "M-37050 vacated and remanded.",
+    "defendants": null,
+    "animals": null,
+    "penalty": "Not applicable: administrative judicial review, not a criminal animal count.",
+    "followup": "Appeal dismissed March 2, 2021 at government's request; 2025 DOI memorandum preserves an SDNY exception.",
+    "sourceIds": [
+      "cv-mbta-nrdc",
+      "cv-mbta-m37065",
+      "cv-mbta-m37085"
+    ],
+    "limitations": "Selected precedent; no prosecution, animal total, or national case census."
+  },
+  {
+    "id": "cr-case-stevens",
+    "policyId": "cr-depiction-1999",
+    "caseName": "United States v. Robert J. Stevens",
+    "court": "Supreme Court of the United States; underlying W.D. Pennsylvania",
+    "docket": "08-769; underlying 2:04-cr-00051-ANB",
+    "date": "2010-04-20",
+    "recordUnit": "defendant",
+    "statute": "18 U.S.C. §48 (1999 version)",
+    "disposition": "Three trial convictions were vacated by the Third Circuit; Supreme Court affirmed invalidation.",
+    "defendants": 1,
+    "animals": null,
+    "penalty": "Original concurrent 37-month sentences and three years' supervised release were attached to the vacated convictions.",
+    "followup": "2010 replacement statute enacted; this case is a failed conviction, not a successful enforcement outcome.",
+    "sourceIds": [
+      "cr-sstevens"
+    ],
+    "limitations": "Animal suffering prevented cannot be inferred; sale-of-depictions prosecution, not a conviction for the underlying fights."
+  },
+  {
+    "id": "cr-case-justice",
+    "policyId": "cr-crush-video-2010",
+    "caseName": "United States v. Brent Justice",
+    "court": "U.S. Court of Appeals for the Fifth Circuit; underlying S.D. Texas",
+    "docket": "16-20554; underlying 4:12-CR-731-2",
+    "date": "2017-11-20",
+    "recordUnit": "defendant",
+    "statute": "18 U.S.C. §48 (2010 version)",
+    "disposition": "Three video-related convictions affirmed; one video-creation conviction vacated with judgment of acquittal.",
+    "defendants": 1,
+    "animals": null,
+    "penalty": "57-month concurrent terms; opinion reports 14 months after credit for related state custody.",
+    "followup": "No resentencing required after reversal of one count; opinion is unpublished.",
+    "sourceIds": [
+      "cr-sjustice"
+    ],
+    "limitations": "Do not report all four original convictions as upheld, combine federal/state penalties, or treat sentence as an animal-welfare outcome."
+  },
+  {
+    "id": "cr-case-anderson",
+    "policyId": "cr-spectators-2014",
+    "caseName": "United States v. Odell S. Anderson, Sr.",
+    "court": "U.S. District Court for the Eastern District of Virginia",
+    "docket": null,
+    "date": "2021-10-06",
+    "recordUnit": "defendant",
+    "statute": "7 U.S.C. §2156(a)(2)(B); 18 U.S.C. §§49 and 371",
+    "disposition": "Guilty plea to dogfighting conspiracy and causing a child under 16 to attend.",
+    "defendants": 1,
+    "animals": null,
+    "penalty": "18 months on each count, concurrently; three years' supervised release.",
+    "followup": "Agency reports sentence; completion, recidivism, and animal placement not established.",
+    "sourceIds": [
+      "cr-sanderson",
+      "cr-sanderson-bulletin"
+    ],
+    "limitations": "Bulletin gives Nos.3:21-CR-00023–00026 for multi-defendant group without mapping a specific docket to Anderson; left null. Do not add the concurrent terms."
+  },
+  {
+    "id": "cr-case-scott",
+    "policyId": "cr-pact-2019",
+    "caseName": "United States v. Krystal Cherika Scott",
+    "court": "U.S. District Court for the Southern District of Indiana",
+    "docket": null,
+    "date": "2021-11-10",
+    "recordUnit": "defendant",
+    "statute": "18 U.S.C. §48(a), as reported by DOJ",
+    "disposition": "Found guilty; sentenced for animal crushing.",
+    "defendants": 1,
+    "animals": null,
+    "penalty": "DOJ reports 30 months' imprisonment and five years' supervised release.",
+    "followup": "Release was updated February 26, 2024; no independently retrieved post-sentence record.",
+    "sourceIds": [
+      "cr-sscott"
+    ],
+    "limitations": "Date denotes sentencing-report publication. Judgment not obtained, including verification of reported supervised-release term. Exact number of animals not supplied."
+  },
+  {
+    "id": "cr-case-herrera",
+    "policyId": "cr-pact-2019",
+    "caseName": "United States v. Kenneth J. Herrera",
+    "court": "U.S. District Court for the Western District of Wisconsin",
+    "docket": null,
+    "date": "2023-12-20",
+    "recordUnit": "defendant",
+    "statute": "18 U.S.C. §48 video provisions; release describes PACT Act",
+    "disposition": "Guilty plea for creating, selling and distributing an animal-crushing video, as described by DOJ.",
+    "defendants": 1,
+    "animals": 1,
+    "penalty": "12 months and one day imprisonment; three years' supervised release; $5,000 fine.",
+    "followup": "No completed supervision or recidivism outcome retrieved.",
+    "sourceIds": [
+      "cr-sherrera"
+    ],
+    "limitations": "One monkey is described in the charged video, not a total case-victim census. A video case cannot establish incremental effect of PACT's new conduct offense."
+  },
+  {
+    "id": "cr-case-gray",
+    "policyId": "cr-fighting-2008",
+    "caseName": "United States v. Samuel Alexander Gray",
+    "court": "U.S. District Court for the District of South Carolina",
+    "docket": null,
+    "date": "2025-11-19",
+    "recordUnit": "defendant",
+    "statute": "Animal-fighting venture and felon-in-possession offenses; release omits exact statutory subsections",
+    "disposition": "Guilty plea and sentence reported.",
+    "defendants": 1,
+    "animals": 14,
+    "penalty": "15 months imprisonment; three years' supervision with no dog ownership.",
+    "followup": "Dogs were seized following September 2023 investigation; final animal disposition not reported.",
+    "sourceIds": [
+      "cr-sgray"
+    ],
+    "limitations": "Date denotes sentencing-report publication. Mixed firearm/fighting sentence cannot be attributed solely to animal-fighting law. Fourteen denotes seized dogs, not all harmed animals."
+  },
+  {
+    "id": "cr-case-brown",
+    "policyId": "cr-pact-2019",
+    "caseName": "United States v. Desmond Levon Brown",
+    "court": "U.S. District Court for the District of South Carolina",
+    "docket": null,
+    "date": "2026-10-15",
+    "recordUnit": "defendant",
+    "statute": "18 U.S.C. §48 animal-crushing offense; release labels prosecution under PACT",
+    "disposition": "Sentence reported for purposeful killing of a puppy by burning.",
+    "defendants": 1,
+    "animals": 1,
+    "penalty": "60 months imprisonment; three years' supervision prohibiting animal ownership or possession.",
+    "followup": "Latest reviewed report October 15, 2026; appeal and sentence completion unknown.",
+    "sourceIds": [
+      "cr-sbrown"
+    ],
+    "limitations": "Date is release date, not independently verified judgment date. Agency's 'first PACT case' claim applies to South Carolina district, not the nation."
+  },
+  {
+    "id": "em-hsus-usda-2022",
+    "policyId": "em-policy-hpa",
+    "caseName": "Humane Society of the United States v. United States Department of Agriculture",
+    "court": "U.S. Court of Appeals for the D.C. Circuit",
+    "docket": "20-5291",
+    "date": "2022-07-22",
+    "recordUnit": "case",
+    "statute": "Administrative Procedure Act; Horse Protection Act rulemaking",
+    "disposition": "Reversed and remanded; withdrawal of a rule made available for public inspection required notice and comment.",
+    "defendants": null,
+    "animals": null,
+    "penalty": "No criminal sentence or animal-count finding; regulatory judicial review.",
+    "followup": "USDA conducted notice-and-comment withdrawal in 2023 and finalized a replacement rule in 2024.",
+    "sourceIds": [
+      "em-hpacourt2022",
+      "em-hpawithdraw"
+    ],
+    "limitations": "Procedural decision, not a conviction or measured reduction in soring."
+  },
+  {
+    "id": "em-tennessee-hpa-2025",
+    "policyId": "em-policy-hpa",
+    "caseName": "Tennessee Walking Horse National Celebration Association et al. v. United States Department of Agriculture et al.",
+    "court": "U.S. District Court for the Northern District of Texas",
+    "docket": "2:24-cv-00143",
+    "date": "2025-01-31",
+    "recordUnit": "case",
+    "statute": "Horse Protection Act; Administrative Procedure Act",
+    "disposition": "Partly vacated the 2024 rule, including specified equipment/substance prohibitions, dermatologic criteria and review provisions; inspector-system replacement survived.",
+    "defendants": null,
+    "animals": null,
+    "penalty": "No criminal penalty; regulatory vacatur.",
+    "followup": "USDA's January 2026 rule postponed the main non-vacated amendments until December 31, 2026; §11.19 training authorization was already effective June 7, 2024.",
+    "sourceIds": [
+      "em-hpadelay2026"
+    ],
+    "limitations": "Disposition verified through USDA's subsequent Federal Register account; district-court opinion was not independently retrieved. Do not count as animal-cruelty enforcement."
+  },
+  {
+    "id": "rw-case-chimp",
+    "policyId": "rw-chimp",
+    "caseName": "Humane Society of the United States et al. v. National Institutes of Health et al.",
+    "court": "U.S. District Court for the District of Maryland",
+    "docket": "21-cv-00121-LKG",
+    "date": "2023-02-09",
+    "recordUnit": "case",
+    "statute": "CHIMP Act; administrative review",
+    "disposition": "Vacated NIH's Alamogordo transfer-ineligibility decision and remanded; required compliance with statutory sanctuary acceptance.",
+    "defendants": null,
+    "animals": null,
+    "penalty": "No criminal penalty; administrative-law relief.",
+    "followup": "Chimp Haven reports receiving all remaining Alamogordo chimpanzees in 2025; individual transfer records not audited here.",
+    "sourceIds": [
+      "rw-s-chimp-court",
+      "rw-s-chimp-haven"
+    ],
+    "limitations": "Civil judicial review, not animal-cruelty prosecution. No assumption that court alone caused later transfers."
+  }
+]

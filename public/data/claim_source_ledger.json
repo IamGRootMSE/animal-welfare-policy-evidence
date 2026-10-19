@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "cv-esa-c1",
+    "policyId": "cv-policy-esa",
+    "claim": "Sweet Home upheld the earlier habitat-related harm definition; the 2026 rescission is an agency action, not a Supreme Court reversal of that decision.",
+    "sourceIds": [
+      "cv-esa-sweethome",
+      "cv-esa-harm2026"
+    ],
+    "locator": "515 U.S.687 majority; 91 FR43300 Background",
+    "evidenceType": "Judicial opinion and final rule",
+    "confidence": "high",
+    "limitations": "Does not resolve later challenges to the rescission.",
+    "independentlyVerified": true
+  },
+  {
+    "id": "cv-esa-c2",
+    "policyId": "cv-policy-esa",
+    "claim": "The 2024 rules revised portions of the 2019 listing and consultation framework and restored the FWS blanket protection option. They did not repeal every 2019 provision.",
+    "sourceIds": [
+      "cv-esa-list2024",
+      "cv-esa-consult2024",
+      "cv-esa-4d2026"
+    ],
+    "locator": "2024 rules Background; 91 FR45724",
+    "evidenceType": "Primary legal records",
+    "confidence": "high",
+    "limitations": "Framework changes do not themselves establish improved welfare.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cv-esa-c3",
+    "policyId": "cv-policy-esa",
+    "claim": "The April 2025 harm proposal became a July 14, 2026 final rule, effective September 14. It removes regulatory definitions, while harm remains in the statutory definition of take.",
+    "sourceIds": [
+      "cv-esa-harm2026"
+    ],
+    "locator": "91 FR43300 Dates and Background; final amendments",
+    "evidenceType": "Final rule",
+    "confidence": "high",
+    "limitations": "Judicial interpretation and enforcement remain material; no claim that all habitat destruction became lawful.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cv-esa-c4",
+    "policyId": "cv-policy-esa",
+    "claim": "Effective August 20, 2026, FWS removed the future blanket-rule option, preserving existing threatened-species protections. Species-specific rules remain available; removal does not mean every newly threatened species lacks protection.",
+    "sourceIds": [
+      "cv-esa-4d2026"
+    ],
+    "locator": "91 FR45723–45725; final §§17.31,17.71",
+    "evidenceType": "Final rule",
+    "confidence": "high",
+    "limitations": "FWS rule, not a change to NMFS's separate threatened-species program.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cv-esa-c5",
+    "policyId": "cv-policy-esa",
+    "claim": "The 2026 critical-habitat exclusion procedure is final; separate listing and consultation revisions are still described as proposals on the current FWS status page.",
+    "sourceIds": [
+      "cv-esa-habitat2026",
+      "cv-esa-status"
+    ],
+    "locator": "91 FR45662 Dates; status page Final Rules / Proposed Rules",
+    "evidenceType": "Final rule and agency status page",
+    "confidence": "moderate",
+    "limitations": "Status-page freshness and later court orders require continued checking.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cv-mbta-c1",
+    "policyId": "cv-policy-mbta",
+    "claim": "Obama's January 2017 opinion endorsed incidental-take coverage. Trump I reversed the interpretation, and the Southern District of New York vacated that opinion in August 2020.",
+    "sourceIds": [
+      "cv-mbta-nrdc",
+      "cv-mbta-jan2021"
+    ],
+    "locator": "Court opinion background and conclusion; 86 FR1134",
+    "evidenceType": "Judicial opinion and agency rule",
+    "confidence": "high",
+    "limitations": "Circuit interpretations differ; this is not a Supreme Court holding.",
+    "independentlyVerified": true
+  },
+  {
+    "id": "cv-mbta-c2",
+    "policyId": "cv-policy-mbta",
+    "claim": "Trump I's January 2021 regulation excluded incidental take. Biden revoked it effective December 3, 2021, returning to incidental-take coverage subject to judicial precedent and enforcement discretion.",
+    "sourceIds": [
+      "cv-mbta-jan2021",
+      "cv-mbta-revoke2021"
+    ],
+    "locator": "86 FR1134; 86 FR54642–54643",
+    "evidenceType": "Final rules",
+    "confidence": "high",
+    "limitations": "No standardized mortality counterfactual is established by these rules.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cv-mbta-c3",
+    "policyId": "cv-policy-mbta",
+    "claim": "M-37085 reinstates the 2017 exclusion interpretation as binding within DOI, except actions relying on it within the Southern District of New York's jurisdiction.",
+    "sourceIds": [
+      "cv-mbta-m37085"
+    ],
+    "locator": "Final paragraph",
+    "evidenceType": "Solicitor memorandum",
+    "confidence": "high",
+    "limitations": "Agency interpretation does not amend the statute or settle conflicting judicial interpretations.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cv-mbta-c4",
+    "policyId": "cv-policy-mbta",
+    "claim": "Trump II withdrew the 2021 advance notice for incidental-take authorization; FWS's May 2026 presentation also reports rescission of Director's Order 225.",
+    "sourceIds": [
+      "cv-mbta-withdraw2025",
+      "cv-mbta-status2026"
+    ],
+    "locator": "90 FR16664; presentation slide1",
+    "evidenceType": "Withdrawal notice and agency implementation report",
+    "confidence": "high",
+    "limitations": "The advance notice was a rulemaking initiative, not an operational general permit program.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "ct-c1",
+    "policyId": "ct-nibrs",
+    "claim": "FBI began collecting a distinct animal-cruelty category in NIBRS on January 1, 2016.",
+    "sourceIds": [
+      "ct-fbi2016"
+    ],
+    "locator": "Opening paragraphs",
+    "evidenceType": "Implementation",
+    "confidence": "high",
+    "limitations": "Captures reporting to participating police agencies, not all cruelty.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "ct-c2",
+    "policyId": "ct-nibrs",
+    "claim": "Population coverage of agencies reporting at least one month grew from 33.9% in 2017 to 87.3% in 2024; these are general NIBRS coverage figures.",
+    "sourceIds": [
+      "ct-bjs2024"
+    ],
+    "locator": "Appendix Table16 p.32",
+    "evidenceType": "Administrative measurement",
+    "confidence": "high",
+    "limitations": "Not a stable cohort or a denominator of animals; cannot establish cruelty trends.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "ct-c3",
+    "policyId": "ct-nibrs",
+    "claim": "NIBRS cruelty records do not describe individual animal victims, and some participating agencies may not report animal cruelty.",
+    "sourceIds": [
+      "ct-nibrs-study"
+    ],
+    "locator": "Data and Methods",
+    "evidenceType": "Peer-reviewed measurement assessment",
+    "confidence": "high",
+    "limitations": "Study assesses 2020 data; does not estimate current missingness.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "ct-c4",
+    "policyId": "ct-pets-policy",
+    "claim": "PETS required planning for household pets and service animals and authorized related emergency assistance.",
+    "sourceIds": [
+      "ct-pets",
+      "ct-fema"
+    ],
+    "locator": "PETS §§2–4; FEMA p.81",
+    "evidenceType": "Legal and implementation",
+    "confidence": "high",
+    "limitations": "No comparable survival or reunification series assembled.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "ct-c5",
+    "policyId": null,
+    "claim": "A study published in 2000 reported that 20 of 22 audited slaughter plants rendered all observed cattle insensible before hoisting.",
+    "sourceIds": [
+      "ct-grandin"
+    ],
+    "locator": "Abstract results",
+    "evidenceType": "Observed animal outcome",
+    "confidence": "moderate",
+    "limitations": "Plant pass count, not share of all US cattle; private audit sample, no causal presidential attribution.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-c1999",
+    "policyId": "cr-depiction-1999",
+    "claim": "The 1999 law added a commercial-depiction offense with a five-year maximum and a serious-value exception.",
+    "sourceIds": [
+      "cr-s1999"
+    ],
+    "locator": "§1",
+    "evidenceType": "legal text",
+    "confidence": "high",
+    "limitations": "Does not establish reduced cruelty.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-cstevens",
+    "policyId": "cr-depiction-1999",
+    "claim": "On April 20, 2010, the Supreme Court held the 1999 §48 substantially overbroad under the First Amendment, affirming vacatur of Stevens's conviction.",
+    "sourceIds": [
+      "cr-sstevens"
+    ],
+    "locator": "559 U.S.460, 467, 481–482",
+    "evidenceType": "judicial outcome",
+    "confidence": "high",
+    "limitations": "Invalidation concerned the depiction statute, not permission to commit underlying cruelty.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-c2007",
+    "policyId": "cr-fighting-2007",
+    "claim": "P.L.110-22 established felony penalties up to three years and prohibited interstate/foreign trade in bird-fighting sharp implements.",
+    "sourceIds": [
+      "cr-s2007"
+    ],
+    "locator": "§§2–3",
+    "evidenceType": "legal text",
+    "confidence": "high",
+    "limitations": "The original penalty is historical and was replaced in 2008.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-cfighting-current",
+    "policyId": "cr-fighting-2007",
+    "claim": "Current federal animal-fighting statutes retain the equipment prohibition; ordinary covered violations carry up to five years, attendance up to one, and causing under-16 attendance up to three.",
+    "sourceIds": [
+      "cr-scode2156",
+      "cr-scode49"
+    ],
+    "locator": "§2156(d); §49(a)–(c)",
+    "evidenceType": "current legal status",
+    "confidence": "high",
+    "limitations": "Code verified through October 9, 2026; maximums do not describe actual sentences.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-c2008",
+    "policyId": "cr-fighting-2008",
+    "claim": "The 2008 amendment added possession/training offenses, expanded the commerce formulation, and increased the maximum to five years; the corrected enactment operates from May 22, 2008.",
+    "sourceIds": [
+      "cr-s2008",
+      "cr-scode2156",
+      "cr-scode49"
+    ],
+    "locator": "§14207; current Code effective-date notes",
+    "evidenceType": "legal text",
+    "confidence": "high",
+    "limitations": "Does not isolate incremental deterrent effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-c2008-veto",
+    "policyId": "cr-fighting-2008",
+    "claim": "Congress enacted P.L.110-246 over George W. Bush's veto on June 18, 2008; describing this as a presidential signing is incorrect.",
+    "sourceIds": [
+      "cr-s2008"
+    ],
+    "locator": "122 Stat.2312–2313, veto-override certifications",
+    "evidenceType": "legislative history",
+    "confidence": "high",
+    "limitations": "An omnibus veto does not establish the president's position on this individual provision.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-cussc",
+    "policyId": "cr-fighting-2008",
+    "claim": "Amendment 800 raised the ordinary animal-fighting base offense level from 10 to 16, effective November 1, 2016. Its pooled FY2011–2014 sample contained 74 offenders at base level 10; 31.0% received above-range sentences.",
+    "sourceIds": [
+      "cr-sussc800"
+    ],
+    "locator": "Higher Penalties for Animal Fighting Venture Offenses; Effective Date",
+    "evidenceType": "official sentencing analysis",
+    "confidence": "high",
+    "limitations": "Selected sentenced-offender population; no untreated comparator for animal-welfare effects; not an annual series.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-c2010",
+    "policyId": "cr-crush-video-2010",
+    "claim": "The 2010 rewrite limited covered animal-crush videos to obscene depictions, with commerce-related creation/distribution offenses, exceptions, and a seven-year maximum.",
+    "sourceIds": [
+      "cr-s2010"
+    ],
+    "locator": "§3, replacing 18 U.S.C.§48",
+    "evidenceType": "legal text",
+    "confidence": "high",
+    "limitations": "Legislative findings about incentives are not causal evaluation.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-cjustice",
+    "policyId": "cr-crush-video-2010",
+    "claim": "In 2017 the Fifth Circuit acquitted Brent Justice on one video-creation count for lack of the required obscenity element and affirmed the other three convictions.",
+    "sourceIds": [
+      "cr-sjustice"
+    ],
+    "locator": "pp.1–3",
+    "evidenceType": "judicial outcome",
+    "confidence": "high",
+    "limitations": "Unpublished decision; one count's reversal did not require resentencing because concurrent terms were identical.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-c2014",
+    "policyId": "cr-spectators-2014",
+    "claim": "The 2014 farm bill made knowing attendance at a covered animal fight punishable by up to one year and causing a child under 16 to attend punishable by up to three years.",
+    "sourceIds": [
+      "cr-s2014",
+      "cr-scode49"
+    ],
+    "locator": "§12308(b); §49(b)–(c)",
+    "evidenceType": "legal text",
+    "confidence": "high",
+    "limitations": "The child threshold is under 16.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-canderson",
+    "policyId": "cr-spectators-2014",
+    "claim": "DOJ reported Anderson's October 6, 2021 sentences of 18 months each for conspiracy and causing under-16 attendance, served concurrently.",
+    "sourceIds": [
+      "cr-sanderson-bulletin",
+      "cr-sanderson"
+    ],
+    "locator": "Bulletin p.20; release Anderson paragraph",
+    "evidenceType": "agency-reported implementation",
+    "confidence": "moderate",
+    "limitations": "Both records are DOJ publications; judgment and subsequent supervision outcomes not independently obtained.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-c2018",
+    "policyId": "cr-territories-2018",
+    "claim": "The 2018 law removed remaining live-bird local-law exceptions effective December 20, 2019, including exceptions important in U.S. territories.",
+    "sourceIds": [
+      "cr-s2018",
+      "cr-scode2156"
+    ],
+    "locator": "§12616; current Code amendment/effective-date notes",
+    "evidenceType": "legal text",
+    "confidence": "high",
+    "limitations": "Existing prohibitions on attendance and other activities predated this extension.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-chernandez",
+    "policyId": "cr-territories-2018",
+    "claim": "The First Circuit upheld challenged application of the territorial extension to Puerto Rico on January 14, 2021.",
+    "sourceIds": [
+      "cr-shernandez"
+    ],
+    "locator": "pp.4, 11–18",
+    "evidenceType": "judicial outcome",
+    "confidence": "high",
+    "limitations": "A constitutional decision is not evidence of compliance or reduced suffering.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-c2019",
+    "policyId": "cr-pact-2019",
+    "claim": "PACT added §48(a)(1), a purposeful animal-crushing conduct offense with a federal jurisdictional connection; video offenses remain separately defined.",
+    "sourceIds": [
+      "cr-s2019",
+      "cr-scode48"
+    ],
+    "locator": "§2; §48(a),(f)",
+    "evidenceType": "legal text",
+    "confidence": "high",
+    "limitations": "Only video offenses require obscenity; do not transfer that requirement to the conduct offense.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-cpactscope",
+    "policyId": "cr-pact-2019",
+    "claim": "PACT covers the enumerated mammals, birds, reptiles and amphibians, with substantial activity exceptions; it does not criminalize all animal cruelty or all harmful agriculture/research practices.",
+    "sourceIds": [
+      "cr-s2019",
+      "cr-scode48"
+    ],
+    "locator": "§48(d),(f)",
+    "evidenceType": "legal scope",
+    "confidence": "high",
+    "limitations": "Exceptions and jurisdictional elements require case-specific interpretation. Fish/invertebrates are not enumerated.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-cscott",
+    "policyId": "cr-pact-2019",
+    "claim": "DOJ reported Krystal Scott's conviction under §48(a), 30 months' imprisonment, and five years' supervised release in November 2021.",
+    "sourceIds": [
+      "cr-sscott"
+    ],
+    "locator": "opening, conviction, and final paragraphs",
+    "evidenceType": "agency-reported implementation",
+    "confidence": "moderate",
+    "limitations": "Primary sentencing judgment and precise subsection/animal count not retrieved.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-cherrera",
+    "policyId": "cr-pact-2019",
+    "claim": "DOJ reported Kenneth Herrera's December 20, 2023 sentence of 12 months and one day, three years of supervision, and $5,000 fine for video-related offenses.",
+    "sourceIds": [
+      "cr-sherrera"
+    ],
+    "locator": "opening three paragraphs",
+    "evidenceType": "agency-reported implementation",
+    "confidence": "moderate",
+    "limitations": "A post-PACT video case is not proof that the newly added conduct offense was necessary.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-cbrown",
+    "policyId": "cr-pact-2019",
+    "claim": "DOJ reported in October 2026 that Desmond Brown received 60 months' imprisonment and three years' supervision for animal crushing; the supervision conditions bar animal possession.",
+    "sourceIds": [
+      "cr-sbrown"
+    ],
+    "locator": "opening and sentencing paragraphs",
+    "evidenceType": "agency-reported implementation",
+    "confidence": "moderate",
+    "limitations": "Release date is October 15, 2026; exact judgment date and appeal status were not separately verified.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "cr-cgray",
+    "policyId": "cr-fighting-2008",
+    "claim": "DOJ reported Gray's 2025 guilty plea and 15-month sentence for a dogfighting venture and unlawful firearm possession; 14 dogs were seized.",
+    "sourceIds": [
+      "cr-sgray"
+    ],
+    "locator": "opening, seizure, sentencing paragraphs",
+    "evidenceType": "agency-reported implementation",
+    "confidence": "moderate",
+    "limitations": "Mixed offenses; seizure is an intervention count, not final rehabilitation/adoption outcomes or a causal estimate.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-awa-output",
+    "policyId": "em-policy-awa-oversight",
+    "claim": "APHIS reported 17 initiated AWA investigative cases in FY2019, 262 in each of FY2022 and FY2023, and 240 in FY2025. These are administrative outputs, not counts of abused animals or estimates of deterrence.",
+    "sourceIds": [
+      "em-budget2019",
+      "em-budget2022",
+      "em-budget2023",
+      "em-ies2025"
+    ],
+    "locator": "Animal Welfare / Animal Care enforcement sections",
+    "evidenceType": "agency administrative data",
+    "confidence": "moderate",
+    "limitations": "Cases initiated, warnings, orders and inspections differ in grain and time lag. FY2021 and FY2025 straddle administrations. No animal-exposure denominator. The CRS 2022 summary differs from the fiscal budget totals and remains unreconciled.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-awa-data",
+    "policyId": "em-policy-awa-oversight",
+    "claim": "OIG found unreliable ACIS queries and inadequately addressed or documented responses for 145 of 322 dog-breeder complaints reviewed from FY2017–FY2019. APHIS replaced ACIS in September 2020 and agreed to control improvements.",
+    "sourceIds": [
+      "em-oig2021"
+    ],
+    "locator": "Findings 1–2, printed pp.3–8",
+    "evidenceType": "independent audit",
+    "confidence": "high",
+    "limitations": "The audit could not evaluate actual breeder compliance because COVID-19 limited fieldwork; documentation failure is not proof that every complaint was ignored.",
+    "independentlyVerified": true
+  },
+  {
+    "id": "em-awa-inspections",
+    "policyId": "em-policy-awa-oversight",
+    "claim": "Reported AWA inspections fell from 9,326 in FY2019 to 5,620 in pandemic FY2020, then reached 10,595 in FY2022. Licensed/registered entity counts changed substantially; inspections may revisit an entity.",
+    "sourceIds": [
+      "em-budget2019",
+      "em-budget2020",
+      "em-budget2021",
+      "em-budget2022"
+    ],
+    "locator": "Animal Welfare annual activities",
+    "evidenceType": "agency administrative data",
+    "confidence": "moderate",
+    "limitations": "Counts are activity, not the fraction of unique facilities inspected; eFile transition and virtual inspections complicate comparability.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-ars-inspections",
+    "policyId": "em-policy-awa-oversight",
+    "claim": "The budget notes also give a consistent five-year series for inspections of USDA Agricultural Research Service facilities: 47, 48, 49, 59 and 56 for FY2019–FY2023, against 38, 38, 38, 39 and 43 registered facilities.",
+    "sourceIds": [
+      "em-budget2019",
+      "em-budget2020",
+      "em-budget2021",
+      "em-budget2022",
+      "em-budget2023"
+    ],
+    "locator": "Animal Welfare; Agricultural Research Service facilities",
+    "evidenceType": "agency administrative data",
+    "confidence": "moderate",
+    "limitations": "A narrow federal research subset, not all AWA facilities; repeated inspections mean visits per facility, not inspection coverage.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-transparency-change",
+    "policyId": "em-policy-transparency",
+    "claim": "USDA removed public database access in February 2017. Congress subsequently required a searchable AWA database in P.L.116-94 (7 USC 2146a), and APHIS launched it in September 2020.",
+    "sourceIds": [
+      "em-crsawa"
+    ],
+    "locator": "Public Database",
+    "evidenceType": "congressional research",
+    "confidence": "high",
+    "limitations": "The access change is verified; its net effect on animal abuse was not measured.",
+    "independentlyVerified": true
+  },
+  {
+    "id": "em-transparency-current",
+    "policyId": "em-policy-transparency",
+    "claim": "APHIS currently advertises searchable licensee/registrant records, inspection reports, research annual reports and enforcement records.",
+    "sourceIds": [
+      "em-searchtool"
+    ],
+    "locator": "USDA Animal Care Public Search Tool; modified 2025-11-17",
+    "evidenceType": "implementation",
+    "confidence": "high",
+    "limitations": "Availability is not proof of completeness or consistent historical redaction.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-retail-rule",
+    "policyId": "em-policy-retail2013",
+    "claim": "The Obama-era 2013 rule narrowed the retail-pet-store exemption to transactions with buyer, seller and animal physically present, bringing otherwise covered sight-unseen sellers under licensing and inspection. It also expanded the small-breeder exemption from three to four breeding females.",
+    "sourceIds": [
+      "em-retail2013"
+    ],
+    "locator": "78 FR 57227–57228; 9 CFR 1.1 and 2.1",
+    "evidenceType": "final regulation",
+    "confidence": "high",
+    "limitations": "Not every internet seller is covered; qualifying small breeders and in-person sellers remain exempt. Forecasted coverage is not actual enforcement.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-dogs-rule",
+    "policyId": "em-policy-dogs2020",
+    "claim": "Trump I's 2020 rule replaced annual license renewal with a compliance demonstration for a new three-year license and strengthened dog-care standards, including continuously available potable water and veterinary-care requirements.",
+    "sourceIds": [
+      "em-license2020"
+    ],
+    "locator": "85 FR 28772; 9 CFR parts 2–3",
+    "evidenceType": "final regulation",
+    "confidence": "high",
+    "limitations": "Licensing applies to regulated dealers and exhibitors, not all dog owners; minimum standards do not quantify welfare effects.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-dogs-implementation",
+    "policyId": "em-policy-dogs2020",
+    "claim": "APHIS reported 1,485 relicense inspections in FY2023 and completion of the three-year transition in September 2023. Its 2026 guidance still specifies continuous potable water for regulated dogs.",
+    "sourceIds": [
+      "em-budget2023",
+      "em-watercurrent"
+    ],
+    "locator": "FY2025 explanatory notes Animal Welfare; 9 CFR 3.10 guidance",
+    "evidenceType": "implementation",
+    "confidence": "high",
+    "limitations": "Inspection activity confirms implementation under Biden, not that all dogs received improved care.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-hpa-detection",
+    "policyId": "em-policy-hpa",
+    "claim": "In each FY2017–FY2022, DQPs recorded more performance-horse noncompliances per inspected entry at events with APHIS present than without it. FY2022 ratios were 219/3,220 and 174/9,746; these do not establish fractions of unique noncompliant horses.",
+    "sourceIds": [
+      "em-hpa2023"
+    ],
+    "locator": "88 FR 56929, Table 1",
+    "evidenceType": "agency administrative data",
+    "confidence": "moderate",
+    "limitations": "APHIS event selection and entry selection are not random; the groups may overlap. Includes violations beyond soring and is not a causal estimate of monitoring.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-hpa-sore",
+    "policyId": "em-policy-hpa",
+    "claim": "APHIS reported 78 recorded sore noncompliances per 1,556 inspected entries in FY2018 and 525 per 2,740 in FY2023. These detection ratios cannot establish population prevalence or the number of unique sore horses.",
+    "sourceIds": [
+      "em-hpa2024"
+    ],
+    "locator": "89 FR 39197–39198, Tables 1–2",
+    "evidenceType": "agency administrative data",
+    "confidence": "moderate",
+    "limitations": "Selected entries, not unique horses; two-veterinarian confirmation requirement was removed in 2021. This series includes referrals omitted from event-activity summaries.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-hpa-procedure",
+    "policyId": "em-policy-hpa",
+    "claim": "After the 2017 rule was withdrawn before publication, the D.C. Circuit held in 2022 that withdrawal after public inspection required notice and comment. Biden's USDA formally withdrew it in 2023 while developing a replacement.",
+    "sourceIds": [
+      "em-hpacourt2022",
+      "em-hpawithdraw"
+    ],
+    "locator": "No.20-5291 holding; 88 FR 74336",
+    "evidenceType": "judicial decision and final regulation",
+    "confidence": "high",
+    "limitations": "Procedural ruling did not measure outcomes or itself implement the 2017 protections.",
+    "independentlyVerified": true
+  },
+  {
+    "id": "em-hpa-status",
+    "policyId": "em-policy-hpa",
+    "claim": "Biden's May 2024 rule sought to replace industry DQPs with APHIS-authorized inspectors. Section 11.19 training authorization took effect June 7, 2024. Following partial January 2025 vacatur, Trump II postponed the main surviving amendments to December 31, 2026; APHIS's October 2026 page reports training paused.",
+    "sourceIds": [
+      "em-hpa2024",
+      "em-hpadelay2026",
+      "em-hpacurrent"
+    ],
+    "locator": "89 FR 39194; 91 FR 3633–3635; HPA Final Rule Postponement",
+    "evidenceType": "final regulation and current implementation",
+    "confidence": "high",
+    "limitations": "The main delayed amendments take effect after the cutoff; §11.19 is already effective. Do not describe the entire rule as either implemented or not effective, or infer prevented soring.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-organic-cycle",
+    "policyId": "em-policy-organic",
+    "claim": "Obama's January 2017 OLPP standards were withdrawn by Trump I in March 2018. Biden's November 2023 OLPS rule reinstated and revised federal organic livestock/poultry husbandry standards.",
+    "sourceIds": [
+      "em-organic2018",
+      "em-organic2023"
+    ],
+    "locator": "83 FR 10775; 88 FR 75394 background and 7 CFR 205.238–242",
+    "evidenceType": "final regulation",
+    "confidence": "high",
+    "limitations": "Applies through voluntary USDA organic certification, not a universal farm-welfare law.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-organic-dates",
+    "policyId": "em-policy-organic",
+    "claim": "OLPS became effective January 12, 2024. Most compliance was due January 2, 2025; specified requirements for existing poultry operations run to January 2, 2029. A September 2026 AMS collection notice still describes OLPS administration.",
+    "sourceIds": [
+      "em-organiccurrent",
+      "em-organic2026"
+    ],
+    "locator": "Effective/Compliance Dates; September 25, 2026 notice",
+    "evidenceType": "implementation",
+    "confidence": "high",
+    "limitations": "Legal deadlines and ongoing administration do not establish actual compliance or animal outcomes; transition remains incomplete.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-downer-rule",
+    "policyId": "em-policy-downer2009",
+    "claim": "The 2009 final rule requires condemnation of cattle that become non-ambulatory after ante-mortem inspection, closing an exception left by the 2004 rule. USDA proposed the change in 2008 and finalized it under Obama.",
+    "sourceIds": [
+      "em-downer2009"
+    ],
+    "locator": "74 FR 11463–11464; 9 CFR 309.3(e)",
+    "evidenceType": "final regulation",
+    "confidence": "high",
+    "limitations": "Official slaughter establishments; not a farm-wide ban, not a rule for every livestock species. Food-safety and welfare purposes overlap.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-downer-current",
+    "policyId": "em-policy-downer2009",
+    "claim": "FSIS's current ante-mortem directive maintains the non-ambulatory-cattle rule but notes a distinct custom-slaughter situation for cattle becoming disabled after delivery and otherwise eligible for human food.",
+    "sourceIds": [
+      "em-antemortem"
+    ],
+    "locator": "Directive 6100.1 Revision 3; Background and custom slaughter",
+    "evidenceType": "implementation",
+    "confidence": "high",
+    "limitations": "Custom exemption must not be mistaken for a general exception at inspected commercial slaughter plants.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-veal-rule",
+    "policyId": "em-policy-veal2016",
+    "claim": "Obama's 2016 rule removed the option of holding non-ambulatory veal calves for rest and warming to see whether they recovered. It requires prompt humane euthanasia; implementation began September 16, 2016.",
+    "sourceIds": [
+      "em-veal2016"
+    ],
+    "locator": "81 FR 46570; 9 CFR 309.13",
+    "evidenceType": "final regulation",
+    "confidence": "high",
+    "limitations": "Eliminates a handling incentive, but the reviewed sources do not supply a national pre/post causal evaluation.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-fsis-resource",
+    "policyId": "em-policy-humane-slaughter",
+    "claim": "GAO reported humane-handling enforcement resources of 110, 124, 121, 157 and 157 FTEs in FY2005–FY2009. Congressional minimums were 63, 63, no requirement, 83 and 120.",
+    "sourceIds": [
+      "em-gao2010"
+    ],
+    "locator": "GAO-10-203, Table 2",
+    "evidenceType": "independent audit",
+    "confidence": "high",
+    "limitations": "FTEs are allocated time, not a dedicated staff headcount or a controlled explanation of welfare changes.",
+    "independentlyVerified": true
+  },
+  {
+    "id": "em-fsis-audit",
+    "policyId": "em-policy-humane-slaughter",
+    "claim": "GAO found inconsistent enforcement and knowledge gaps concerning signs of sensibility, alongside higher recorded resources. The audit recommended stronger guidance, training and oversight; FSIS disputed some findings.",
+    "sourceIds": [
+      "em-gao2010"
+    ],
+    "locator": "Highlights; enforcement findings; Appendix IV",
+    "evidenceType": "independent audit",
+    "confidence": "high",
+    "limitations": "Historical audit; does not establish current conditions or that additional staff caused better outcomes.",
+    "independentlyVerified": true
+  },
+  {
+    "id": "em-fsis-letters",
+    "policyId": "em-policy-humane-slaughter",
+    "claim": "A peer-reviewed review found 293 posted humane-handling enforcement actions in 2018–2020; 251 concerned stunning and 233 involved suspending or reinstating suspension of inspection pending corrective action.",
+    "sourceIds": [
+      "em-hheastudy"
+    ],
+    "locator": "Results; Tables 1–3",
+    "evidenceType": "peer-reviewed observational study",
+    "confidence": "high",
+    "limitations": "Letters measure detected events and regulatory responses, not unique animals or all violations; repeat actions can concern the same establishment.",
+    "independentlyVerified": true
+  },
+  {
+    "id": "em-nsis-change",
+    "policyId": "em-policy-nsis",
+    "claim": "Trump I's 2019 NSIS rule allowed voluntary swine-inspection changes and removed the 1,106-head-per-hour maximum. A 2021 court decision vacated the line-speed provision for inadequate consideration of worker-safety comments; it did not find animal-welfare effects.",
+    "sourceIds": [
+      "em-nsis2019",
+      "em-nsis2026"
+    ],
+    "locator": "84 FR 52300; 91 FR 7905–7907 background",
+    "evidenceType": "regulation and judicial history",
+    "confidence": "high",
+    "limitations": "Other NSIS provisions continued; worker-safety findings must not be relabeled animal-welfare results.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-nsis-trial",
+    "policyId": "em-policy-nsis",
+    "claim": "The 2026 proposal reports that six Time-Limited Trial plants had 11 humane-handling noncompliance records across 25,821 verification tasks from each waiver's start through February 28, 2025, with none classified egregious.",
+    "sourceIds": [
+      "em-nsis2026"
+    ],
+    "locator": "Humane Handling Verification",
+    "evidenceType": "agency administrative data",
+    "confidence": "moderate",
+    "limitations": "Selected participants, pooled periods, task-level denominator, agency classification and no control group. This is not the percentage of pigs treated inhumanely.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-nsis-status",
+    "policyId": "em-policy-nsis",
+    "claim": "Trump II proposed restoring unlimited NSIS line speeds, conditional on process control, on February 19, 2026. The latest verified August 5 agency update says comments were under review.",
+    "sourceIds": [
+      "em-nsis2026",
+      "em-nsisstatus"
+    ],
+    "locator": "91 FR 7905; Latest Regulatory and Program Updates",
+    "evidenceType": "proposed regulation",
+    "confidence": "high",
+    "limitations": "No final rule was identified in this research; the August update alone cannot exclude a later action before the cutoff.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "em-hpa-recent-activity",
+    "policyId": "em-policy-hpa",
+    "claim": "Published HPA event reports list 2,740 USDA-inspected entries in FY2023 and 2,031 in FY2024. The FY2025 report snapshot, dated September 23 before fiscal year-end, lists 314 inspected entries and 100 horses radiographed.",
+    "sourceIds": [
+      "em-hpa-event2023",
+      "em-hpa-event2024",
+      "em-hpa-event2025"
+    ],
+    "locator": "Total rows and snapshot-date headers",
+    "evidenceType": "agency administrative data",
+    "confidence": "moderate",
+    "limitations": "Selected event lists and changing inspection/radiography mix; FY2025 snapshot is not confirmed complete. Counts show reported activity, not incidence or causal effects of the rule delay.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-bigcat-c1",
+    "policyId": "rw-bigcat",
+    "claim": "The law restricts possession and breeding and bars direct public contact; conditional exceptions remain.",
+    "sourceIds": [
+      "rw-s-bigcat-law"
+    ],
+    "locator": "Sections 2–4",
+    "evidenceType": "legal or implementation",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-bigcat-c2",
+    "policyId": "rw-bigcat",
+    "claim": "FWS reports June 12, 2023 implementation and a June 18 registration deadline; these are implementation milestones, not measured reductions in suffering.",
+    "sourceIds": [
+      "rw-s-bigcat-fws"
+    ],
+    "locator": "Federal Register Rule; registration sections",
+    "evidenceType": "agency implementation",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-shark-c1",
+    "policyId": "rw-shark",
+    "claim": "The fin-sales law took effect December 23, 2022; it does not prohibit all shark fishing or trade in whole sharks.",
+    "sourceIds": [
+      "rw-s-shark-faq"
+    ],
+    "locator": "Questions 4, 5, 8",
+    "evidenceType": "legal or implementation",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-shark-c2",
+    "policyId": "rw-shark",
+    "claim": "NOAA reports zero declared shark-fin exports in 2023 and cessation of reported imports before the December 2022 sales ban. NOAA records conflict on the 2019 import value, which is withheld pending reconciliation; trade figures do not establish that shark mortality ended.",
+    "sourceIds": [
+      "rw-s-shark-report",
+      "rw-s-shark-safe2020"
+    ],
+    "locator": "2024 Shark Finning Report PDF p. 8; 2020 HMS SAFE Table 8.30, printed p. 211 (PDF p. 234), 2019 row",
+    "evidenceType": "administrative trade observation",
+    "confidence": "moderate",
+    "limitations": "Customs declarations omit undetected illegal trade; no untreated comparison. The 2020 SAFE table reports preliminary 2019 imports of 1 metric ton, while the 2024 narrative can be read as zero from or after 2019; revisions or wording may explain the difference, but this review has not reconciled it.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-fda-c1",
+    "policyId": "rw-fda",
+    "claim": "21 USC 355 expressly permits several nonclinical methods and continues to list animal tests.",
+    "sourceIds": [
+      "rw-s-fda-law"
+    ],
+    "locator": "355(i), 355(z) Nonclinical test defined",
+    "evidenceType": "statute",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-fda-c2",
+    "policyId": "rw-fda",
+    "claim": "FDA's antibody guidance remained labeled draft and not for implementation on the retrieved page; the April 2026 milestone announcement is not independent proof of realized animal savings.",
+    "sourceIds": [
+      "rw-s-fda-draft",
+      "rw-s-fda-year1"
+    ],
+    "locator": "Draft status; year-one milestone list",
+    "evidenceType": "agency implementation",
+    "confidence": "high",
+    "limitations": "The cited sources do not supply sponsor-level uptake or counterfactual animal counts.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-nih-nams-c1",
+    "policyId": "rw-nih-nams",
+    "claim": "The 2025 NIH policy broadens funding opportunities; it does not prohibit grants using only animal models when scientifically justified.",
+    "sourceIds": [
+      "rw-s-nih-nofo",
+      "rw-s-nih-clarify"
+    ],
+    "locator": "July 10 policy; July 18 clarification",
+    "evidenceType": "legal or implementation",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-nih-nams-c2",
+    "policyId": "rw-nih-nams",
+    "claim": "Complement-ARIE concept approval occurred in January 2024; first awards and ORIVA were announced in March and June 2026 respectively.",
+    "sourceIds": [
+      "rw-s-nih-arie",
+      "rw-s-nih-funding",
+      "rw-s-nih-oriva"
+    ],
+    "locator": "Program history; announcement openings",
+    "evidenceType": "agency implementation",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-chimp-c1",
+    "policyId": "rw-chimp",
+    "claim": "NIH ended support for invasive chimpanzee research while continuing eligible noninvasive work; the 2025 process update retains the 2016 policy.",
+    "sourceIds": [
+      "rw-s-chimp-policy",
+      "rw-s-chimp-2025"
+    ],
+    "locator": "NOT-OD-16-095 Actions; NOT-OD-25-123",
+    "evidenceType": "legal or implementation",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-chimp-c2",
+    "policyId": "rw-chimp",
+    "claim": "GAO found 561 NIH-owned/supported chimpanzees on January 15, 2016, including 179 at Chimp Haven; eligibility did not mean all had moved.",
+    "sourceIds": [
+      "rw-s-chimp-gao"
+    ],
+    "locator": "Highlights, What GAO Found",
+    "evidenceType": "independent audit",
+    "confidence": "high",
+    "limitations": "2016 census only.",
+    "independentlyVerified": true
+  },
+  {
+    "id": "rw-chimp-c3",
+    "policyId": "rw-chimp",
+    "claim": "A 2023 paper found increased habitat use over time in 18 chimpanzees observed in 2005; it is supporting husbandry evidence, not an evaluation of the 2015 policy.",
+    "sourceIds": [
+      "rw-s-chimp-study"
+    ],
+    "locator": "Abstract; figure 1 chronology",
+    "evidenceType": "peer-reviewed observational study",
+    "confidence": "moderate",
+    "limitations": "Single site, small sample, habitat and social changes combined; no policy control group.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-exclusions-c1",
+    "policyId": "rw-exclusions",
+    "claim": "AWA research totals cannot be presented as all U.S. laboratory animals; statutory exclusions and reporting population limit the denominator.",
+    "sourceIds": [
+      "rw-s-awa-blue",
+      "rw-s-aphis-summary"
+    ],
+    "locator": "7 USC 2132(g); APHIS methodology",
+    "evidenceType": "statute and data documentation",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-exclusions-c2",
+    "policyId": "rw-exclusions",
+    "claim": "NIH said October 1, 2026 that annual OLAW reports do not require animal numbers; its broader annual-reporting change remained a proposal.",
+    "sourceIds": [
+      "rw-s-nih-reporting"
+    ],
+    "locator": "Current/proposed table",
+    "evidenceType": "request for information",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-exclusions-c3",
+    "policyId": "rw-exclusions",
+    "claim": "APHIS FY2021–2025 reports distinguish held/not used (B) from used categories C, D and E. Neither category E nor declining animal counts measures aggregate suffering.",
+    "sourceIds": [
+      "rw-s-aphis-summary",
+      "rw-s-aphis-2021",
+      "rw-s-aphis-2022",
+      "rw-s-aphis-2023",
+      "rw-s-aphis-2024",
+      "rw-s-aphis-2025"
+    ],
+    "locator": "Each PDF p. 1",
+    "evidenceType": "administrative counts",
+    "confidence": "high",
+    "limitations": "Data may be amended; new avian regulation and reporting categories affect total-series comparability; no causal design.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-birds-c1",
+    "policyId": "rw-birds",
+    "claim": "APHIS phased bird-standard compliance between August 2023 and February 2024; this did not remove the AWA's purpose-bred research-bird exclusion.",
+    "sourceIds": [
+      "rw-s-birds",
+      "rw-s-awa-blue"
+    ],
+    "locator": "Bird standards opening; 7 USC 2132(g)",
+    "evidenceType": "legal or implementation",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-alaska-c1",
+    "policyId": "rw-alaska",
+    "claim": "The 2024 final rule restored the baiting restriction but did not enact every hunting restriction in its proposal.",
+    "sourceIds": [
+      "rw-s-alaska-2024-rule"
+    ],
+    "locator": "89 FR 55059; response explaining deleted 14-practice table",
+    "evidenceType": "final rule",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-alaska-c2",
+    "policyId": "rw-alaska",
+    "claim": "DOI's October 16, 2026 announcement set publication for October 19 and effectiveness 30 days later; treating the replacement as already effective at the cutoff would be incorrect.",
+    "sourceIds": [
+      "rw-s-alaska-2026"
+    ],
+    "locator": "Final paragraph",
+    "evidenceType": "agency finalization announcement",
+    "confidence": "moderate",
+    "limitations": "Could not retrieve final Federal Register document 2026-21299; cannot assert exact final regulatory text.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-ivory-c1",
+    "policyId": "rw-ivory",
+    "claim": "Federal ivory restrictions effective July 6, 2016 allow conditional exceptions and do not generally ban lawful personal possession.",
+    "sourceIds": [
+      "rw-s-ivory"
+    ],
+    "locator": "Effective-date, possession and interstate-commerce FAQ sections",
+    "evidenceType": "legal or implementation",
+    "confidence": "high",
+    "limitations": "The cited source does not estimate a causal animal-welfare effect.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-ivory-c2",
+    "policyId": "rw-ivory",
+    "claim": "The 2024 elephant amendment addresses live imports/captive care and separate permitting; conservation purpose is not proof of reduced individual suffering.",
+    "sourceIds": [
+      "rw-s-elephant-2024"
+    ],
+    "locator": "Live African elephant imports and domestic benefit questions",
+    "evidenceType": "legal or implementation",
+    "confidence": "high",
+    "limitations": "No outcome study isolating the rule was located in this review.",
+    "independentlyVerified": false
+  },
+  {
+    "id": "rw-fda-c3",
+    "policyId": "rw-fda",
+    "claim": "FDA published a direct final terminology rule and companion proposed rule September 22, 2026; the direct final rule was not effective by October 19 and could be withdrawn following significant adverse comments.",
+    "sourceIds": [
+      "rw-s-fda-direct",
+      "rw-s-fda-proposal"
+    ],
+    "locator": "DATES; Direct Final Rulemaking Procedures",
+    "evidenceType": "direct final and proposed rules",
+    "confidence": "high",
+    "limitations": "Scheduled February 4, 2027 effective date is outside cutoff; no assumption of future effectiveness.",
+    "independentlyVerified": false
+  }
+]

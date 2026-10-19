@@ -1,0 +1,280 @@
+{
+  "cutoff": "2026-10-19",
+  "method": "Descriptive endpoint changes; no causal estimates",
+  "researchUse": [
+    {
+      "species": "Dogs",
+      "formula": "C + D + E; exclude B held/not-used and exclude B+C+D+E total",
+      "values": [
+        {
+          "year": 2021,
+          "value": 45272,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2021"
+        },
+        {
+          "year": 2022,
+          "value": 45662,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2022"
+        },
+        {
+          "year": 2023,
+          "value": 42295,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2023"
+        },
+        {
+          "year": 2024,
+          "value": 40495,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2024"
+        },
+        {
+          "year": 2025,
+          "value": 37583,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2025"
+        }
+      ],
+      "absoluteChange": -7689,
+      "percentChange": -16.984007775225304,
+      "interpretation": "Change in covered reported use, not a causal FDA effect or total U.S. animal use"
+    },
+    {
+      "species": "Cats",
+      "formula": "C + D + E; exclude B held/not-used and exclude B+C+D+E total",
+      "values": [
+        {
+          "year": 2021,
+          "value": 12890,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2021"
+        },
+        {
+          "year": 2022,
+          "value": 13306,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2022"
+        },
+        {
+          "year": 2023,
+          "value": 13005,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2023"
+        },
+        {
+          "year": 2024,
+          "value": 10933,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2024"
+        },
+        {
+          "year": 2025,
+          "value": 11358,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2025"
+        }
+      ],
+      "absoluteChange": -1532,
+      "percentChange": -11.885182311869666,
+      "interpretation": "Change in covered reported use, not a causal FDA effect or total U.S. animal use"
+    },
+    {
+      "species": "Nonhuman primates",
+      "formula": "C + D + E; exclude B held/not-used and exclude B+C+D+E total",
+      "values": [
+        {
+          "year": 2021,
+          "value": 72246,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2021"
+        },
+        {
+          "year": 2022,
+          "value": 71282,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2022"
+        },
+        {
+          "year": 2023,
+          "value": 65823,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2023"
+        },
+        {
+          "year": 2024,
+          "value": 60433,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2024"
+        },
+        {
+          "year": 2025,
+          "value": 60920,
+          "unit": "reported animals used (C+D+E)",
+          "sourceId": "rw-s-aphis-2025"
+        }
+      ],
+      "absoluteChange": -11326,
+      "percentChange": -15.676992497854553,
+      "interpretation": "Change in covered reported use, not a causal FDA effect or total U.S. animal use"
+    }
+  ],
+  "horseRates": [
+    {
+      "sourceObservationId": "em-hpa-dqp-absent-2017",
+      "year": 2017,
+      "group": "DQP inspections: APHIS absent",
+      "numerator": 154,
+      "denominator": 9992,
+      "ratePer100": 1.5412329863891112
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-present-2017",
+      "year": 2017,
+      "group": "DQP inspections: APHIS present",
+      "numerator": 163,
+      "denominator": 4112,
+      "ratePer100": 3.964007782101167
+    },
+    {
+      "sourceObservationId": "em-hpa-aphis-2017",
+      "year": 2017,
+      "group": "APHIS inspections",
+      "numerator": 126,
+      "denominator": 1005,
+      "ratePer100": 12.53731343283582
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-absent-2018",
+      "year": 2018,
+      "group": "DQP inspections: APHIS absent",
+      "numerator": 277,
+      "denominator": 9290,
+      "ratePer100": 2.981700753498385
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-present-2018",
+      "year": 2018,
+      "group": "DQP inspections: APHIS present",
+      "numerator": 230,
+      "denominator": 4427,
+      "ratePer100": 5.195391913259543
+    },
+    {
+      "sourceObservationId": "em-hpa-aphis-2018",
+      "year": 2018,
+      "group": "APHIS inspections",
+      "numerator": 100,
+      "denominator": 1081,
+      "ratePer100": 9.250693802035153
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-absent-2019",
+      "year": 2019,
+      "group": "DQP inspections: APHIS absent",
+      "numerator": 417,
+      "denominator": 9698,
+      "ratePer100": 4.299855640338214
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-present-2019",
+      "year": 2019,
+      "group": "DQP inspections: APHIS present",
+      "numerator": 297,
+      "denominator": 2978,
+      "ratePer100": 9.97313633310947
+    },
+    {
+      "sourceObservationId": "em-hpa-aphis-2019",
+      "year": 2019,
+      "group": "APHIS inspections",
+      "numerator": 233,
+      "denominator": 901,
+      "ratePer100": 25.86015538290788
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-absent-2020",
+      "year": 2020,
+      "group": "DQP inspections: APHIS absent",
+      "numerator": 251,
+      "denominator": 8522,
+      "ratePer100": 2.9453180004693733
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-present-2020",
+      "year": 2020,
+      "group": "DQP inspections: APHIS present",
+      "numerator": 88,
+      "denominator": 1107,
+      "ratePer100": 7.949412827461607
+    },
+    {
+      "sourceObservationId": "em-hpa-aphis-2020",
+      "year": 2020,
+      "group": "APHIS inspections",
+      "numerator": 79,
+      "denominator": 276,
+      "ratePer100": 28.6231884057971
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-absent-2021",
+      "year": 2021,
+      "group": "DQP inspections: APHIS absent",
+      "numerator": 224,
+      "denominator": 11825,
+      "ratePer100": 1.894291754756871
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-present-2021",
+      "year": 2021,
+      "group": "DQP inspections: APHIS present",
+      "numerator": 97,
+      "denominator": 1373,
+      "ratePer100": 7.064821558630735
+    },
+    {
+      "sourceObservationId": "em-hpa-aphis-2021",
+      "year": 2021,
+      "group": "APHIS inspections",
+      "numerator": 158,
+      "denominator": 398,
+      "ratePer100": 39.698492462311556
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-absent-2022",
+      "year": 2022,
+      "group": "DQP inspections: APHIS absent",
+      "numerator": 174,
+      "denominator": 9746,
+      "ratePer100": 1.7853478350092347
+    },
+    {
+      "sourceObservationId": "em-hpa-dqp-present-2022",
+      "year": 2022,
+      "group": "DQP inspections: APHIS present",
+      "numerator": 219,
+      "denominator": 3220,
+      "ratePer100": 6.801242236024844
+    },
+    {
+      "sourceObservationId": "em-hpa-aphis-2022",
+      "year": 2022,
+      "group": "APHIS inspections",
+      "numerator": 317,
+      "denominator": 930,
+      "ratePer100": 34.086021505376344
+    }
+  ],
+  "coverageChange": {
+    "from": 2017,
+    "to": 2024,
+    "percentagePoints": 53.4,
+    "interpretation": "Change in population coverage of agencies reporting at least one month; not a cruelty trend"
+  },
+  "limitations": [
+    "No untreated comparison or stable facility cohort",
+    "Reporting categories are not direct pain-duration measurements",
+    "FY2021 and FY2025 span administrations"
+  ]
+}

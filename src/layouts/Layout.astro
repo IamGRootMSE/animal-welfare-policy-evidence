@@ -1,0 +1,12 @@
+---
+import '../styles/global.css';
+import { url } from '../lib/data';
+const { title, description='What U.S. animal-welfare policies changed, what was implemented, and what the evidence can establish.' }=Astro.props;
+const links=[['','Overview'],['policies/','Policy timeline'],['comparison/','Administrations'],['evidence/','Measured evidence'],['sources/','Sources & data'],['methods/','Methods'],['coverage/','Coverage']];
+---
+<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="description" content={description}/><meta name="theme-color" content="#223b32"/><title>{title} · Animal Welfare Policy Evidence</title><link rel="icon" type="image/svg+xml" href={url('favicon.svg')}/></head><body>
+<a class="skip" href="#main">Skip to content</a>
+<header><div class="header-inner"><a class="brand" href={url()}><span aria-hidden="true" class="mark">↗</span><span>Animal welfare<br/><strong>Policy evidence</strong></span></a><div class="cutoff">United States · 1993–2026<br/><b>Research cutoff: October 19, 2026</b></div></div><nav aria-label="Main navigation">{links.map(([path,label])=><a href={url(path)} aria-current={Astro.url.pathname===url(path)?'page':undefined}>{label}</a>)}</nav></header>
+<main id="main"><slot/></main>
+<footer><div><strong>Evidence before rankings.</strong><p>A documented review of selected federal policies, not an exhaustive history. Missing evidence is not evidence of no effect.</p></div><div><a href={url('methods/#reproduce')}>Reproduce this analysis</a><br/><a href="https://github.com/IamGRootMSE/animal-welfare-policy-evidence">Source repository</a><br/><a href={url('coverage/')}>Limitations & evidence gaps</a></div><p>Version 1.0 · Sources accessed October 19, 2026.<br/>Data periods vary. 2026 is incomplete.</p></footer>
+</body></html>

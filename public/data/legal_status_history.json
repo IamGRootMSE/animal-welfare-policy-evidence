@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "cr-depiction-1999-event-0",
+    "policyId": "cr-depiction-1999",
+    "date": "1999-12-09",
+    "status": "Enacted",
+    "event": "P.L.106-152 added §48.",
+    "sourceIds": [
+      "cr-s1999"
+    ]
+  },
+  {
+    "id": "cr-depiction-1999-event-1",
+    "policyId": "cr-depiction-1999",
+    "date": "2010-04-20",
+    "status": "Invalidated",
+    "event": "Stevens held the statute substantially overbroad under the First Amendment.",
+    "sourceIds": [
+      "cr-sstevens"
+    ]
+  },
+  {
+    "id": "cr-depiction-1999-event-2",
+    "policyId": "cr-depiction-1999",
+    "date": "2010-12-09",
+    "status": "Replaced",
+    "event": "P.L.111-294 rewrote §48.",
+    "sourceIds": [
+      "cr-s2010"
+    ]
+  },
+  {
+    "id": "rw-chimp-event-0",
+    "policyId": "rw-chimp",
+    "date": "2000-12-20",
+    "status": "enacted",
+    "event": "CHIMP Act signed.",
+    "sourceIds": [
+      "rw-s-chimp-2000"
+    ]
+  },
+  {
+    "id": "rw-chimp-event-1",
+    "policyId": "rw-chimp",
+    "date": "2005",
+    "status": "operating",
+    "event": "Sanctuary habitat studied in 2005.",
+    "sourceIds": [
+      "rw-s-chimp-study"
+    ]
+  },
+  {
+    "id": "rw-chimp-event-2",
+    "policyId": "rw-chimp",
+    "date": "2015-11-17",
+    "status": "agency decision",
+    "event": "NIH ended reserve colony and made remaining NIH-owned chimpanzees retirement-eligible.",
+    "sourceIds": [
+      "rw-s-chimp-2015"
+    ]
+  },
+  {
+    "id": "rw-chimp-event-3",
+    "policyId": "rw-chimp",
+    "date": "2016-01-15",
+    "status": "audit census",
+    "event": "GAO snapshot distinguished eligibility from completed relocation.",
+    "sourceIds": [
+      "rw-s-chimp-gao"
+    ]
+  },
+  {
+    "id": "rw-chimp-event-4",
+    "policyId": "rw-chimp",
+    "date": "2023-02-09",
+    "status": "court remand",
+    "event": "Court vacated Alamogordo ineligibility decision.",
+    "sourceIds": [
+      "rw-s-chimp-court"
+    ]
+  },
+  {
+    "id": "rw-chimp-event-5",
+    "policyId": "rw-chimp",
+    "date": "2025",
+    "status": "provider report",
+    "event": "Chimp Haven reports arrival of all remaining Alamogordo chimpanzees.",
+    "sourceIds": [
+      "rw-s-chimp-haven"
+    ]
+  },
+  {
+    "id": "rw-chimp-event-6",
+    "policyId": "rw-chimp",
+    "date": "2025-07-17",
+    "status": "policy continuation",
+    "event": "NIH changed review administration while retaining 2016 criteria.",
+    "sourceIds": [
+      "rw-s-chimp-2025"
+    ]
+  },
+  {
+    "id": "rw-exclusions-event-0",
+    "policyId": "rw-exclusions",
+    "date": "2002-05-13",
+    "status": "enacted",
+    "event": "Section 10301 amended AWA definition.",
+    "sourceIds": [
+      "rw-s-awa-law"
+    ]
+  },
+  {
+    "id": "rw-exclusions-event-1",
+    "policyId": "rw-exclusions",
+    "date": "2026-06-10",
+    "status": "data publication",
+    "event": "APHIS index lists FY2021–2025 reports.",
+    "sourceIds": [
+      "rw-s-aphis-summary"
+    ]
+  },
+  {
+    "id": "rw-exclusions-event-2",
+    "policyId": "rw-exclusions",
+    "date": "2026-10-01",
+    "status": "consultation",
+    "event": "NIH describes annual-number reporting proposal; current annual OLAW reports do not require counts.",
+    "sourceIds": [
+      "rw-s-nih-reporting"
+    ]
+  },
+  {
+    "id": "em-policy-humane-slaughter-event-0",
+    "policyId": "em-policy-humane-slaughter",
+    "date": "2005",
+    "status": "Resource observation",
+    "event": "Five-year GAO resource series begins.",
+    "sourceIds": [
+      "em-gao2010"
+    ]
+  },
+  {
+    "id": "em-policy-humane-slaughter-event-1",
+    "policyId": "em-policy-humane-slaughter",
+    "date": "2010-02-19",
+    "status": "Audit published",
+    "event": "GAO identified enforcement inconsistency and training needs.",
+    "sourceIds": [
+      "em-gao2010"
+    ]
+  },
+  {
+    "id": "em-policy-humane-slaughter-event-2",
+    "policyId": "em-policy-humane-slaughter",
+    "date": "2018",
+    "status": "Later observation window",
+    "event": "Peer-reviewed enforcement-letter series begins, ending in 2020.",
+    "sourceIds": [
+      "em-hheastudy"
+    ]
+  },
+  {
+    "id": "ct-pets-policy-event-0",
+    "policyId": "ct-pets-policy",
+    "date": "2006-10-06",
+    "status": "Enacted",
+    "event": "P.L.109-308 approved",
+    "sourceIds": [
+      "ct-pets"
+    ]
+  },
+  {
+    "id": "ct-pets-policy-event-1",
+    "policyId": "ct-pets-policy",
+    "date": "2025-04",
+    "status": "Implementation guidance",
+    "event": "FEMA operational annex describes PETS authority",
+    "sourceIds": [
+      "ct-fema"
+    ]
+  },
+  {
+    "id": "cr-fighting-2007-event-0",
+    "policyId": "cr-fighting-2007",
+    "date": "2007-05-03",
+    "status": "Enacted",
+    "event": "Felony penalties and equipment prohibition enacted.",
+    "sourceIds": [
+      "cr-s2007"
+    ]
+  },
+  {
+    "id": "cr-fighting-2007-event-1",
+    "policyId": "cr-fighting-2007",
+    "date": "2008-05-22",
+    "status": "Amended",
+    "event": "Five-year maximum superseded original three-year maximum.",
+    "sourceIds": [
+      "cr-s2008",
+      "cr-scode49"
+    ]
+  },
+  {
+    "id": "cr-fighting-2007-event-2",
+    "policyId": "cr-fighting-2007",
+    "date": "2026-10-09",
+    "status": "Codified",
+    "event": "Current Code retains amended §49 and equipment prohibition.",
+    "sourceIds": [
+      "cr-scode49",
+      "cr-scode2156"
+    ]
+  },
+  {
+    "id": "cr-fighting-2008-event-0",
+    "policyId": "cr-fighting-2008",
+    "date": "2008-05-22",
+    "status": "Effective",
+    "event": "Original enactment date retained by later corrective enactment.",
+    "sourceIds": [
+      "cr-scode49",
+      "cr-scode2156"
+    ]
+  },
+  {
+    "id": "cr-fighting-2008-event-1",
+    "policyId": "cr-fighting-2008",
+    "date": "2008-06-18",
+    "status": "Reenacted",
+    "event": "P.L.110-246 replaced duplicate enactment; Congress overrode veto.",
+    "sourceIds": [
+      "cr-s2008"
+    ]
+  },
+  {
+    "id": "cr-fighting-2008-event-2",
+    "policyId": "cr-fighting-2008",
+    "date": "2016-11-01",
+    "status": "Implemented",
+    "event": "Amendment 800 increased ordinary fighting base offense level from 10 to 16.",
+    "sourceIds": [
+      "cr-sussc800"
+    ]
+  },
+  {
+    "id": "cr-fighting-2008-event-3",
+    "policyId": "cr-fighting-2008",
+    "date": "2026-10-09",
+    "status": "Codified",
+    "event": "Current Code retains preparation offenses and five-year maximum.",
+    "sourceIds": [
+      "cr-scode2156",
+      "cr-scode49"
+    ]
+  },
+  {
+    "id": "em-policy-downer2009-event-0",
+    "policyId": "em-policy-downer2009",
+    "date": "2008-08-29",
+    "status": "Proposed",
+    "event": "Bush administration proposed closing the exception.",
+    "sourceIds": [
+      "em-downer2009"
+    ]
+  },
+  {
+    "id": "em-policy-downer2009-event-1",
+    "policyId": "em-policy-downer2009",
+    "date": "2009-03-18",
+    "status": "Finalized",
+    "event": "Obama administration adopted the proposal.",
+    "sourceIds": [
+      "em-downer2009"
+    ]
+  },
+  {
+    "id": "em-policy-downer2009-event-2",
+    "policyId": "em-policy-downer2009",
+    "date": "2009-04-17",
+    "status": "Effective",
+    "event": "Final rule took effect.",
+    "sourceIds": [
+      "em-downer2009"
+    ]
+  },
+  {
+    "id": "cr-crush-video-2010-event-0",
+    "policyId": "cr-crush-video-2010",
+    "date": "2010-12-09",
+    "status": "Enacted",
+    "event": "Narrower §48 replaced invalidated text.",
+    "sourceIds": [
+      "cr-s2010",
+      "cr-s2010actions"
+    ]
+  },
+  {
+    "id": "cr-crush-video-2010-event-1",
+    "policyId": "cr-crush-video-2010",
+    "date": "2017-11-20",
+    "status": "Judicial application",
+    "event": "Justice appeal affirmed three counts and acquitted one.",
+    "sourceIds": [
+      "cr-sjustice"
+    ]
+  },
+  {
+    "id": "cr-crush-video-2010-event-2",
+    "policyId": "cr-crush-video-2010",
+    "date": "2019-11-25",
+    "status": "Expanded",
+    "event": "PACT added a separate conduct offense while retaining video offenses.",
+    "sourceIds": [
+      "cr-s2019"
+    ]
+  },
+  {
+    "id": "em-policy-retail2013-event-0",
+    "policyId": "em-policy-retail2013",
+    "date": "2013-09-18",
+    "status": "Finalized",
+    "event": "Retail-pet-store definition narrowed.",
+    "sourceIds": [
+      "em-retail2013"
+    ]
+  },
+  {
+    "id": "em-policy-retail2013-event-1",
+    "policyId": "em-policy-retail2013",
+    "date": "2013-11-18",
+    "status": "Effective",
+    "event": "Licensing changes took effect.",
+    "sourceIds": [
+      "em-retail2013"
+    ]
+  },
+  {
+    "id": "em-policy-retail2013-event-2",
+    "policyId": "em-policy-retail2013",
+    "date": "2021-06-30",
+    "status": "Oversight evidence",
+    "event": "OIG found complaint-follow-up weaknesses involving breeders.",
+    "sourceIds": [
+      "em-oig2021"
+    ]
+  },
+  {
+    "id": "cr-spectators-2014-event-0",
+    "policyId": "cr-spectators-2014",
+    "date": "2014-02-07",
+    "status": "Enacted",
+    "event": "P.L.113-79 §12308(b) added spectator offenses.",
+    "sourceIds": [
+      "cr-s2014"
+    ]
+  },
+  {
+    "id": "cr-spectators-2014-event-1",
+    "policyId": "cr-spectators-2014",
+    "date": "2016-11-01",
+    "status": "Implemented",
+    "event": "Amendment 800 addressed new attendance offenses.",
+    "sourceIds": [
+      "cr-sussc800"
+    ]
+  },
+  {
+    "id": "cr-spectators-2014-event-2",
+    "policyId": "cr-spectators-2014",
+    "date": "2021-10-06",
+    "status": "Selected enforcement",
+    "event": "Anderson sentenced on conspiracy and child-attendance counts.",
+    "sourceIds": [
+      "cr-sanderson-bulletin",
+      "cr-sanderson"
+    ]
+  },
+  {
+    "id": "cr-spectators-2014-event-3",
+    "policyId": "cr-spectators-2014",
+    "date": "2026-10-09",
+    "status": "Codified",
+    "event": "Current Code retains offenses and penalties.",
+    "sourceIds": [
+      "cr-scode2156",
+      "cr-scode49"
+    ]
+  },
+  {
+    "id": "rw-alaska-event-0",
+    "policyId": "rw-alaska",
+    "date": "2015",
+    "status": "rule",
+    "event": "NPS imposed harvest-method restrictions.",
+    "sourceIds": [
+      "rw-s-alaska-2020"
+    ]
+  },
+  {
+    "id": "rw-alaska-event-1",
+    "policyId": "rw-alaska",
+    "date": "2020-06-09",
+    "status": "final rule",
+    "event": "NPS relaxed earlier restrictions.",
+    "sourceIds": [
+      "rw-s-alaska-2020"
+    ]
+  },
+  {
+    "id": "rw-alaska-event-2",
+    "policyId": "rw-alaska",
+    "date": "2024-07-03",
+    "status": "final rule",
+    "event": "Final rule prohibited baiting; omitted broader proposed 14-practice table.",
+    "sourceIds": [
+      "rw-s-alaska-2024-rule"
+    ]
+  },
+  {
+    "id": "rw-alaska-event-3",
+    "policyId": "rw-alaska",
+    "date": "2026-10-16",
+    "status": "finalization announced",
+    "event": "DOI announced restoration of state-authorized methods, with delayed effective date.",
+    "sourceIds": [
+      "rw-s-alaska-2026"
+    ]
+  },
+  {
+    "id": "ct-nibrs-event-0",
+    "policyId": "ct-nibrs",
+    "date": "2016-01-01",
+    "status": "Implemented",
+    "event": "Separate cruelty collection begins",
+    "sourceIds": [
+      "ct-fbi2016"
+    ]
+  },
+  {
+    "id": "ct-nibrs-event-1",
+    "policyId": "ct-nibrs",
+    "date": "2026-03",
+    "status": "Data release",
+    "event": "BJS publishes revised 2017–2024 reporting coverage",
+    "sourceIds": [
+      "ct-bjs2024"
+    ]
+  },
+  {
+    "id": "rw-ivory-event-0",
+    "policyId": "rw-ivory",
+    "date": "2016-07-06",
+    "status": "effective",
+    "event": "Near-total commercial ivory restrictions effective.",
+    "sourceIds": [
+      "rw-s-ivory"
+    ]
+  },
+  {
+    "id": "rw-ivory-event-1",
+    "policyId": "rw-ivory",
+    "date": "2024-03-29",
+    "status": "amended",
+    "event": "FWS amended African-elephant 4(d) rule.",
+    "sourceIds": [
+      "rw-s-ivory",
+      "rw-s-elephant-2024"
+    ]
+  },
+  {
+    "id": "em-policy-veal2016-event-0",
+    "policyId": "em-policy-veal2016",
+    "date": "2016-07-18",
+    "status": "Finalized",
+    "event": "Veal-calf exception removed.",
+    "sourceIds": [
+      "em-veal2016"
+    ]
+  },
+  {
+    "id": "em-policy-veal2016-event-1",
+    "policyId": "em-policy-veal2016",
+    "date": "2016-09-16",
+    "status": "Effective",
+    "event": "Prompt euthanasia requirement took effect.",
+    "sourceIds": [
+      "em-veal2016"
+    ]
+  },
+  {
+    "id": "em-policy-awa-oversight-event-0",
+    "policyId": "em-policy-awa-oversight",
+    "date": "2017",
+    "status": "Review period begins",
+    "event": "OIG later reviewed dog-breeder complaints from FY2017–FY2019.",
+    "sourceIds": [
+      "em-oig2021"
+    ]
+  },
+  {
+    "id": "em-policy-awa-oversight-event-1",
+    "policyId": "em-policy-awa-oversight",
+    "date": "2020-09",
+    "status": "System transition",
+    "event": "APHIS moved from ACIS to Salesforce/eFile.",
+    "sourceIds": [
+      "em-oig2021"
+    ]
+  },
+  {
+    "id": "em-policy-awa-oversight-event-2",
+    "policyId": "em-policy-awa-oversight",
+    "date": "2021-06-30",
+    "status": "Audit",
+    "event": "OIG identified data and complaint-control deficiencies.",
+    "sourceIds": [
+      "em-oig2021"
+    ]
+  },
+  {
+    "id": "em-policy-awa-oversight-event-3",
+    "policyId": "em-policy-awa-oversight",
+    "date": "2025",
+    "status": "Latest annual output",
+    "event": "FY2025 enforcement summary available; not a complete FY2026 series.",
+    "sourceIds": [
+      "em-ies2025"
+    ]
+  },
+  {
+    "id": "cv-policy-mbta-event-0",
+    "policyId": "cv-policy-mbta",
+    "date": "2017-01",
+    "status": "Agency opinion",
+    "event": "Obama's M-37041 reaffirmed the longstanding agency view that incidental take is prohibited.",
+    "sourceIds": [
+      "cv-mbta-nrdc"
+    ]
+  },
+  {
+    "id": "cv-policy-mbta-event-1",
+    "policyId": "cv-policy-mbta",
+    "date": "2017-12-22",
+    "status": "Agency opinion",
+    "event": "Trump I's M-37050 reversed that position.",
+    "sourceIds": [
+      "cv-mbta-jan2021"
+    ]
+  },
+  {
+    "id": "cv-policy-mbta-event-2",
+    "policyId": "cv-policy-mbta",
+    "date": "2020-08-11",
+    "status": "Judicial vacatur",
+    "event": "SDNY vacated M-37050 and remanded to DOI.",
+    "sourceIds": [
+      "cv-mbta-nrdc"
+    ]
+  },
+  {
+    "id": "cv-policy-mbta-event-3",
+    "policyId": "cv-policy-mbta",
+    "date": "2021-01-07",
+    "status": "Final rule",
+    "event": "Trump I codified incidental-take exclusion; the corrected effective date was March 8, 2021.",
+    "sourceIds": [
+      "cv-mbta-jan2021",
+      "cv-mbta-revoke2021"
+    ]
+  },
+  {
+    "id": "cv-policy-mbta-event-4",
+    "policyId": "cv-policy-mbta",
+    "date": "2021-03-08",
+    "status": "Opinion withdrawn",
+    "event": "Biden's M-37065 withdrew M-37050 after the government's appeal was dismissed March 2.",
+    "sourceIds": [
+      "cv-mbta-m37065"
+    ]
+  },
+  {
+    "id": "cv-policy-mbta-event-5",
+    "policyId": "cv-policy-mbta",
+    "date": "2021-10-04",
+    "status": "Final revocation and proposed initiative",
+    "event": "Biden revoked the January rule effective December 3 and separately initiated rulemaking on incidental-take authorization.",
+    "sourceIds": [
+      "cv-mbta-revoke2021",
+      "cv-mbta-withdraw2025"
+    ]
+  },
+  {
+    "id": "cv-policy-mbta-event-6",
+    "policyId": "cv-policy-mbta",
+    "date": "2025-04-11",
+    "status": "Agency opinion",
+    "event": "Trump II's M-37085 withdrew M-37065 and restored reliance on M-37050 with the SDNY exception.",
+    "sourceIds": [
+      "cv-mbta-m37085"
+    ]
+  },
+  {
+    "id": "cv-policy-mbta-event-7",
+    "policyId": "cv-policy-mbta",
+    "date": "2025-04-21",
+    "status": "Proposal withdrawn",
+    "event": "FWS withdrew the 2021 incidental-take authorization advance notice.",
+    "sourceIds": [
+      "cv-mbta-withdraw2025"
+    ]
+  },
+  {
+    "id": "cv-policy-mbta-event-8",
+    "policyId": "cv-policy-mbta",
+    "date": "2026-05",
+    "status": "Implementation update",
+    "event": "FWS confirmed the restored interpretation, withdrawn advance notice and rescinded Director's Order 225.",
+    "sourceIds": [
+      "cv-mbta-status2026"
+    ]
+  },
+  {
+    "id": "em-policy-hpa-event-0",
+    "policyId": "em-policy-hpa",
+    "date": "2017-01-19",
+    "status": "Public inspection",
+    "event": "Obama-era rule placed on public inspection.",
+    "sourceIds": [
+      "em-hpacourt2022"
+    ]
+  },
+  {
+    "id": "em-policy-hpa-event-1",
+    "policyId": "em-policy-hpa",
+    "date": "2017-01-23",
+    "status": "Withdrawn",
+    "event": "Trump I USDA withdrew the rule before Federal Register publication.",
+    "sourceIds": [
+      "em-hpacourt2022"
+    ]
+  },
+  {
+    "id": "em-policy-hpa-event-2",
+    "policyId": "em-policy-hpa",
+    "date": "2022-07-22",
+    "status": "Court remand",
+    "event": "D.C. Circuit required notice and comment for withdrawal.",
+    "sourceIds": [
+      "em-hpacourt2022"
+    ]
+  },
+  {
+    "id": "em-policy-hpa-event-3",
+    "policyId": "em-policy-hpa",
+    "date": "2023-10-31",
+    "status": "Formal withdrawal",
+    "event": "Biden USDA withdrew the 2017 rule while pursuing replacement.",
+    "sourceIds": [
+      "em-hpawithdraw"
+    ]
+  },
+  {
+    "id": "em-policy-hpa-event-4",
+    "policyId": "em-policy-hpa",
+    "date": "2024-05-08",
+    "status": "Replacement finalized",
+    "event": "New HPA amendments published; §11.19 training authorization became effective June 7, 2024.",
+    "sourceIds": [
+      "em-hpa2024"
+    ]
+  },
+  {
+    "id": "em-policy-hpa-event-5",
+    "policyId": "em-policy-hpa",
+    "date": "2025-01-31",
+    "status": "Partial vacatur",
+    "event": "District court vacated specified equipment, dermatologic and review provisions.",
+    "sourceIds": [
+      "em-hpadelay2026"
+    ]
+  },
+  {
+    "id": "em-policy-hpa-event-6",
+    "policyId": "em-policy-hpa",
+    "date": "2026-01-28",
+    "status": "Further postponement",
+    "event": "Main non-vacated amendments postponed to December 31, 2026, except already-effective §11.19.",
+    "sourceIds": [
+      "em-hpadelay2026"
+    ]
+  },
+  {
+    "id": "em-policy-hpa-event-7",
+    "policyId": "em-policy-hpa",
+    "date": "2026-10-08",
+    "status": "Implementation status",
+    "event": "APHIS reports HPI training paused.",
+    "sourceIds": [
+      "em-hpacurrent"
+    ]
+  },
+  {
+    "id": "em-policy-organic-event-0",
+    "policyId": "em-policy-organic",
+    "date": "2017-01-19",
+    "status": "Finalized",
+    "event": "Obama OLPP rule published.",
+    "sourceIds": [
+      "em-organic2018"
+    ]
+  },
+  {
+    "id": "em-policy-organic-event-1",
+    "policyId": "em-policy-organic",
+    "date": "2018-03-13",
+    "status": "Withdrawn",
+    "event": "Trump I withdrew OLPP, effective May 13.",
+    "sourceIds": [
+      "em-organic2018"
+    ]
+  },
+  {
+    "id": "em-policy-organic-event-2",
+    "policyId": "em-policy-organic",
+    "date": "2023-11-02",
+    "status": "Replacement finalized",
+    "event": "Biden OLPS rule published.",
+    "sourceIds": [
+      "em-organic2023"
+    ]
+  },
+  {
+    "id": "em-policy-organic-event-3",
+    "policyId": "em-policy-organic",
+    "date": "2024-01-12",
+    "status": "Effective",
+    "event": "OLPS effective date.",
+    "sourceIds": [
+      "em-organiccurrent"
+    ]
+  },
+  {
+    "id": "em-policy-organic-event-4",
+    "policyId": "em-policy-organic",
+    "date": "2025-01-02",
+    "status": "General compliance",
+    "event": "Most requirements became mandatory.",
+    "sourceIds": [
+      "em-organiccurrent"
+    ]
+  },
+  {
+    "id": "em-policy-organic-event-5",
+    "policyId": "em-policy-organic",
+    "date": "2026-09-25",
+    "status": "Current implementation evidence",
+    "event": "AMS described OLPS information collection.",
+    "sourceIds": [
+      "em-organic2026"
+    ]
+  },
+  {
+    "id": "em-policy-organic-event-6",
+    "policyId": "em-policy-organic",
+    "date": "2029-01-02",
+    "status": "Future deadline",
+    "event": "Specified requirements for existing poultry operations become mandatory.",
+    "sourceIds": [
+      "em-organiccurrent"
+    ]
+  },
+  {
+    "id": "em-policy-transparency-event-0",
+    "policyId": "em-policy-transparency",
+    "date": "2017-02",
+    "status": "Access removed",
+    "event": "Public database access ended.",
+    "sourceIds": [
+      "em-crsawa"
+    ]
+  },
+  {
+    "id": "em-policy-transparency-event-1",
+    "policyId": "em-policy-transparency",
+    "date": "2019",
+    "status": "Statutory restoration",
+    "event": "P.L.116-94 required a publicly searchable database.",
+    "sourceIds": [
+      "em-crsawa"
+    ]
+  },
+  {
+    "id": "em-policy-transparency-event-2",
+    "policyId": "em-policy-transparency",
+    "date": "2020-09",
+    "status": "Implementation",
+    "event": "APHIS launched the database.",
+    "sourceIds": [
+      "em-crsawa"
+    ]
+  },
+  {
+    "id": "em-policy-transparency-event-3",
+    "policyId": "em-policy-transparency",
+    "date": "2025-11-17",
+    "status": "Current verification",
+    "event": "APHIS public-search guidance updated.",
+    "sourceIds": [
+      "em-searchtool"
+    ]
+  },
+  {
+    "id": "cr-territories-2018-event-0",
+    "policyId": "cr-territories-2018",
+    "date": "2018-12-20",
+    "status": "Enacted",
+    "event": "P.L.115-334 §12616 enacted.",
+    "sourceIds": [
+      "cr-s2018"
+    ]
+  },
+  {
+    "id": "cr-territories-2018-event-1",
+    "policyId": "cr-territories-2018",
+    "date": "2019-12-20",
+    "status": "Effective",
+    "event": "One-year delayed effective date.",
+    "sourceIds": [
+      "cr-s2018",
+      "cr-scode2156"
+    ]
+  },
+  {
+    "id": "cr-territories-2018-event-2",
+    "policyId": "cr-territories-2018",
+    "date": "2021-01-14",
+    "status": "Upheld",
+    "event": "Hernández-Gotay rejected Commerce Clause and individual-rights challenges.",
+    "sourceIds": [
+      "cr-shernandez"
+    ]
+  },
+  {
+    "id": "cr-territories-2018-event-3",
+    "policyId": "cr-territories-2018",
+    "date": "2026-10-09",
+    "status": "Codified",
+    "event": "Current Code retains removal of the exceptions.",
+    "sourceIds": [
+      "cr-scode2156"
+    ]
+  },
+  {
+    "id": "cv-policy-esa-event-0",
+    "policyId": "cv-policy-esa",
+    "date": "1995-06-29",
+    "status": "Judicial decision",
+    "event": "Sweet Home upheld the prior definition covering habitat modification that actually kills or injures wildlife.",
+    "sourceIds": [
+      "cv-esa-sweethome"
+    ]
+  },
+  {
+    "id": "cv-policy-esa-event-1",
+    "policyId": "cv-policy-esa",
+    "date": "2019-08-27",
+    "status": "Final rules",
+    "event": "Trump I revised listing and consultation regulations and removed FWS's blanket option for future threatened listings; existing blanket protection remained.",
+    "sourceIds": [
+      "cv-esa-list2024",
+      "cv-esa-consult2024",
+      "cv-esa-4d2026"
+    ]
+  },
+  {
+    "id": "cv-policy-esa-event-2",
+    "policyId": "cv-policy-esa",
+    "date": "2020-12-18",
+    "status": "Final rule",
+    "event": "FWS adopted habitat-exclusion procedures superseding its 2016 policy; Biden rescinded those regulations on July 21, 2022.",
+    "sourceIds": [
+      "cv-esa-habitat2026"
+    ]
+  },
+  {
+    "id": "cv-policy-esa-event-3",
+    "policyId": "cv-policy-esa",
+    "date": "2024-04-05",
+    "status": "Final rules",
+    "event": "Biden restored the blanket option and revised listing and consultation rules, effective May 6. Listing text again expressly excluded economic impacts from listing determinations.",
+    "sourceIds": [
+      "cv-esa-list2024",
+      "cv-esa-consult2024",
+      "cv-esa-4d2026"
+    ]
+  },
+  {
+    "id": "cv-policy-esa-event-4",
+    "policyId": "cv-policy-esa",
+    "date": "2025-04-17",
+    "status": "Proposal only at publication",
+    "event": "FWS and NMFS proposed rescinding their harm definitions; proposal publication itself changed no operative regulation.",
+    "sourceIds": [
+      "cv-esa-harm2026"
+    ]
+  },
+  {
+    "id": "cv-policy-esa-event-5",
+    "policyId": "cv-policy-esa",
+    "date": "2025-11",
+    "status": "Proposed rules",
+    "event": "Trump II proposed four additional ESA regulatory revisions.",
+    "sourceIds": [
+      "cv-esa-status"
+    ]
+  },
+  {
+    "id": "cv-policy-esa-event-6",
+    "policyId": "cv-policy-esa",
+    "date": "2026-07-14",
+    "status": "Final rule; effective September 14, 2026",
+    "event": "Agencies finalized harm-definition removal from 50 CFR 17.3 and 222.102.",
+    "sourceIds": [
+      "cv-esa-harm2026"
+    ]
+  },
+  {
+    "id": "cv-policy-esa-event-7",
+    "policyId": "cv-policy-esa",
+    "date": "2026-07-21",
+    "status": "Final rules; effective August 20, 2026",
+    "event": "FWS finalized future blanket-option removal and revised habitat-exclusion procedures.",
+    "sourceIds": [
+      "cv-esa-4d2026",
+      "cv-esa-habitat2026"
+    ]
+  },
+  {
+    "id": "cv-policy-esa-event-8",
+    "policyId": "cv-policy-esa",
+    "date": "2026-10-19",
+    "status": "Access-date status check",
+    "event": "FWS still categorizes separate listing and interagency-cooperation revisions as proposed.",
+    "sourceIds": [
+      "cv-esa-status"
+    ]
+  },
+  {
+    "id": "em-policy-nsis-event-0",
+    "policyId": "em-policy-nsis",
+    "date": "2019-10-01",
+    "status": "Finalized",
+    "event": "NSIS final rule published.",
+    "sourceIds": [
+      "em-nsis2019"
+    ]
+  },
+  {
+    "id": "em-policy-nsis-event-1",
+    "policyId": "em-policy-nsis",
+    "date": "2021-03-31",
+    "status": "Partial vacatur",
+    "event": "District of Minnesota vacated the line-speed provision.",
+    "sourceIds": [
+      "em-nsis2026"
+    ]
+  },
+  {
+    "id": "em-policy-nsis-event-2",
+    "policyId": "em-policy-nsis",
+    "date": "2021",
+    "status": "Trial program",
+    "event": "FSIS initiated Time-Limited Trials for selected plants.",
+    "sourceIds": [
+      "em-nsis2026"
+    ]
+  },
+  {
+    "id": "em-policy-nsis-event-3",
+    "policyId": "em-policy-nsis",
+    "date": "2026-02-19",
+    "status": "Proposed rule",
+    "event": "Trump II proposed eliminating the numerical NSIS line-speed cap.",
+    "sourceIds": [
+      "em-nsis2026"
+    ]
+  },
+  {
+    "id": "em-policy-nsis-event-4",
+    "policyId": "em-policy-nsis",
+    "date": "2026-08-05",
+    "status": "Latest verified update",
+    "event": "FSIS stated comments were under review.",
+    "sourceIds": [
+      "em-nsisstatus"
+    ]
+  },
+  {
+    "id": "cr-pact-2019-event-0",
+    "policyId": "cr-pact-2019",
+    "date": "2019-11-25",
+    "status": "Enacted",
+    "event": "P.L.116-72 added the conduct offense.",
+    "sourceIds": [
+      "cr-s2019"
+    ]
+  },
+  {
+    "id": "cr-pact-2019-event-1",
+    "policyId": "cr-pact-2019",
+    "date": "2021-11-10",
+    "status": "Selected enforcement report",
+    "event": "DOJ reported Scott's 30-month sentence.",
+    "sourceIds": [
+      "cr-sscott"
+    ]
+  },
+  {
+    "id": "cr-pact-2019-event-2",
+    "policyId": "cr-pact-2019",
+    "date": "2023-12-20",
+    "status": "Selected enforcement",
+    "event": "Herrera sentenced for video-related conduct.",
+    "sourceIds": [
+      "cr-sherrera"
+    ]
+  },
+  {
+    "id": "cr-pact-2019-event-3",
+    "policyId": "cr-pact-2019",
+    "date": "2026-10-15",
+    "status": "Selected enforcement report",
+    "event": "DOJ reported Brown's 60-month sentence.",
+    "sourceIds": [
+      "cr-sbrown"
+    ]
+  },
+  {
+    "id": "em-policy-dogs2020-event-0",
+    "policyId": "em-policy-dogs2020",
+    "date": "2020-05-13",
+    "status": "Finalized",
+    "event": "Licensing and dog-care amendments published.",
+    "sourceIds": [
+      "em-license2020"
+    ]
+  },
+  {
+    "id": "em-policy-dogs2020-event-1",
+    "policyId": "em-policy-dogs2020",
+    "date": "2020-11-09",
+    "status": "Effective",
+    "event": "Licensing transition began.",
+    "sourceIds": [
+      "em-license2020"
+    ]
+  },
+  {
+    "id": "em-policy-dogs2020-event-2",
+    "policyId": "em-policy-dogs2020",
+    "date": "2023-09",
+    "status": "Transition completed",
+    "event": "APHIS reported completion of the three-year transition.",
+    "sourceIds": [
+      "em-budget2023"
+    ]
+  },
+  {
+    "id": "em-policy-dogs2020-event-3",
+    "policyId": "em-policy-dogs2020",
+    "date": "2026-01-11",
+    "status": "Current verification",
+    "event": "Continuous-water guidance updated.",
+    "sourceIds": [
+      "em-watercurrent"
+    ]
+  },
+  {
+    "id": "rw-bigcat-event-0",
+    "policyId": "rw-bigcat",
+    "date": "2022-12-20",
+    "status": "enacted",
+    "event": "Public Law 117-243.",
+    "sourceIds": [
+      "rw-s-bigcat-law"
+    ]
+  },
+  {
+    "id": "rw-bigcat-event-1",
+    "policyId": "rw-bigcat",
+    "date": "2023-06-12",
+    "status": "implemented",
+    "event": "Interim implementing regulations effective.",
+    "sourceIds": [
+      "rw-s-bigcat-fws"
+    ]
+  },
+  {
+    "id": "rw-bigcat-event-2",
+    "policyId": "rw-bigcat",
+    "date": "2023-06-18",
+    "status": "deadline",
+    "event": "Grandfather registration closed.",
+    "sourceIds": [
+      "rw-s-bigcat-fws"
+    ]
+  },
+  {
+    "id": "rw-shark-event-0",
+    "policyId": "rw-shark",
+    "date": "2000",
+    "status": "enacted",
+    "event": "National shark-finning prohibition.",
+    "sourceIds": [
+      "rw-s-shark-report"
+    ]
+  },
+  {
+    "id": "rw-shark-event-1",
+    "policyId": "rw-shark",
+    "date": "2008",
+    "status": "rule",
+    "event": "Atlantic attached-fin landing rule.",
+    "sourceIds": [
+      "rw-s-shark-report"
+    ]
+  },
+  {
+    "id": "rw-shark-event-2",
+    "policyId": "rw-shark",
+    "date": "2011",
+    "status": "enacted",
+    "event": "Shark Conservation Act added attached-fin requirements.",
+    "sourceIds": [
+      "rw-s-shark-report"
+    ]
+  },
+  {
+    "id": "rw-shark-event-3",
+    "policyId": "rw-shark",
+    "date": "2022-12-23",
+    "status": "enacted",
+    "event": "Fin-sales prohibition effective immediately.",
+    "sourceIds": [
+      "rw-s-shark-faq"
+    ]
+  },
+  {
+    "id": "rw-shark-event-4",
+    "policyId": "rw-shark",
+    "date": "2023",
+    "status": "observed",
+    "event": "NOAA recorded zero declared fin exports.",
+    "sourceIds": [
+      "rw-s-shark-report"
+    ]
+  },
+  {
+    "id": "rw-fda-event-0",
+    "policyId": "rw-fda",
+    "date": "2022-12-29",
+    "status": "enacted",
+    "event": "Section 3209 of Public Law 117-328 amended nonclinical testing provisions.",
+    "sourceIds": [
+      "rw-s-fda-law"
+    ]
+  },
+  {
+    "id": "rw-fda-event-1",
+    "policyId": "rw-fda",
+    "date": "2025-04-10",
+    "status": "announced",
+    "event": "FDA roadmap and pilot plans.",
+    "sourceIds": [
+      "rw-s-fda-roadmap"
+    ]
+  },
+  {
+    "id": "rw-fda-event-2",
+    "policyId": "rw-fda",
+    "date": "2025-12",
+    "status": "draft",
+    "event": "Monoclonal-antibody guidance issued as draft.",
+    "sourceIds": [
+      "rw-s-fda-draft"
+    ]
+  },
+  {
+    "id": "rw-fda-event-3",
+    "policyId": "rw-fda",
+    "date": "2026-04-20",
+    "status": "agency self-report",
+    "event": "FDA reported first-year milestones.",
+    "sourceIds": [
+      "rw-s-fda-year1"
+    ]
+  },
+  {
+    "id": "rw-fda-event-4",
+    "policyId": "rw-fda",
+    "date": "2026-09-22",
+    "status": "direct final rule, future effective date",
+    "event": "Terminology rule and companion proposal published; scheduled effective February 4, 2027 subject to withdrawal.",
+    "sourceIds": [
+      "rw-s-fda-direct",
+      "rw-s-fda-proposal"
+    ]
+  },
+  {
+    "id": "rw-birds-event-0",
+    "policyId": "rw-birds",
+    "date": "2023-02-21",
+    "status": "final rule",
+    "event": "New avian welfare standards published.",
+    "sourceIds": [
+      "rw-s-birds"
+    ]
+  },
+  {
+    "id": "rw-birds-event-1",
+    "policyId": "rw-birds",
+    "date": "2023-08-21",
+    "status": "compliance",
+    "event": "Existing licensees/registrants required to comply.",
+    "sourceIds": [
+      "rw-s-birds"
+    ]
+  },
+  {
+    "id": "rw-birds-event-2",
+    "policyId": "rw-birds",
+    "date": "2024-02-21",
+    "status": "compliance",
+    "event": "New licensees/registrants required to comply.",
+    "sourceIds": [
+      "rw-s-birds"
+    ]
+  },
+  {
+    "id": "rw-nih-nams-event-0",
+    "policyId": "rw-nih-nams",
+    "date": "2024-01-25",
+    "status": "approved concept",
+    "event": "Complement-ARIE concept approved.",
+    "sourceIds": [
+      "rw-s-nih-arie"
+    ]
+  },
+  {
+    "id": "rw-nih-nams-event-1",
+    "policyId": "rw-nih-nams",
+    "date": "2025-07-10",
+    "status": "policy",
+    "event": "New animal-model NOFOs must also support human-focused approaches.",
+    "sourceIds": [
+      "rw-s-nih-nofo"
+    ]
+  },
+  {
+    "id": "rw-nih-nams-event-2",
+    "policyId": "rw-nih-nams",
+    "date": "2025-07-18",
+    "status": "clarified",
+    "event": "Animal-only applications remain eligible where justified.",
+    "sourceIds": [
+      "rw-s-nih-clarify"
+    ]
+  },
+  {
+    "id": "rw-nih-nams-event-3",
+    "policyId": "rw-nih-nams",
+    "date": "2026-03-18",
+    "status": "announced awards",
+    "event": "First awards announced.",
+    "sourceIds": [
+      "rw-s-nih-funding"
+    ]
+  },
+  {
+    "id": "rw-nih-nams-event-4",
+    "policyId": "rw-nih-nams",
+    "date": "2026-06-15",
+    "status": "office created",
+    "event": "ORIVA established.",
+    "sourceIds": [
+      "rw-s-nih-oriva"
+    ]
+  }
+]

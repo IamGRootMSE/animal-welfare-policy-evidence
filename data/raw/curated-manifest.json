@@ -1,0 +1,32 @@
+[
+  {
+    "path": "research/conservation.json",
+    "sha256": "7d2c332b869917f34fbef187242c6fd241922380f5b8fea3e31fdf589a7240bd",
+    "normalization": "UTF-8 without BOM, LF newlines",
+    "accessDate": "2026-10-19"
+  },
+  {
+    "path": "research/context.json",
+    "sha256": "e788a965166b76164a25dc5af34549480a1f483c42dae2a6263beec03466dc96",
+    "normalization": "UTF-8 without BOM, LF newlines",
+    "accessDate": "2026-10-19"
+  },
+  {
+    "path": "research/criminal.json",
+    "sha256": "a18134745f823abed541fc3a068d3b991c82871067b17e62664c0c10500d8f08",
+    "normalization": "UTF-8 without BOM, LF newlines",
+    "accessDate": "2026-10-19"
+  },
+  {
+    "path": "research/empirical.json",
+    "sha256": "e7f07dba7022cd860ea910cdcfd925c5e0dbf6ed316c7295f5bf8411c558c884",
+    "normalization": "UTF-8 without BOM, LF newlines",
+    "accessDate": "2026-10-19"
+  },
+  {
+    "path": "research/research-wildlife.json",
+    "sha256": "6792727dd73ce4408799cf9ff84900efe6b71333dceb00acbce7ec4a3eb083fa",
+    "normalization": "UTF-8 without BOM, LF newlines",
+    "accessDate": "2026-10-19"
+  }
+]

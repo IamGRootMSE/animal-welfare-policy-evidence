@@ -1,0 +1,23 @@
+{
+  "name": "animal-welfare-policy-evidence",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "build": "node scripts/build-data.mjs && node scripts/analyze.mjs && astro build",
+    "dev": "astro dev --host 127.0.0.1",
+    "preview": "astro preview --host 127.0.0.1",
+    "test": "node --test tests/*.test.mjs",
+    "check:links": "node scripts/check-links.mjs",
+    "sources": "node scripts/retrieve-sources.mjs"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "dependencies": {
+    "astro": "^7.4.0",
+    "typescript": "^7.0.2"
+  },
+  "packageManager": "pnpm@11.25.0"
+}

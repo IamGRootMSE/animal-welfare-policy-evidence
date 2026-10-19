@@ -1,0 +1,3267 @@
+{
+  "policies": [
+    {
+      "id": "em-policy-awa-oversight",
+      "title": "AWA enforcement and data-system oversight",
+      "area": "Cross-cutting",
+      "species": [
+        "Dogs",
+        "Cats",
+        "Other AWA-covered animals"
+      ],
+      "administrations": [
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2017",
+      "status": "Continuing program; selected FY2017–FY2025 implementation record",
+      "summary": "Enforcement activity changed markedly, but surveillance changes and data weaknesses prevent a clean welfare trend.",
+      "changed": "APHIS replaced its legacy ACIS system in September 2020; later reporting shows increased investigations and inspection recovery.",
+      "afterward": "FY2025 reports 240 initiated cases. OIG's 2021 review documented missing or inconsistent complaint follow-up and unreliable legacy queries.",
+      "attribution": "Trump I oversaw 2017–2020 operations and the data transition; Biden oversaw later implementation and enforcement; FY2025 spans Biden and Trump II. Congress and OIG supplied oversight.",
+      "unknown": "No comparable national abuse-incidence series or causal estimate links these outputs to suffering.",
+      "mechanism": "Risk-based inspections, complaint follow-up, investigations and administrative sanctions under the AWA.",
+      "coverage": "Licensed and registered dealers, exhibitors, research facilities and other covered entities.",
+      "exceptions": "AWA exclusions include farm animals used for food or fiber and purpose-bred research rats, mice and birds; inspections may repeat an entity.",
+      "outcomeEvidence": "implementation",
+      "confidence": "moderate",
+      "confidenceReason": "Official output series is reproducible, but audit findings and changing operations limit longitudinal interpretation.",
+      "contributors": [
+        {
+          "institution": "USDA APHIS",
+          "role": "Inspections, data systems and enforcement"
+        },
+        {
+          "institution": "Congress and USDA OIG",
+          "role": "Oversight and independent audit"
+        }
+      ],
+      "history": [
+        {
+          "date": "2017",
+          "status": "Review period begins",
+          "event": "OIG later reviewed dog-breeder complaints from FY2017–FY2019.",
+          "sourceIds": [
+            "em-oig2021"
+          ]
+        },
+        {
+          "date": "2020-09",
+          "status": "System transition",
+          "event": "APHIS moved from ACIS to Salesforce/eFile.",
+          "sourceIds": [
+            "em-oig2021"
+          ]
+        },
+        {
+          "date": "2021-06-30",
+          "status": "Audit",
+          "event": "OIG identified data and complaint-control deficiencies.",
+          "sourceIds": [
+            "em-oig2021"
+          ]
+        },
+        {
+          "date": "2025",
+          "status": "Latest annual output",
+          "event": "FY2025 enforcement summary available; not a complete FY2026 series.",
+          "sourceIds": [
+            "em-ies2025"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-awa-output",
+        "em-awa-data",
+        "em-awa-inspections",
+        "em-ars-inspections"
+      ],
+      "sourceIds": [
+        "em-budget2019",
+        "em-budget2022",
+        "em-budget2023",
+        "em-ies2025",
+        "em-oig2021",
+        "em-budget2020",
+        "em-budget2021"
+      ]
+    },
+    {
+      "id": "em-policy-transparency",
+      "title": "AWA public-record access removed and restored",
+      "area": "Cross-cutting",
+      "species": [
+        "AWA-covered animals"
+      ],
+      "administrations": [
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2017-02",
+      "status": "Searchable records available; restoration mandated by statute",
+      "summary": "Public oversight lost database access in 2017 and regained a congressionally mandated search tool in 2020.",
+      "changed": "The 2020 appropriations act required searchable inspection, enforcement and research-report records.",
+      "afterward": "The current APHIS public-search page continues to advertise these records.",
+      "attribution": "Both the removal and statutory restoration occurred under Trump I; Congress mandated restoration. Biden and Trump II inherited implementation.",
+      "unknown": "No identified study isolates effects of access changes on animal harm.",
+      "mechanism": "Disclosure enables external scrutiny and complaints.",
+      "coverage": "AWA records covered by 7 USC 2146a.",
+      "exceptions": "A public search portal does not establish completeness, timely reporting or identical historical redaction.",
+      "outcomeEvidence": "implementation",
+      "confidence": "high",
+      "confidenceReason": "CRS establishes the sequence and APHIS confirms current availability; effectiveness remains unmeasured.",
+      "contributors": [
+        {
+          "institution": "Congress",
+          "role": "Mandated disclosure"
+        },
+        {
+          "institution": "USDA APHIS",
+          "role": "Removed and restored access"
+        }
+      ],
+      "history": [
+        {
+          "date": "2017-02",
+          "status": "Access removed",
+          "event": "Public database access ended.",
+          "sourceIds": [
+            "em-crsawa"
+          ]
+        },
+        {
+          "date": "2019",
+          "status": "Statutory restoration",
+          "event": "P.L.116-94 required a publicly searchable database.",
+          "sourceIds": [
+            "em-crsawa"
+          ]
+        },
+        {
+          "date": "2020-09",
+          "status": "Implementation",
+          "event": "APHIS launched the database.",
+          "sourceIds": [
+            "em-crsawa"
+          ]
+        },
+        {
+          "date": "2025-11-17",
+          "status": "Current verification",
+          "event": "APHIS public-search guidance updated.",
+          "sourceIds": [
+            "em-searchtool"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-transparency-change",
+        "em-transparency-current"
+      ],
+      "sourceIds": [
+        "em-crsawa",
+        "em-searchtool"
+      ]
+    },
+    {
+      "id": "em-policy-retail2013",
+      "title": "Licensing for sight-unseen pet sellers",
+      "area": "Companion animals",
+      "species": [
+        "Dogs",
+        "Cats",
+        "Rabbits",
+        "Other covered pet mammals"
+      ],
+      "administrations": [
+        "Obama"
+      ],
+      "date": "2013-09-18",
+      "status": "Final rule effective November 18, 2013",
+      "summary": "More commercial pet sellers became subject to federal inspection when buyers could not personally see animals before purchase or custody.",
+      "changed": "Narrowed the retail-pet-store exemption while increasing the small-breeder threshold from three to four breeding females.",
+      "afterward": "OIG later found weaknesses in identifying and following up on potentially unlicensed breeders.",
+      "attribution": "Obama's USDA finalized the rule under authority delegated by Congress.",
+      "unknown": "Realized coverage and welfare improvements attributable to this rule were not quantified in the reviewed sources.",
+      "mechanism": "Licensing brings covered sellers under minimum-care standards and inspections.",
+      "coverage": "Otherwise regulated sellers making sight-unseen pet sales, including internet transactions.",
+      "exceptions": "Qualifying small breeders and transactions satisfying the in-person exemption remain outside licensing; internet presence alone does not trigger coverage.",
+      "outcomeEvidence": "implementation",
+      "confidence": "moderate",
+      "confidenceReason": "Clear legal expansion; independent audit identifies implementation weaknesses without measuring the rule's net effect.",
+      "contributors": [
+        {
+          "institution": "USDA APHIS",
+          "role": "Rulemaking and licensing"
+        },
+        {
+          "institution": "USDA OIG",
+          "role": "Later review of breeder oversight"
+        }
+      ],
+      "history": [
+        {
+          "date": "2013-09-18",
+          "status": "Finalized",
+          "event": "Retail-pet-store definition narrowed.",
+          "sourceIds": [
+            "em-retail2013"
+          ]
+        },
+        {
+          "date": "2013-11-18",
+          "status": "Effective",
+          "event": "Licensing changes took effect.",
+          "sourceIds": [
+            "em-retail2013"
+          ]
+        },
+        {
+          "date": "2021-06-30",
+          "status": "Oversight evidence",
+          "event": "OIG found complaint-follow-up weaknesses involving breeders.",
+          "sourceIds": [
+            "em-oig2021"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-retail-rule"
+      ],
+      "sourceIds": [
+        "em-retail2013",
+        "em-oig2021"
+      ]
+    },
+    {
+      "id": "em-policy-dogs2020",
+      "title": "Three-year AWA licensing and stronger dog-care requirements",
+      "area": "Companion animals",
+      "species": [
+        "Dogs",
+        "Other licensed AWA animals"
+      ],
+      "administrations": [
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2020-05-13",
+      "status": "Implemented; continuous-water guidance verified in 2026",
+      "summary": "Licenses require renewed compliance demonstrations and regulated dogs receive stronger minimum water and veterinary-care protections.",
+      "changed": "Three-year licensing replaced annual renewal; dog-care rules added continuous potable water and veterinary-care requirements.",
+      "afterward": "APHIS reported 1,485 relicense inspections in FY2023 and completion of the transition that September.",
+      "attribution": "Trump I finalized the rule. Biden implemented the transition. Trump II's APHIS maintains implementation guidance.",
+      "unknown": "No identified national before/after study attributes dog health or suffering changes to these standards.",
+      "mechanism": "Compliance checks before relicensing and enforceable husbandry duties.",
+      "coverage": "AWA-regulated facilities keeping dogs; broader licensing provisions cover other licensed entities.",
+      "exceptions": "Household pets and exempt breeders are not brought under licensing solely by this rule.",
+      "outcomeEvidence": "implementation",
+      "confidence": "high",
+      "confidenceReason": "Final rule, later inspection activity and current guidance establish implementation; welfare effect is uncertain.",
+      "contributors": [
+        {
+          "institution": "USDA APHIS",
+          "role": "Promulgation and enforcement"
+        },
+        {
+          "institution": "Regulated facilities and veterinarians",
+          "role": "Required care and compliance"
+        }
+      ],
+      "history": [
+        {
+          "date": "2020-05-13",
+          "status": "Finalized",
+          "event": "Licensing and dog-care amendments published.",
+          "sourceIds": [
+            "em-license2020"
+          ]
+        },
+        {
+          "date": "2020-11-09",
+          "status": "Effective",
+          "event": "Licensing transition began.",
+          "sourceIds": [
+            "em-license2020"
+          ]
+        },
+        {
+          "date": "2023-09",
+          "status": "Transition completed",
+          "event": "APHIS reported completion of the three-year transition.",
+          "sourceIds": [
+            "em-budget2023"
+          ]
+        },
+        {
+          "date": "2026-01-11",
+          "status": "Current verification",
+          "event": "Continuous-water guidance updated.",
+          "sourceIds": [
+            "em-watercurrent"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-dogs-rule",
+        "em-dogs-implementation"
+      ],
+      "sourceIds": [
+        "em-license2020",
+        "em-budget2023",
+        "em-watercurrent"
+      ]
+    },
+    {
+      "id": "em-policy-hpa",
+      "title": "Horse-soring inspections, reform and repeated delay",
+      "area": "Cross-cutting",
+      "species": [
+        "Horses"
+      ],
+      "administrations": [
+        "Obama",
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2017-01-19",
+      "status": "2024 rule partly vacated; §11.19 effective June 7, 2024; main surviving amendments postponed to December 31, 2026",
+      "summary": "Inspection data show persistent detected soring and a monitoring-associated detection gap; the main inspector-system reform remained pending at cutoff.",
+      "changed": "The 2024 rule sought APHIS-authorized inspectors in place of industry DQPs.",
+      "afterward": "Court vacatur removed specified provisions. Section 11.19 training authorization took effect June 7, 2024; the main surviving amendments were postponed, and APHIS subsequently paused HPI training.",
+      "attribution": "Obama advanced the 2017 rule; Trump I withdrew it. Biden completed notice-and-comment withdrawal and a replacement. Courts constrained both procedure and substance; Trump II delayed implementation.",
+      "unknown": "Selected inspection entries cannot estimate national prevalence or effects of a reform not fully implemented.",
+      "mechanism": "Inspection, disqualification and enforcement against soring at covered equine events.",
+      "coverage": "Horse Protection Act events and regulated activities; data distinguish performance and flat-shod horses.",
+      "exceptions": "Section 11.19 is already effective. Distinguish the main delayed amendments, vacated provisions and continuing underlying HPA duties.",
+      "outcomeEvidence": "observational",
+      "confidence": "moderate",
+      "confidenceReason": "Six-year denominated surveillance series is strong for detection, weak for causality; current legal delay is well documented.",
+      "contributors": [
+        {
+          "institution": "USDA APHIS",
+          "role": "Rulemaking and federal inspections"
+        },
+        {
+          "institution": "Industry DQPs/event management",
+          "role": "Legacy inspection system"
+        },
+        {
+          "institution": "Federal courts",
+          "role": "Procedural and substantive review"
+        }
+      ],
+      "history": [
+        {
+          "date": "2017-01-19",
+          "status": "Public inspection",
+          "event": "Obama-era rule placed on public inspection.",
+          "sourceIds": [
+            "em-hpacourt2022"
+          ]
+        },
+        {
+          "date": "2017-01-23",
+          "status": "Withdrawn",
+          "event": "Trump I USDA withdrew the rule before Federal Register publication.",
+          "sourceIds": [
+            "em-hpacourt2022"
+          ]
+        },
+        {
+          "date": "2022-07-22",
+          "status": "Court remand",
+          "event": "D.C. Circuit required notice and comment for withdrawal.",
+          "sourceIds": [
+            "em-hpacourt2022"
+          ]
+        },
+        {
+          "date": "2023-10-31",
+          "status": "Formal withdrawal",
+          "event": "Biden USDA withdrew the 2017 rule while pursuing replacement.",
+          "sourceIds": [
+            "em-hpawithdraw"
+          ]
+        },
+        {
+          "date": "2024-05-08",
+          "status": "Replacement finalized",
+          "event": "New HPA amendments published; §11.19 training authorization became effective June 7, 2024.",
+          "sourceIds": [
+            "em-hpa2024"
+          ]
+        },
+        {
+          "date": "2025-01-31",
+          "status": "Partial vacatur",
+          "event": "District court vacated specified equipment, dermatologic and review provisions.",
+          "sourceIds": [
+            "em-hpadelay2026"
+          ]
+        },
+        {
+          "date": "2026-01-28",
+          "status": "Further postponement",
+          "event": "Main non-vacated amendments postponed to December 31, 2026, except already-effective §11.19.",
+          "sourceIds": [
+            "em-hpadelay2026"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "status": "Implementation status",
+          "event": "APHIS reports HPI training paused.",
+          "sourceIds": [
+            "em-hpacurrent"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-hpa-detection",
+        "em-hpa-sore",
+        "em-hpa-procedure",
+        "em-hpa-status",
+        "em-hpa-recent-activity"
+      ],
+      "sourceIds": [
+        "em-hpa2023",
+        "em-hpa2024",
+        "em-hpacourt2022",
+        "em-hpawithdraw",
+        "em-hpadelay2026",
+        "em-hpacurrent",
+        "em-hpa-event2023",
+        "em-hpa-event2024",
+        "em-hpa-event2025"
+      ]
+    },
+    {
+      "id": "em-policy-organic",
+      "title": "Organic livestock and poultry welfare standards",
+      "area": "Farm animals",
+      "species": [
+        "Cattle",
+        "Pigs",
+        "Sheep",
+        "Goats",
+        "Chickens",
+        "Other certified organic livestock"
+      ],
+      "administrations": [
+        "Obama",
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2017-01-19",
+      "status": "2023 standards in implementation; some poultry transitions extend to 2029",
+      "summary": "Federal organic welfare standards were finalized, withdrawn and later restored with revisions across administrations.",
+      "changed": "OLPS regulates husbandry, outdoor access, transport, handling and euthanasia through organic certification.",
+      "afterward": "Most compliance dates passed in 2025, but specified existing poultry operations have until 2029. A 2026 administrative notice corroborates ongoing implementation.",
+      "attribution": "Obama finalized OLPP; Trump I withdrew it; Biden issued OLPS. Trump II inherited phased implementation. Congress established the organic certification framework.",
+      "unknown": "No retrieved nationwide study establishes actual compliance or causal suffering reductions.",
+      "mechanism": "Certification requirements and certifier oversight.",
+      "coverage": "Operations participating in USDA organic certification.",
+      "exceptions": "Does not cover all U.S. farm animals. Grandfathering delays specified stocking, outdoor-area and exit requirements.",
+      "outcomeEvidence": "implementation",
+      "confidence": "moderate",
+      "confidenceReason": "Legal sequence and deadlines are verified; claims of realized welfare benefit remain untested.",
+      "contributors": [
+        {
+          "institution": "USDA Agricultural Marketing Service",
+          "role": "Organic rulemaking and oversight"
+        },
+        {
+          "institution": "Accredited organic certifiers",
+          "role": "Certification and compliance verification"
+        }
+      ],
+      "history": [
+        {
+          "date": "2017-01-19",
+          "status": "Finalized",
+          "event": "Obama OLPP rule published.",
+          "sourceIds": [
+            "em-organic2018"
+          ]
+        },
+        {
+          "date": "2018-03-13",
+          "status": "Withdrawn",
+          "event": "Trump I withdrew OLPP, effective May 13.",
+          "sourceIds": [
+            "em-organic2018"
+          ]
+        },
+        {
+          "date": "2023-11-02",
+          "status": "Replacement finalized",
+          "event": "Biden OLPS rule published.",
+          "sourceIds": [
+            "em-organic2023"
+          ]
+        },
+        {
+          "date": "2024-01-12",
+          "status": "Effective",
+          "event": "OLPS effective date.",
+          "sourceIds": [
+            "em-organiccurrent"
+          ]
+        },
+        {
+          "date": "2025-01-02",
+          "status": "General compliance",
+          "event": "Most requirements became mandatory.",
+          "sourceIds": [
+            "em-organiccurrent"
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "status": "Current implementation evidence",
+          "event": "AMS described OLPS information collection.",
+          "sourceIds": [
+            "em-organic2026"
+          ]
+        },
+        {
+          "date": "2029-01-02",
+          "status": "Future deadline",
+          "event": "Specified requirements for existing poultry operations become mandatory.",
+          "sourceIds": [
+            "em-organiccurrent"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-organic-cycle",
+        "em-organic-dates"
+      ],
+      "sourceIds": [
+        "em-organic2018",
+        "em-organic2023",
+        "em-organiccurrent",
+        "em-organic2026"
+      ]
+    },
+    {
+      "id": "em-policy-downer2009",
+      "title": "Closing the post-inspection downer-cattle exception",
+      "area": "Farm animals",
+      "species": [
+        "Cattle"
+      ],
+      "administrations": [
+        "George W. Bush",
+        "Obama"
+      ],
+      "date": "2009-03-18",
+      "status": "Implemented; maintained in current FSIS guidance",
+      "summary": "Cattle becoming non-ambulatory after inspection must be condemned at official slaughter plants.",
+      "changed": "Removed case-by-case reconsideration after an animal passed ante-mortem inspection.",
+      "afterward": "The prohibition remains in FSIS guidance; a separate 2016 rule addressed veal calves.",
+      "attribution": "George W. Bush's USDA proposed the closure in August 2008 after the Hallmark/Westland investigation; Obama's USDA finalized it.",
+      "unknown": "No retrieved national causal estimate of avoided forcing, dragging or suffering.",
+      "mechanism": "Removes the incentive to force disabled cattle up for reinspection.",
+      "coverage": "Non-ambulatory cattle at official slaughter establishments.",
+      "exceptions": "Custom-slaughter rules differ; not a ban on keeping disabled cattle on farms or a rule covering every livestock species.",
+      "outcomeEvidence": "legal only",
+      "confidence": "high",
+      "confidenceReason": "The prohibition and regulatory lineage are explicit; realized effects are unmeasured.",
+      "contributors": [
+        {
+          "institution": "USDA FSIS",
+          "role": "Proposal, final rule and inspection"
+        },
+        {
+          "institution": "Investigators and public exposure",
+          "role": "Hallmark/Westland evidence prompted the proposed change"
+        }
+      ],
+      "history": [
+        {
+          "date": "2008-08-29",
+          "status": "Proposed",
+          "event": "Bush administration proposed closing the exception.",
+          "sourceIds": [
+            "em-downer2009"
+          ]
+        },
+        {
+          "date": "2009-03-18",
+          "status": "Finalized",
+          "event": "Obama administration adopted the proposal.",
+          "sourceIds": [
+            "em-downer2009"
+          ]
+        },
+        {
+          "date": "2009-04-17",
+          "status": "Effective",
+          "event": "Final rule took effect.",
+          "sourceIds": [
+            "em-downer2009"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-downer-rule",
+        "em-downer-current"
+      ],
+      "sourceIds": [
+        "em-downer2009",
+        "em-antemortem"
+      ]
+    },
+    {
+      "id": "em-policy-veal2016",
+      "title": "Prompt euthanasia for non-ambulatory veal calves",
+      "area": "Farm animals",
+      "species": [
+        "Veal calves"
+      ],
+      "administrations": [
+        "Obama"
+      ],
+      "date": "2016-07-18",
+      "status": "Implemented; effective September 16, 2016",
+      "summary": "Disabled calves can no longer be held for rest or warming in hopes they become eligible for slaughter.",
+      "changed": "Removed the recovery exception and required prompt humane euthanasia.",
+      "afterward": "FSIS's current directive describes the resulting requirements.",
+      "attribution": "Obama's FSIS finalized the rule under existing federal meat-inspection authority.",
+      "unknown": "No retrieved causal evaluation measures time-to-euthanasia, handling injuries or national welfare changes.",
+      "mechanism": "Ends the incentive to attempt recovery of disabled veal calves for food.",
+      "coverage": "Non-ambulatory veal calves presented at official slaughter establishments.",
+      "exceptions": "This is a slaughter-stage protection; it does not regulate all veal housing or transport conditions.",
+      "outcomeEvidence": "legal only",
+      "confidence": "high",
+      "confidenceReason": "Obligation is explicit; legal implementation should not be scored as proven welfare impact.",
+      "contributors": [
+        {
+          "institution": "USDA FSIS",
+          "role": "Final rule and inspection enforcement"
+        }
+      ],
+      "history": [
+        {
+          "date": "2016-07-18",
+          "status": "Finalized",
+          "event": "Veal-calf exception removed.",
+          "sourceIds": [
+            "em-veal2016"
+          ]
+        },
+        {
+          "date": "2016-09-16",
+          "status": "Effective",
+          "event": "Prompt euthanasia requirement took effect.",
+          "sourceIds": [
+            "em-veal2016"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-veal-rule"
+      ],
+      "sourceIds": [
+        "em-veal2016"
+      ]
+    },
+    {
+      "id": "em-policy-humane-slaughter",
+      "title": "Humane-slaughter enforcement resources and oversight",
+      "area": "Farm animals",
+      "species": [
+        "Cattle",
+        "Pigs",
+        "Sheep",
+        "Goats",
+        "Other covered livestock"
+      ],
+      "administrations": [
+        "George W. Bush",
+        "Obama",
+        "Trump I"
+      ],
+      "date": "2005",
+      "status": "Continuing enforcement; historical resource and violation evidence",
+      "summary": "More recorded enforcement resources coexisted with documented implementation weaknesses and later detected stunning failures.",
+      "changed": "Congress specified minimum humane-handling resources; GAO evaluated enforcement and urged stronger controls.",
+      "afterward": "An independent 2018–2020 letter review found repeated use of inspection suspensions and a concentration of stunning-related violations.",
+      "attribution": "FY2005–2008 resource data fall under Bush; FY2009 spans Bush and Obama; the 2010 audit falls under Obama. Later letters cover Trump I. Congress, inspectors and establishments also determine outcomes.",
+      "unknown": "Neither staffing totals nor enforcement letters yield national abuse prevalence or a presidential causal ranking.",
+      "mechanism": "Inspection, noncompliance records and withholding or suspending inspection.",
+      "coverage": "Covered livestock at federally inspected slaughter establishments.",
+      "exceptions": "Poultry is outside the Humane Methods of Slaughter Act; lawful ritual slaughter has a stunning exception, not a general handling exemption.",
+      "outcomeEvidence": "observational",
+      "confidence": "moderate",
+      "confidenceReason": "Independent audit and peer-reviewed descriptive analysis are informative but historically bounded and noncausal.",
+      "contributors": [
+        {
+          "institution": "Congress",
+          "role": "Statutory framework and resource requirements"
+        },
+        {
+          "institution": "USDA FSIS",
+          "role": "Inspection and corrective actions"
+        },
+        {
+          "institution": "GAO and independent researchers",
+          "role": "Audit and record analysis"
+        }
+      ],
+      "history": [
+        {
+          "date": "2005",
+          "status": "Resource observation",
+          "event": "Five-year GAO resource series begins.",
+          "sourceIds": [
+            "em-gao2010"
+          ]
+        },
+        {
+          "date": "2010-02-19",
+          "status": "Audit published",
+          "event": "GAO identified enforcement inconsistency and training needs.",
+          "sourceIds": [
+            "em-gao2010"
+          ]
+        },
+        {
+          "date": "2018",
+          "status": "Later observation window",
+          "event": "Peer-reviewed enforcement-letter series begins, ending in 2020.",
+          "sourceIds": [
+            "em-hheastudy"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-fsis-resource",
+        "em-fsis-audit",
+        "em-fsis-letters"
+      ],
+      "sourceIds": [
+        "em-gao2010",
+        "em-hheastudy"
+      ]
+    },
+    {
+      "id": "em-policy-nsis",
+      "title": "Swine inspection modernization and line-speed changes",
+      "area": "Farm animals",
+      "species": [
+        "Pigs"
+      ],
+      "administrations": [
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2019-10-01",
+      "status": "NSIS operating; line-speed litigation, trials and 2026 proposal",
+      "summary": "Inspection modernization proceeded, while the line-speed provision was vacated and later tested through waivers.",
+      "changed": "NSIS shifted sorting and inspection tasks and initially removed a numerical speed cap.",
+      "afterward": "Biden-era trials and later waivers supplied limited operational data; Trump II proposed restoring the uncapped approach in 2026.",
+      "attribution": "Trump I issued NSIS; a court vacated the speed provision; Biden oversaw trials; Trump II extended the approach through proposed rulemaking.",
+      "unknown": "The six-plant task series cannot isolate effects of speed on animal handling, worker safety or food safety.",
+      "mechanism": "Inspection staffing/task changes and establishment process-control duties.",
+      "coverage": "Voluntary NSIS swine slaughter establishments and selected waiver participants.",
+      "exceptions": "Traditional plants and nonparticipants differ. The court ruling concerned worker-safety comments, not proof of animal harm.",
+      "outcomeEvidence": "implementation",
+      "confidence": "moderate",
+      "confidenceReason": "Legal and operational records are verified; selected trial data have no counterfactual.",
+      "contributors": [
+        {
+          "institution": "USDA FSIS",
+          "role": "Rulemaking, waivers and verification"
+        },
+        {
+          "institution": "Federal district court",
+          "role": "Vacatur of line-speed provision"
+        },
+        {
+          "institution": "Participating slaughter establishments",
+          "role": "Trial operations and process control"
+        }
+      ],
+      "history": [
+        {
+          "date": "2019-10-01",
+          "status": "Finalized",
+          "event": "NSIS final rule published.",
+          "sourceIds": [
+            "em-nsis2019"
+          ]
+        },
+        {
+          "date": "2021-03-31",
+          "status": "Partial vacatur",
+          "event": "District of Minnesota vacated the line-speed provision.",
+          "sourceIds": [
+            "em-nsis2026"
+          ]
+        },
+        {
+          "date": "2021",
+          "status": "Trial program",
+          "event": "FSIS initiated Time-Limited Trials for selected plants.",
+          "sourceIds": [
+            "em-nsis2026"
+          ]
+        },
+        {
+          "date": "2026-02-19",
+          "status": "Proposed rule",
+          "event": "Trump II proposed eliminating the numerical NSIS line-speed cap.",
+          "sourceIds": [
+            "em-nsis2026"
+          ]
+        },
+        {
+          "date": "2026-08-05",
+          "status": "Latest verified update",
+          "event": "FSIS stated comments were under review.",
+          "sourceIds": [
+            "em-nsisstatus"
+          ]
+        }
+      ],
+      "claimIds": [
+        "em-nsis-change",
+        "em-nsis-trial",
+        "em-nsis-status"
+      ],
+      "sourceIds": [
+        "em-nsis2019",
+        "em-nsis2026",
+        "em-nsisstatus"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "em-budget2019",
+      "title": "FY2021 USDA Explanatory Notes—APHIS (FY2019 actual activities)",
+      "publisher": "USDA",
+      "url": "https://www.usda.gov/sites/default/files/documents/20aphis2021notes.pdf",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Printed pp. 22-130–22-132; PDF pp.130–132",
+      "evidenceType": "agency administrative data",
+      "limitations": "Budget publication includes both actuals and proposed amounts. Only explicitly FY2019 activity counts transcribed.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-budget2020",
+      "title": "FY2022 USDA Explanatory Notes—APHIS (FY2020 actual activities)",
+      "publisher": "USDA",
+      "url": "https://www.usda.gov/sites/default/files/documents/22APHIS2022Notes.pdf",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Printed pp.22-115–22-117; Animal Welfare",
+      "evidenceType": "agency administrative data",
+      "limitations": "Pandemic changed inspection operations. Actual activity counts only.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-budget2021",
+      "title": "FY2023 USDA Explanatory Notes—APHIS (FY2021 actual activities)",
+      "publisher": "USDA",
+      "url": "https://www.usda.gov/sites/default/files/documents/23-2023-APHIS.pdf",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Printed pp.23-120–23-122; Animal Welfare",
+      "evidenceType": "agency administrative data",
+      "limitations": "FY2021 includes both Trump I and Biden; approximately 1,012 virtual inspections reported. No causal attribution.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-budget2022",
+      "title": "FY2024 USDA Explanatory Notes—APHIS (FY2022 actual activities)",
+      "publisher": "USDA",
+      "url": "https://www.usda.gov/sites/default/files/documents/23-2024-APHIS.pdf",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Printed pp.23-128–23-131; Animal Welfare and Horse Protection; Preface, printed p.23-3",
+      "evidenceType": "agency administrative data",
+      "limitations": "Only explicitly reported FY2022 activity counts are transcribed. The preface specifies all years are fiscal unless otherwise noted. Enforcement counts differ from the CRS 2022 summary; that source discrepancy remains unresolved.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-budget2023",
+      "title": "FY2025 USDA Explanatory Notes—APHIS (FY2023 actual activities)",
+      "publisher": "USDA",
+      "url": "https://www.usda.gov/sites/default/files/documents/22-APHIS-2025-ExNotes.pdf",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "PDF pp.129–131; printed pp.22-127–22-129; Preface, printed p.22-1",
+      "evidenceType": "agency administrative data",
+      "limitations": "Some counts are rounded as over 10,000 inspections and over 16,000 entities; do not treat these as exact. The preface specifies all years are fiscal unless otherwise noted.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-ies2024",
+      "title": "APHIS Releases 2024 Impact Report—AWA enforcement totals",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/news/agency-announcements/aphis-releases-2024-impact-report",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Animal Welfare Act enforcement bullet; underlying 2024 Impact Report p.13",
+      "evidenceType": "agency administrative data",
+      "limitations": "Agency-reported output, not independently evaluated welfare effects. The live IES print endpoint now reports FY2025; use this dated-report release for FY2024 counts. Indexed earlier IES text explicitly identified fiscal 2024.",
+      "independentlyVerified": false,
+      "verificationNote": "Official release directly retrieved; case, warning and order counts match the indexed FY2024 IES summary. Underlying PDF direct fetch timed out."
+    },
+    {
+      "id": "em-ies2025",
+      "title": "Enforcement Summaries—FY2025",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/mission/enforcement-summaries",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Animal Care; Enforcement Glossary; page modified 2026-08-06",
+      "evidenceType": "agency administrative data",
+      "limitations": "FY2025 spans Biden and Trump II. Does not supply contemporaneous inspection denominator. Monetary amounts assessed are not necessarily collected.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-crsawa",
+      "title": "The Animal Welfare Act: Background and Selected Issues (R47179)",
+      "publisher": "Congressional Research Service",
+      "url": "https://www.congress.gov/crs-product/R47179",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Oversight and Enforcement; Public Database; AWA Enforcement",
+      "evidenceType": "congressional research",
+      "limitations": "Historical synthesis, not a causal evaluation. Its 2022 case counts differ from fiscal-year budget totals; source reconciliation is unresolved, so do not splice the series.",
+      "independentlyVerified": true,
+      "verificationNote": "Independent congressional synthesis; underlying inspection data remain agency-reported."
+    },
+    {
+      "id": "em-searchtool",
+      "title": "USDA Animal Care Public Search Tool",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/awa/public-search",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Page modified 2025-11-17; database scope",
+      "evidenceType": "implementation",
+      "limitations": "Confirms public availability, not complete capture of all records or causal deterrence.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-oig2021",
+      "title": "Animal Care Program Oversight of Dog Breeders, Audit 33601-0002-31",
+      "publisher": "USDA Office of Inspector General",
+      "url": "https://www.oversight.gov/sites/default/files/documents/reports/2021-07/33601-0002-31finaldistribution.pdf",
+      "publicationDate": "2021-06-30",
+      "accessDate": "2026-10-19",
+      "locator": "Highlights; Finding 1 and Finding 2",
+      "evidenceType": "independent audit",
+      "limitations": "COVID-19 prevented full evaluation; findings on data and complaint controls are not a random national animal-welfare estimate.",
+      "independentlyVerified": true,
+      "verificationNote": "OIG audit independent of APHIS program operations."
+    },
+    {
+      "id": "em-license2020",
+      "title": "Animal Welfare; Amendments to Licensing Provisions and to Requirements for Dogs",
+      "publisher": "USDA APHIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2020-05-13/pdf/2020-07837.pdf",
+      "publicationDate": "2020-05-13",
+      "accessDate": "2026-10-19",
+      "locator": "85 FR 28772; amendments to 9 CFR parts 1–3",
+      "evidenceType": "final regulation",
+      "limitations": "Legal obligations and expected benefits do not establish realized welfare effects.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-watercurrent",
+      "title": "Licensing Rule: Watering Standards",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/awa/licensing-rule/watering",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "9 CFR 3.10; page modified 2026-01-11",
+      "evidenceType": "implementation",
+      "limitations": "Agency implementation guidance, not audited outcome evidence.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-hpa2023",
+      "title": "Horse Protection proposed rule; FY2017–FY2022 inspection data",
+      "publisher": "USDA APHIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2023-08-21/pdf/2023-17814.pdf",
+      "publicationDate": "2023-08-21",
+      "accessDate": "2026-10-19",
+      "locator": "88 FR 56929, Table 1; performance-horse inspection counts",
+      "evidenceType": "agency administrative data",
+      "limitations": "Selected event entries, not unique animals or national prevalence. DQP groups and APHIS inspections are not randomized or necessarily disjoint. All HPA noncompliances include non-soring violations.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-hpa2024",
+      "title": "Horse Protection Amendments final rule",
+      "publisher": "USDA APHIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2024-05-08/pdf/2024-09469.pdf",
+      "publicationDate": "2024-05-08",
+      "accessDate": "2026-10-19",
+      "locator": "89 FR 39194; 39197–39198 Tables 1–2 and discussion",
+      "evidenceType": "final regulation and agency data",
+      "limitations": "Sore findings are selected inspected entries. Protocol changed in 2021. Rule partly vacated and delayed; consult 2026 source. Event activity reports use different reporting scope.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-hpawithdraw",
+      "title": "Withdrawal of 2017 Horse Protection final rule",
+      "publisher": "USDA APHIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2023-10-31/pdf/2023-23938.pdf",
+      "publicationDate": "2023-10-31",
+      "accessDate": "2026-10-19",
+      "locator": "88 FR 74336–74341",
+      "evidenceType": "final regulation",
+      "limitations": "Biden withdrawal of the unpublished 2017 rule followed notice and comment while a replacement proposal was pursued.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-hpacourt2022",
+      "title": "Humane Society of the United States v USDA",
+      "publisher": "U.S. Court of Appeals for the D.C. Circuit",
+      "url": "https://media.cadc.uscourts.gov/opinions/docs/2022/07/20-5291-1956030.pdf",
+      "publicationDate": "2022-07-22",
+      "accessDate": "2026-10-19",
+      "locator": "No.20-5291; opinion pp.2–5 and holding",
+      "evidenceType": "judicial decision",
+      "limitations": "Procedural rulemaking decision, not measured animal outcome.",
+      "independentlyVerified": true,
+      "verificationNote": "Judicial opinion directly retrieved."
+    },
+    {
+      "id": "em-hpadelay2026",
+      "title": "Horse Protection Amendments; Further Postponement of Regulations",
+      "publisher": "USDA APHIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-28/pdf/2026-01648.pdf",
+      "publicationDate": "2026-01-28",
+      "accessDate": "2026-10-19",
+      "locator": "91 FR 3633–3635; Dates and Background",
+      "evidenceType": "final regulation",
+      "limitations": "Summarizes January 31, 2025 district-court ruling; latest delay extends beyond this analysis cutoff.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-hpacurrent",
+      "title": "Horse Protection Act",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/hpa",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Page modified 2026-10-08; HPA Final Rule Postponement and HPI sections",
+      "evidenceType": "current implementation",
+      "limitations": "Current through page revision, not a full 2026 outcome dataset.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-organic2018",
+      "title": "National Organic Program; Organic Livestock and Poultry Practices—withdrawal",
+      "publisher": "USDA AMS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2018-03-13/pdf/2018-05029.pdf",
+      "publicationDate": "2018-03-13",
+      "accessDate": "2026-10-19",
+      "locator": "83 FR 10775; Summary, Dates and statutory-authority discussion",
+      "evidenceType": "final regulation",
+      "limitations": "Agency's authority and economic rationale disputed by later administration; withdrawal itself is verified.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-organic2023",
+      "title": "National Organic Program; Organic Livestock and Poultry Standards",
+      "publisher": "USDA AMS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2023-11-02/pdf/2023-23726.pdf",
+      "publicationDate": "2023-11-02",
+      "accessDate": "2026-10-19",
+      "locator": "88 FR 75394; background and 7 CFR 205.238–205.242",
+      "evidenceType": "final regulation",
+      "limitations": "Regulatory impact analysis forecasts are not observed welfare improvements.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-organiccurrent",
+      "title": "Organic Livestock and Poultry Standards—implementation dates",
+      "publisher": "USDA AMS",
+      "url": "https://www.ams.usda.gov/rules-regulations/organic-livestock-and-poultry-standards",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Effective Date and Compliance Dates; docket AMS-NOP-21-0073",
+      "evidenceType": "current implementation",
+      "limitations": "General compliance January 2, 2025; specified poultry requirements grandfathered until January 2, 2029.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-organic2026",
+      "title": "National Organic Program information-collection renewal notice",
+      "publisher": "USDA AMS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-25/html/2026-19623.htm",
+      "publicationDate": "2026-09-25",
+      "accessDate": "2026-10-19",
+      "locator": "Organic Livestock and Poultry Standards information collection",
+      "evidenceType": "implementation",
+      "limitations": "Administrative collection notice corroborates ongoing program, not verified on-farm compliance.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-downer2009",
+      "title": "Requirements for Cattle Becoming Non-Ambulatory Disabled Following Ante-Mortem Inspection",
+      "publisher": "USDA FSIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2009-03-18/pdf/E9-5987.pdf",
+      "publicationDate": "2009-03-18",
+      "accessDate": "2026-10-19",
+      "locator": "74 FR 11463–11466; Summary and Background",
+      "evidenceType": "final regulation",
+      "limitations": "Food safety and welfare rationales overlap; no causal mortality/suffering estimate.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-veal2016",
+      "title": "Requirements for Disposition of Non-Ambulatory Disabled Veal Calves",
+      "publisher": "USDA FSIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2016-07-18/pdf/2016-16904.pdf",
+      "publicationDate": "2016-07-18",
+      "accessDate": "2026-10-19",
+      "locator": "81 FR 46570–46577; 9 CFR 309.13; effective 2016-09-16",
+      "evidenceType": "final regulation",
+      "limitations": "Ex ante cost and benefit calculations are not post-rule outcome observations.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-antemortem",
+      "title": "Ante-Mortem Livestock Inspection, Directive 6100.1 Revision 3",
+      "publisher": "USDA FSIS",
+      "url": "https://www.fsis.usda.gov/policy/fsis-directives/6100.1",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Background paragraphs 2–3; custom-slaughter qualification",
+      "evidenceType": "implementation",
+      "limitations": "Page retrieved via indexed official text; does not provide national before/after welfare data.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-gao2010",
+      "title": "Humane Methods of Slaughter Act: Actions Are Needed to Strengthen Enforcement, GAO-10-203",
+      "publisher": "U.S. Government Accountability Office",
+      "url": "https://www.gao.gov/assets/a300926.html",
+      "publicationDate": "2010-02-19",
+      "accessDate": "2026-10-19",
+      "locator": "Table 2; Highlights; methodology; Appendix IV agency comments",
+      "evidenceType": "independent audit",
+      "limitations": "FTEs estimated from recorded hours and salaries, not dedicated headcount. Historical series; 2009 spans administrations. FSIS disputed portions of the report.",
+      "independentlyVerified": true,
+      "verificationNote": "GAO reviewed data reliability for its audit, with limitations; independent audit does not establish causality."
+    },
+    {
+      "id": "em-hheastudy",
+      "title": "Assessment of USDA FSIS Humane Handling Enforcement Actions: 2018–2020",
+      "publisher": "Translational Animal Science / peer-reviewed authors",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9838095/",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Methods; Tables 1–3; Results",
+      "evidenceType": "peer-reviewed observational study",
+      "limitations": "Census of posted enforcement letters, not all abusive incidents or a causal evaluation. Reinstatement and initial suspension are separate actions.",
+      "independentlyVerified": true,
+      "verificationNote": "Two reviewers extracted records; independent secondary analysis of agency letters."
+    },
+    {
+      "id": "em-nsis2019",
+      "title": "Modernization of Swine Slaughter Inspection",
+      "publisher": "USDA FSIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2019-10-01/pdf/2019-20245.pdf",
+      "publicationDate": "2019-10-01",
+      "accessDate": "2026-10-19",
+      "locator": "84 FR 52300; new swine inspection system",
+      "evidenceType": "final regulation",
+      "limitations": "Voluntary conversion creates selection; line-speed portion later vacated.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-nsis2026",
+      "title": "Maximum Line Speed Under the New Swine Slaughter Inspection System—proposed rule",
+      "publisher": "USDA FSIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-19/pdf/2026-03228.pdf",
+      "publicationDate": "2026-02-19",
+      "accessDate": "2026-10-19",
+      "locator": "91 FR 7905–7911; litigation and Humane Handling Verification",
+      "evidenceType": "proposed regulation and agency data",
+      "limitations": "Six participating trial plants; agency-reported tasks and NRs; no control group or animal-level sensitivity estimate. Proposed rule is not final.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-nsisstatus",
+      "title": "FSIS Updates for Small Plants—August 5, 2026",
+      "publisher": "USDA FSIS",
+      "url": "https://content.govdelivery.com/bulletins/gd/USFSIS-422b15b?wgt_ref=USFSIS_WIDGET_1",
+      "publicationDate": "2026-08-05",
+      "accessDate": "2026-10-19",
+      "locator": "Latest Regulatory and Program Updates",
+      "evidenceType": "implementation",
+      "limitations": "Reports comment review underway; cannot exclude later action solely from this update.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary publication retrieved and read; official reporting is not an independent outcome evaluation."
+    },
+    {
+      "id": "em-fsisdata",
+      "title": "Humane Handling Data—quarterly reports",
+      "publisher": "USDA FSIS",
+      "url": "https://www.fsis.usda.gov/science-data/data-sets-visualizations/humane-handling-data",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Available Data; FY2021Q1–FY2025Q2 rolling workbooks",
+      "evidenceType": "dataset catalog",
+      "limitations": "Catalog indexed; direct page retrieval failed. Workbooks not extracted in this research. Do not impute absent years.",
+      "independentlyVerified": false,
+      "verificationNote": "Catalog identified through indexed official text; direct retrieval failed and no workbook figures are claimed."
+    },
+    {
+      "id": "em-retail2013",
+      "title": "Animal Welfare; Retail Pet Stores and Licensing Exemptions",
+      "publisher": "USDA APHIS / Federal Register",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2013-09-18/pdf/2013-22616.pdf",
+      "publicationDate": "2013-09-18",
+      "accessDate": "2026-10-19",
+      "locator": "78 FR 57227–57250; Summary, Dates; 9 CFR 1.1 and 2.1",
+      "evidenceType": "final regulation",
+      "limitations": "Forecasts of newly covered breeders are not observed counts or causal welfare effects.",
+      "independentlyVerified": false,
+      "verificationNote": "Primary final rule retrieved and read."
+    },
+    {
+      "id": "em-hpa-event2023",
+      "title": "FY2023 Horse Protection Event Activity Report",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/sites/default/files/fy23-event-activity-report.pdf",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Header snapshot 2023-10-06; total row p.4",
+      "evidenceType": "agency administrative data",
+      "limitations": "Listed-event activity, not national inspection coverage or prevalence. Columns omit violation findings.",
+      "independentlyVerified": false,
+      "verificationNote": "Official PDF retrieved; total row and snapshot date verified."
+    },
+    {
+      "id": "em-hpa-event2024",
+      "title": "FY2024 Horse Protection Event Activity Report",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/sites/default/files/fy24-event-activity-report.pdf",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Header snapshot 2024-10-03; total row p.3",
+      "evidenceType": "agency administrative data",
+      "limitations": "Listed-event activity, not national inspection coverage or prevalence. Columns omit violation findings.",
+      "independentlyVerified": false,
+      "verificationNote": "Official PDF retrieved; total row and snapshot date verified."
+    },
+    {
+      "id": "em-hpa-event2025",
+      "title": "FY2025 Horse Protection Event Activity Report",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/sites/default/files/fy25-event-activity-report.pdf",
+      "publicationDate": null,
+      "accessDate": "2026-10-19",
+      "locator": "Header snapshot 2025-09-23; total row p.1",
+      "evidenceType": "agency administrative data",
+      "limitations": "Snapshot predates fiscal year-end; not a verified complete FY2025 total. Columns omit violation findings. Selected events and radiography strategy differ.",
+      "independentlyVerified": false,
+      "verificationNote": "Official PDF retrieved; total row and snapshot date verified."
+    }
+  ],
+  "claims": [
+    {
+      "id": "em-awa-output",
+      "policyId": "em-policy-awa-oversight",
+      "claim": "APHIS reported 17 initiated AWA investigative cases in FY2019, 262 in each of FY2022 and FY2023, and 240 in FY2025. These are administrative outputs, not counts of abused animals or estimates of deterrence.",
+      "sourceIds": [
+        "em-budget2019",
+        "em-budget2022",
+        "em-budget2023",
+        "em-ies2025"
+      ],
+      "locator": "Animal Welfare / Animal Care enforcement sections",
+      "evidenceType": "agency administrative data",
+      "confidence": "moderate",
+      "limitations": "Cases initiated, warnings, orders and inspections differ in grain and time lag. FY2021 and FY2025 straddle administrations. No animal-exposure denominator. The CRS 2022 summary differs from the fiscal budget totals and remains unreconciled.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-awa-data",
+      "policyId": "em-policy-awa-oversight",
+      "claim": "OIG found unreliable ACIS queries and inadequately addressed or documented responses for 145 of 322 dog-breeder complaints reviewed from FY2017–FY2019. APHIS replaced ACIS in September 2020 and agreed to control improvements.",
+      "sourceIds": [
+        "em-oig2021"
+      ],
+      "locator": "Findings 1–2, printed pp.3–8",
+      "evidenceType": "independent audit",
+      "confidence": "high",
+      "limitations": "The audit could not evaluate actual breeder compliance because COVID-19 limited fieldwork; documentation failure is not proof that every complaint was ignored.",
+      "independentlyVerified": true
+    },
+    {
+      "id": "em-awa-inspections",
+      "policyId": "em-policy-awa-oversight",
+      "claim": "Reported AWA inspections fell from 9,326 in FY2019 to 5,620 in pandemic FY2020, then reached 10,595 in FY2022. Licensed/registered entity counts changed substantially; inspections may revisit an entity.",
+      "sourceIds": [
+        "em-budget2019",
+        "em-budget2020",
+        "em-budget2021",
+        "em-budget2022"
+      ],
+      "locator": "Animal Welfare annual activities",
+      "evidenceType": "agency administrative data",
+      "confidence": "moderate",
+      "limitations": "Counts are activity, not the fraction of unique facilities inspected; eFile transition and virtual inspections complicate comparability.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-ars-inspections",
+      "policyId": "em-policy-awa-oversight",
+      "claim": "The budget notes also give a consistent five-year series for inspections of USDA Agricultural Research Service facilities: 47, 48, 49, 59 and 56 for FY2019–FY2023, against 38, 38, 38, 39 and 43 registered facilities.",
+      "sourceIds": [
+        "em-budget2019",
+        "em-budget2020",
+        "em-budget2021",
+        "em-budget2022",
+        "em-budget2023"
+      ],
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "evidenceType": "agency administrative data",
+      "confidence": "moderate",
+      "limitations": "A narrow federal research subset, not all AWA facilities; repeated inspections mean visits per facility, not inspection coverage.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-transparency-change",
+      "policyId": "em-policy-transparency",
+      "claim": "USDA removed public database access in February 2017. Congress subsequently required a searchable AWA database in P.L.116-94 (7 USC 2146a), and APHIS launched it in September 2020.",
+      "sourceIds": [
+        "em-crsawa"
+      ],
+      "locator": "Public Database",
+      "evidenceType": "congressional research",
+      "confidence": "high",
+      "limitations": "The access change is verified; its net effect on animal abuse was not measured.",
+      "independentlyVerified": true
+    },
+    {
+      "id": "em-transparency-current",
+      "policyId": "em-policy-transparency",
+      "claim": "APHIS currently advertises searchable licensee/registrant records, inspection reports, research annual reports and enforcement records.",
+      "sourceIds": [
+        "em-searchtool"
+      ],
+      "locator": "USDA Animal Care Public Search Tool; modified 2025-11-17",
+      "evidenceType": "implementation",
+      "confidence": "high",
+      "limitations": "Availability is not proof of completeness or consistent historical redaction.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-retail-rule",
+      "policyId": "em-policy-retail2013",
+      "claim": "The Obama-era 2013 rule narrowed the retail-pet-store exemption to transactions with buyer, seller and animal physically present, bringing otherwise covered sight-unseen sellers under licensing and inspection. It also expanded the small-breeder exemption from three to four breeding females.",
+      "sourceIds": [
+        "em-retail2013"
+      ],
+      "locator": "78 FR 57227–57228; 9 CFR 1.1 and 2.1",
+      "evidenceType": "final regulation",
+      "confidence": "high",
+      "limitations": "Not every internet seller is covered; qualifying small breeders and in-person sellers remain exempt. Forecasted coverage is not actual enforcement.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-dogs-rule",
+      "policyId": "em-policy-dogs2020",
+      "claim": "Trump I's 2020 rule replaced annual license renewal with a compliance demonstration for a new three-year license and strengthened dog-care standards, including continuously available potable water and veterinary-care requirements.",
+      "sourceIds": [
+        "em-license2020"
+      ],
+      "locator": "85 FR 28772; 9 CFR parts 2–3",
+      "evidenceType": "final regulation",
+      "confidence": "high",
+      "limitations": "Licensing applies to regulated dealers and exhibitors, not all dog owners; minimum standards do not quantify welfare effects.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-dogs-implementation",
+      "policyId": "em-policy-dogs2020",
+      "claim": "APHIS reported 1,485 relicense inspections in FY2023 and completion of the three-year transition in September 2023. Its 2026 guidance still specifies continuous potable water for regulated dogs.",
+      "sourceIds": [
+        "em-budget2023",
+        "em-watercurrent"
+      ],
+      "locator": "FY2025 explanatory notes Animal Welfare; 9 CFR 3.10 guidance",
+      "evidenceType": "implementation",
+      "confidence": "high",
+      "limitations": "Inspection activity confirms implementation under Biden, not that all dogs received improved care.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-hpa-detection",
+      "policyId": "em-policy-hpa",
+      "claim": "In each FY2017–FY2022, DQPs recorded more performance-horse noncompliances per inspected entry at events with APHIS present than without it. FY2022 ratios were 219/3,220 and 174/9,746; these do not establish fractions of unique noncompliant horses.",
+      "sourceIds": [
+        "em-hpa2023"
+      ],
+      "locator": "88 FR 56929, Table 1",
+      "evidenceType": "agency administrative data",
+      "confidence": "moderate",
+      "limitations": "APHIS event selection and entry selection are not random; the groups may overlap. Includes violations beyond soring and is not a causal estimate of monitoring.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-hpa-sore",
+      "policyId": "em-policy-hpa",
+      "claim": "APHIS reported 78 recorded sore noncompliances per 1,556 inspected entries in FY2018 and 525 per 2,740 in FY2023. These detection ratios cannot establish population prevalence or the number of unique sore horses.",
+      "sourceIds": [
+        "em-hpa2024"
+      ],
+      "locator": "89 FR 39197–39198, Tables 1–2",
+      "evidenceType": "agency administrative data",
+      "confidence": "moderate",
+      "limitations": "Selected entries, not unique horses; two-veterinarian confirmation requirement was removed in 2021. This series includes referrals omitted from event-activity summaries.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-hpa-procedure",
+      "policyId": "em-policy-hpa",
+      "claim": "After the 2017 rule was withdrawn before publication, the D.C. Circuit held in 2022 that withdrawal after public inspection required notice and comment. Biden's USDA formally withdrew it in 2023 while developing a replacement.",
+      "sourceIds": [
+        "em-hpacourt2022",
+        "em-hpawithdraw"
+      ],
+      "locator": "No.20-5291 holding; 88 FR 74336",
+      "evidenceType": "judicial decision and final regulation",
+      "confidence": "high",
+      "limitations": "Procedural ruling did not measure outcomes or itself implement the 2017 protections.",
+      "independentlyVerified": true
+    },
+    {
+      "id": "em-hpa-status",
+      "policyId": "em-policy-hpa",
+      "claim": "Biden's May 2024 rule sought to replace industry DQPs with APHIS-authorized inspectors. Section 11.19 training authorization took effect June 7, 2024. Following partial January 2025 vacatur, Trump II postponed the main surviving amendments to December 31, 2026; APHIS's October 2026 page reports training paused.",
+      "sourceIds": [
+        "em-hpa2024",
+        "em-hpadelay2026",
+        "em-hpacurrent"
+      ],
+      "locator": "89 FR 39194; 91 FR 3633–3635; HPA Final Rule Postponement",
+      "evidenceType": "final regulation and current implementation",
+      "confidence": "high",
+      "limitations": "The main delayed amendments take effect after the cutoff; §11.19 is already effective. Do not describe the entire rule as either implemented or not effective, or infer prevented soring.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-organic-cycle",
+      "policyId": "em-policy-organic",
+      "claim": "Obama's January 2017 OLPP standards were withdrawn by Trump I in March 2018. Biden's November 2023 OLPS rule reinstated and revised federal organic livestock/poultry husbandry standards.",
+      "sourceIds": [
+        "em-organic2018",
+        "em-organic2023"
+      ],
+      "locator": "83 FR 10775; 88 FR 75394 background and 7 CFR 205.238–242",
+      "evidenceType": "final regulation",
+      "confidence": "high",
+      "limitations": "Applies through voluntary USDA organic certification, not a universal farm-welfare law.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-organic-dates",
+      "policyId": "em-policy-organic",
+      "claim": "OLPS became effective January 12, 2024. Most compliance was due January 2, 2025; specified requirements for existing poultry operations run to January 2, 2029. A September 2026 AMS collection notice still describes OLPS administration.",
+      "sourceIds": [
+        "em-organiccurrent",
+        "em-organic2026"
+      ],
+      "locator": "Effective/Compliance Dates; September 25, 2026 notice",
+      "evidenceType": "implementation",
+      "confidence": "high",
+      "limitations": "Legal deadlines and ongoing administration do not establish actual compliance or animal outcomes; transition remains incomplete.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-downer-rule",
+      "policyId": "em-policy-downer2009",
+      "claim": "The 2009 final rule requires condemnation of cattle that become non-ambulatory after ante-mortem inspection, closing an exception left by the 2004 rule. USDA proposed the change in 2008 and finalized it under Obama.",
+      "sourceIds": [
+        "em-downer2009"
+      ],
+      "locator": "74 FR 11463–11464; 9 CFR 309.3(e)",
+      "evidenceType": "final regulation",
+      "confidence": "high",
+      "limitations": "Official slaughter establishments; not a farm-wide ban, not a rule for every livestock species. Food-safety and welfare purposes overlap.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-downer-current",
+      "policyId": "em-policy-downer2009",
+      "claim": "FSIS's current ante-mortem directive maintains the non-ambulatory-cattle rule but notes a distinct custom-slaughter situation for cattle becoming disabled after delivery and otherwise eligible for human food.",
+      "sourceIds": [
+        "em-antemortem"
+      ],
+      "locator": "Directive 6100.1 Revision 3; Background and custom slaughter",
+      "evidenceType": "implementation",
+      "confidence": "high",
+      "limitations": "Custom exemption must not be mistaken for a general exception at inspected commercial slaughter plants.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-veal-rule",
+      "policyId": "em-policy-veal2016",
+      "claim": "Obama's 2016 rule removed the option of holding non-ambulatory veal calves for rest and warming to see whether they recovered. It requires prompt humane euthanasia; implementation began September 16, 2016.",
+      "sourceIds": [
+        "em-veal2016"
+      ],
+      "locator": "81 FR 46570; 9 CFR 309.13",
+      "evidenceType": "final regulation",
+      "confidence": "high",
+      "limitations": "Eliminates a handling incentive, but the reviewed sources do not supply a national pre/post causal evaluation.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-fsis-resource",
+      "policyId": "em-policy-humane-slaughter",
+      "claim": "GAO reported humane-handling enforcement resources of 110, 124, 121, 157 and 157 FTEs in FY2005–FY2009. Congressional minimums were 63, 63, no requirement, 83 and 120.",
+      "sourceIds": [
+        "em-gao2010"
+      ],
+      "locator": "GAO-10-203, Table 2",
+      "evidenceType": "independent audit",
+      "confidence": "high",
+      "limitations": "FTEs are allocated time, not a dedicated staff headcount or a controlled explanation of welfare changes.",
+      "independentlyVerified": true
+    },
+    {
+      "id": "em-fsis-audit",
+      "policyId": "em-policy-humane-slaughter",
+      "claim": "GAO found inconsistent enforcement and knowledge gaps concerning signs of sensibility, alongside higher recorded resources. The audit recommended stronger guidance, training and oversight; FSIS disputed some findings.",
+      "sourceIds": [
+        "em-gao2010"
+      ],
+      "locator": "Highlights; enforcement findings; Appendix IV",
+      "evidenceType": "independent audit",
+      "confidence": "high",
+      "limitations": "Historical audit; does not establish current conditions or that additional staff caused better outcomes.",
+      "independentlyVerified": true
+    },
+    {
+      "id": "em-fsis-letters",
+      "policyId": "em-policy-humane-slaughter",
+      "claim": "A peer-reviewed review found 293 posted humane-handling enforcement actions in 2018–2020; 251 concerned stunning and 233 involved suspending or reinstating suspension of inspection pending corrective action.",
+      "sourceIds": [
+        "em-hheastudy"
+      ],
+      "locator": "Results; Tables 1–3",
+      "evidenceType": "peer-reviewed observational study",
+      "confidence": "high",
+      "limitations": "Letters measure detected events and regulatory responses, not unique animals or all violations; repeat actions can concern the same establishment.",
+      "independentlyVerified": true
+    },
+    {
+      "id": "em-nsis-change",
+      "policyId": "em-policy-nsis",
+      "claim": "Trump I's 2019 NSIS rule allowed voluntary swine-inspection changes and removed the 1,106-head-per-hour maximum. A 2021 court decision vacated the line-speed provision for inadequate consideration of worker-safety comments; it did not find animal-welfare effects.",
+      "sourceIds": [
+        "em-nsis2019",
+        "em-nsis2026"
+      ],
+      "locator": "84 FR 52300; 91 FR 7905–7907 background",
+      "evidenceType": "regulation and judicial history",
+      "confidence": "high",
+      "limitations": "Other NSIS provisions continued; worker-safety findings must not be relabeled animal-welfare results.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-nsis-trial",
+      "policyId": "em-policy-nsis",
+      "claim": "The 2026 proposal reports that six Time-Limited Trial plants had 11 humane-handling noncompliance records across 25,821 verification tasks from each waiver's start through February 28, 2025, with none classified egregious.",
+      "sourceIds": [
+        "em-nsis2026"
+      ],
+      "locator": "Humane Handling Verification",
+      "evidenceType": "agency administrative data",
+      "confidence": "moderate",
+      "limitations": "Selected participants, pooled periods, task-level denominator, agency classification and no control group. This is not the percentage of pigs treated inhumanely.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-nsis-status",
+      "policyId": "em-policy-nsis",
+      "claim": "Trump II proposed restoring unlimited NSIS line speeds, conditional on process control, on February 19, 2026. The latest verified August 5 agency update says comments were under review.",
+      "sourceIds": [
+        "em-nsis2026",
+        "em-nsisstatus"
+      ],
+      "locator": "91 FR 7905; Latest Regulatory and Program Updates",
+      "evidenceType": "proposed regulation",
+      "confidence": "high",
+      "limitations": "No final rule was identified in this research; the August update alone cannot exclude a later action before the cutoff.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "em-hpa-recent-activity",
+      "policyId": "em-policy-hpa",
+      "claim": "Published HPA event reports list 2,740 USDA-inspected entries in FY2023 and 2,031 in FY2024. The FY2025 report snapshot, dated September 23 before fiscal year-end, lists 314 inspected entries and 100 horses radiographed.",
+      "sourceIds": [
+        "em-hpa-event2023",
+        "em-hpa-event2024",
+        "em-hpa-event2025"
+      ],
+      "locator": "Total rows and snapshot-date headers",
+      "evidenceType": "agency administrative data",
+      "confidence": "moderate",
+      "limitations": "Selected event lists and changing inspection/radiography mix; FY2025 snapshot is not confirmed complete. Counts show reported activity, not incidence or causal effects of the rule delay.",
+      "independentlyVerified": false
+    }
+  ],
+  "observations": [
+    {
+      "id": "em-hpa-dqp-absent-2017",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS absent",
+      "year": 2017,
+      "periodType": "fiscal",
+      "value": 154,
+      "unit": "recorded noncompliances",
+      "denominator": 9992,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2017 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-present-2017",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS present",
+      "year": 2017,
+      "periodType": "fiscal",
+      "value": 163,
+      "unit": "recorded noncompliances",
+      "denominator": 4112,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2017 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-aphis-2017",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "APHIS inspections",
+      "year": 2017,
+      "periodType": "fiscal",
+      "value": 126,
+      "unit": "recorded noncompliances",
+      "denominator": 1005,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2017 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-absent-2018",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS absent",
+      "year": 2018,
+      "periodType": "fiscal",
+      "value": 277,
+      "unit": "recorded noncompliances",
+      "denominator": 9290,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2018 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-present-2018",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS present",
+      "year": 2018,
+      "periodType": "fiscal",
+      "value": 230,
+      "unit": "recorded noncompliances",
+      "denominator": 4427,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2018 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-aphis-2018",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "APHIS inspections",
+      "year": 2018,
+      "periodType": "fiscal",
+      "value": 100,
+      "unit": "recorded noncompliances",
+      "denominator": 1081,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2018 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-absent-2019",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS absent",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 417,
+      "unit": "recorded noncompliances",
+      "denominator": 9698,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2019 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-present-2019",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS present",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 297,
+      "unit": "recorded noncompliances",
+      "denominator": 2978,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2019 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-aphis-2019",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "APHIS inspections",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 233,
+      "unit": "recorded noncompliances",
+      "denominator": 901,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2019 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-absent-2020",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS absent",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 251,
+      "unit": "recorded noncompliances",
+      "denominator": 8522,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2020 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-present-2020",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS present",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 88,
+      "unit": "recorded noncompliances",
+      "denominator": 1107,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2020 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-aphis-2020",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "APHIS inspections",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 79,
+      "unit": "recorded noncompliances",
+      "denominator": 276,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2020 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-absent-2021",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS absent",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 224,
+      "unit": "recorded noncompliances",
+      "denominator": 11825,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2021 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-present-2021",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS present",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 97,
+      "unit": "recorded noncompliances",
+      "denominator": 1373,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2021 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-aphis-2021",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "APHIS inspections",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 158,
+      "unit": "recorded noncompliances",
+      "denominator": 398,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2021 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-absent-2022",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS absent",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 174,
+      "unit": "recorded noncompliances",
+      "denominator": 9746,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2022 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-dqp-present-2022",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "DQP inspections: APHIS present",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 219,
+      "unit": "recorded noncompliances",
+      "denominator": 3220,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2022 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-aphis-2022",
+      "dataset": "HPA performance-horse noncompliance",
+      "series": "APHIS inspections",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 317,
+      "unit": "recorded noncompliances",
+      "denominator": 930,
+      "denominatorDescription": "Performance-horse entries inspected in this monitoring group; not unique horses.",
+      "sourceId": "em-hpa2023",
+      "locator": "88 FR 56929, Table 1, FY2022 row",
+      "notes": "Compute recorded noncompliances per 100 inspected entries as value / denominator × 100. Numerator does not establish unique noncompliant entries or horses. Selected shows and entries; groups not randomized or necessarily disjoint. Includes non-soring violations; not population prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-sore-2018",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Sore findings",
+      "year": 2018,
+      "periodType": "fiscal",
+      "value": 78,
+      "unit": "recorded sore noncompliances",
+      "denominator": 1556,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Tables 1–2, FY2018 row",
+      "notes": "Not unique horses or a random prevalence sample. Two-veterinarian confirmation removed in 2021. Rule includes VMO referrals to DQPs, unlike narrower event-activity summaries; do not splice. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-other-2018",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Other HPA noncompliances",
+      "year": 2018,
+      "periodType": "fiscal",
+      "value": 27,
+      "unit": "recorded other HPA noncompliances",
+      "denominator": 1556,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Table 2, FY2018 row",
+      "notes": "Separate from sore findings; same selected-entry denominator. Not comparable to performance-only Table 1 in the 2023 proposed rule. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-sore-2019",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Sore findings",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 180,
+      "unit": "recorded sore noncompliances",
+      "denominator": 1198,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Tables 1–2, FY2019 row",
+      "notes": "Not unique horses or a random prevalence sample. Two-veterinarian confirmation removed in 2021. Rule includes VMO referrals to DQPs, unlike narrower event-activity summaries; do not splice. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-other-2019",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Other HPA noncompliances",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 69,
+      "unit": "recorded other HPA noncompliances",
+      "denominator": 1198,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Table 2, FY2019 row",
+      "notes": "Separate from sore findings; same selected-entry denominator. Not comparable to performance-only Table 1 in the 2023 proposed rule. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-sore-2020",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Sore findings",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 61,
+      "unit": "recorded sore noncompliances",
+      "denominator": 326,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Tables 1–2, FY2020 row",
+      "notes": "Not unique horses or a random prevalence sample. Two-veterinarian confirmation removed in 2021. Rule includes VMO referrals to DQPs, unlike narrower event-activity summaries; do not splice. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-other-2020",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Other HPA noncompliances",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 19,
+      "unit": "recorded other HPA noncompliances",
+      "denominator": 326,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Table 2, FY2020 row",
+      "notes": "Separate from sore findings; same selected-entry denominator. Not comparable to performance-only Table 1 in the 2023 proposed rule. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-sore-2021",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Sore findings",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 122,
+      "unit": "recorded sore noncompliances",
+      "denominator": 541,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Tables 1–2, FY2021 row",
+      "notes": "Not unique horses or a random prevalence sample. Two-veterinarian confirmation removed in 2021. Rule includes VMO referrals to DQPs, unlike narrower event-activity summaries; do not splice. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-other-2021",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Other HPA noncompliances",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 37,
+      "unit": "recorded other HPA noncompliances",
+      "denominator": 541,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Table 2, FY2021 row",
+      "notes": "Separate from sore findings; same selected-entry denominator. Not comparable to performance-only Table 1 in the 2023 proposed rule. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-sore-2022",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Sore findings",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 257,
+      "unit": "recorded sore noncompliances",
+      "denominator": 1287,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Tables 1–2, FY2022 row",
+      "notes": "Not unique horses or a random prevalence sample. Two-veterinarian confirmation removed in 2021. Rule includes VMO referrals to DQPs, unlike narrower event-activity summaries; do not splice. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-other-2022",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Other HPA noncompliances",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 66,
+      "unit": "recorded other HPA noncompliances",
+      "denominator": 1287,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Table 2, FY2022 row",
+      "notes": "Separate from sore findings; same selected-entry denominator. Not comparable to performance-only Table 1 in the 2023 proposed rule. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-sore-2023",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Sore findings",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": 525,
+      "unit": "recorded sore noncompliances",
+      "denominator": 2740,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Tables 1–2, FY2023 row",
+      "notes": "Not unique horses or a random prevalence sample. Two-veterinarian confirmation removed in 2021. Rule includes VMO referrals to DQPs, unlike narrower event-activity summaries; do not splice. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-other-2023",
+      "dataset": "HPA APHIS selected-entry findings",
+      "series": "Other HPA noncompliances",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": 96,
+      "unit": "recorded other HPA noncompliances",
+      "denominator": 2740,
+      "denominatorDescription": "Inspected performance and flat-shod entries at events with DQPs.",
+      "sourceId": "em-hpa2024",
+      "locator": "89 FR 39198, Table 2, FY2023 row",
+      "notes": "Separate from sore findings; same selected-entry denominator. Not comparable to performance-only Table 1 in the 2023 proposed rule. Numerators are recorded noncompliances, not verified unique noncompliant horses or entries.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-cases-2019",
+      "dataset": "AWA enforcement outputs",
+      "series": "Investigative cases initiated",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 17,
+      "unit": "cases",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2019",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-warnings-2019",
+      "dataset": "AWA enforcement outputs",
+      "series": "Official warnings",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 2,
+      "unit": "warnings",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2019",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-orders-2019",
+      "dataset": "AWA enforcement outputs",
+      "series": "Administrative orders",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 10,
+      "unit": "orders",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2019",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-cases-2020",
+      "dataset": "AWA enforcement outputs",
+      "series": "Investigative cases initiated",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 30,
+      "unit": "cases",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2020",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-warnings-2020",
+      "dataset": "AWA enforcement outputs",
+      "series": "Official warnings",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": null,
+      "unit": "warnings",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2020",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "missing"
+    },
+    {
+      "id": "em-awa-orders-2020",
+      "dataset": "AWA enforcement outputs",
+      "series": "Administrative orders",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 24,
+      "unit": "orders",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2020",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-cases-2021",
+      "dataset": "AWA enforcement outputs",
+      "series": "Investigative cases initiated",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 118,
+      "unit": "cases",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2021",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-warnings-2021",
+      "dataset": "AWA enforcement outputs",
+      "series": "Official warnings",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 58,
+      "unit": "warnings",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2021",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-orders-2021",
+      "dataset": "AWA enforcement outputs",
+      "series": "Administrative orders",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 8,
+      "unit": "orders",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2021",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-cases-2022",
+      "dataset": "AWA enforcement outputs",
+      "series": "Investigative cases initiated",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 262,
+      "unit": "cases",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2022",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-warnings-2022",
+      "dataset": "AWA enforcement outputs",
+      "series": "Official warnings",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 204,
+      "unit": "warnings",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2022",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-orders-2022",
+      "dataset": "AWA enforcement outputs",
+      "series": "Administrative orders",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 17,
+      "unit": "orders",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2022",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-cases-2023",
+      "dataset": "AWA enforcement outputs",
+      "series": "Investigative cases initiated",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": 262,
+      "unit": "cases",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2023",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-warnings-2023",
+      "dataset": "AWA enforcement outputs",
+      "series": "Official warnings",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": 214,
+      "unit": "warnings",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2023",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-orders-2023",
+      "dataset": "AWA enforcement outputs",
+      "series": "Administrative orders",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": 19,
+      "unit": "orders",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-budget2023",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-cases-2024",
+      "dataset": "AWA enforcement outputs",
+      "series": "Investigative cases initiated",
+      "year": 2024,
+      "periodType": "fiscal",
+      "value": 209,
+      "unit": "cases",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-ies2024",
+      "locator": "2024 Impact Report release, Animal Welfare Act enforcement bullet",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-warnings-2024",
+      "dataset": "AWA enforcement outputs",
+      "series": "Official warnings",
+      "year": 2024,
+      "periodType": "fiscal",
+      "value": 134,
+      "unit": "warnings",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-ies2024",
+      "locator": "2024 Impact Report release, Animal Welfare Act enforcement bullet",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-orders-2024",
+      "dataset": "AWA enforcement outputs",
+      "series": "Administrative orders",
+      "year": 2024,
+      "periodType": "fiscal",
+      "value": 19,
+      "unit": "orders",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-ies2024",
+      "locator": "2024 Impact Report release, Animal Welfare Act enforcement bullet",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-cases-2025",
+      "dataset": "AWA enforcement outputs",
+      "series": "Investigative cases initiated",
+      "year": 2025,
+      "periodType": "fiscal",
+      "value": 240,
+      "unit": "cases",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-ies2025",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-warnings-2025",
+      "dataset": "AWA enforcement outputs",
+      "series": "Official warnings",
+      "year": 2025,
+      "periodType": "fiscal",
+      "value": 275,
+      "unit": "warnings",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-ies2025",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-orders-2025",
+      "dataset": "AWA enforcement outputs",
+      "series": "Administrative orders",
+      "year": 2025,
+      "periodType": "fiscal",
+      "value": 8,
+      "unit": "orders",
+      "denominator": null,
+      "denominatorDescription": "No harmonized animal-exposure or total-allegations denominator.",
+      "sourceId": "em-ies2025",
+      "locator": "Animal Welfare / Animal Care enforcement section",
+      "notes": "Different output grains and processing lags; do not add cases, warnings and orders. FY2021/FY2025 span administrations. FY2024 from APHIS 2024 Impact Report release, corroborated by indexed IES summary; FY2025 from live IES HTML.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-inspections-2019",
+      "dataset": "AWA inspection activity",
+      "series": "Inspection count; regulated-entity denominator in table",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 9326,
+      "unit": "inspections",
+      "denominator": 8954,
+      "denominatorDescription": "Licensed and registered entities, not physical facilities or unique inspected entities.",
+      "sourceId": "em-budget2019",
+      "locator": "Animal Welfare annual activities",
+      "notes": "A descriptive workload ratio, not percentage inspected. One entity may have multiple facilities and repeat inspections. COVID-19, virtual inspections and the 2020 data-system transition affect comparability.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-inspections-2020",
+      "dataset": "AWA inspection activity",
+      "series": "Inspection count; regulated-entity denominator in table",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 5620,
+      "unit": "inspections",
+      "denominator": 8751,
+      "denominatorDescription": "Licensed and registered entities, not physical facilities or unique inspected entities.",
+      "sourceId": "em-budget2020",
+      "locator": "Animal Welfare annual activities",
+      "notes": "A descriptive workload ratio, not percentage inspected. One entity may have multiple facilities and repeat inspections. COVID-19, virtual inspections and the 2020 data-system transition affect comparability.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-inspections-2021",
+      "dataset": "AWA inspection activity",
+      "series": "Inspection count; regulated-entity denominator in table",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 7670,
+      "unit": "inspections",
+      "denominator": 11785,
+      "denominatorDescription": "Licensed and registered entities, not physical facilities or unique inspected entities.",
+      "sourceId": "em-budget2021",
+      "locator": "Animal Welfare annual activities",
+      "notes": "A descriptive workload ratio, not percentage inspected. One entity may have multiple facilities and repeat inspections. COVID-19, virtual inspections and the 2020 data-system transition affect comparability.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-inspections-2022",
+      "dataset": "AWA inspection activity",
+      "series": "Inspection count; regulated-entity denominator in table",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 10595,
+      "unit": "inspections",
+      "denominator": 13376,
+      "denominatorDescription": "Licensed and registered entities, not physical facilities or unique inspected entities.",
+      "sourceId": "em-budget2022",
+      "locator": "Animal Welfare annual activities",
+      "notes": "A descriptive workload ratio, not percentage inspected. One entity may have multiple facilities and repeat inspections. COVID-19, virtual inspections and the 2020 data-system transition affect comparability. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-awa-inspections-2023",
+      "dataset": "AWA inspection activity",
+      "series": "Inspection count; regulated-entity denominator in table",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": null,
+      "unit": "inspections",
+      "denominator": null,
+      "denominatorDescription": "Publication gives over 10,000 inspections and over 16,000 entities rather than exact values.",
+      "sourceId": "em-budget2023",
+      "locator": "Animal Welfare annual activities",
+      "notes": "Rounded lower bounds are not transcribed as exact observations. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "missing"
+    },
+    {
+      "id": "em-ars-inspections-2019",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Inspection visits",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 47,
+      "unit": "inspections",
+      "denominator": 38,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2019",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Visits per registered facility, not percentage of facilities inspected. Narrow federal research subset, not all AWA facilities.",
+      "status": "observed"
+    },
+    {
+      "id": "em-ars-noncompliant-2019",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Facilities with identified noncompliance",
+      "year": 2019,
+      "periodType": "fiscal",
+      "value": 4,
+      "unit": "facilities",
+      "denominator": 38,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2019",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Source reports all but this number of facilities in compliance. Inspection-detected regulatory noncompliance is not necessarily injury or suffering; facility portfolio changes.",
+      "status": "observed"
+    },
+    {
+      "id": "em-ars-inspections-2020",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Inspection visits",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 48,
+      "unit": "inspections",
+      "denominator": 38,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2020",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Visits per registered facility, not percentage of facilities inspected. Narrow federal research subset, not all AWA facilities.",
+      "status": "observed"
+    },
+    {
+      "id": "em-ars-noncompliant-2020",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Facilities with identified noncompliance",
+      "year": 2020,
+      "periodType": "fiscal",
+      "value": 3,
+      "unit": "facilities",
+      "denominator": 38,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2020",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Source reports all but this number of facilities in compliance. Inspection-detected regulatory noncompliance is not necessarily injury or suffering; facility portfolio changes.",
+      "status": "observed"
+    },
+    {
+      "id": "em-ars-inspections-2021",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Inspection visits",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 49,
+      "unit": "inspections",
+      "denominator": 38,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2021",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Visits per registered facility, not percentage of facilities inspected. Narrow federal research subset, not all AWA facilities.",
+      "status": "observed"
+    },
+    {
+      "id": "em-ars-noncompliant-2021",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Facilities with identified noncompliance",
+      "year": 2021,
+      "periodType": "fiscal",
+      "value": 3,
+      "unit": "facilities",
+      "denominator": 38,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2021",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Source reports all but this number of facilities in compliance. Inspection-detected regulatory noncompliance is not necessarily injury or suffering; facility portfolio changes.",
+      "status": "observed"
+    },
+    {
+      "id": "em-ars-inspections-2022",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Inspection visits",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 59,
+      "unit": "inspections",
+      "denominator": 39,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2022",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Visits per registered facility, not percentage of facilities inspected. Narrow federal research subset, not all AWA facilities. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-ars-noncompliant-2022",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Facilities with identified noncompliance",
+      "year": 2022,
+      "periodType": "fiscal",
+      "value": 2,
+      "unit": "facilities",
+      "denominator": 39,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2022",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Source reports all but this number of facilities in compliance. Inspection-detected regulatory noncompliance is not necessarily injury or suffering; facility portfolio changes. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-ars-inspections-2023",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Inspection visits",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": 56,
+      "unit": "inspections",
+      "denominator": 43,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2023",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Visits per registered facility, not percentage of facilities inspected. Narrow federal research subset, not all AWA facilities. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-ars-noncompliant-2023",
+      "dataset": "ARS registered-facility oversight",
+      "series": "Facilities with identified noncompliance",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": 2,
+      "unit": "facilities",
+      "denominator": 43,
+      "denominatorDescription": "Registered USDA Agricultural Research Service facilities.",
+      "sourceId": "em-budget2023",
+      "locator": "Animal Welfare; Agricultural Research Service facilities",
+      "notes": "Source reports all but this number of facilities in compliance. Inspection-detected regulatory noncompliance is not necessarily injury or suffering; facility portfolio changes. The publication preface specifies fiscal years unless otherwise noted.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-fte-2005",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Recorded humane-handling FTEs",
+      "year": 2005,
+      "periodType": "fiscal",
+      "value": 110,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "No animal-level denominator; FTEs measure allocated labor.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2005 row",
+      "notes": "Estimated from HATS-recorded time and salary information; not dedicated inspector headcount. FY2009 spans Bush and Obama.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-minimum-2005",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Congressional FTE minimum",
+      "year": 2005,
+      "periodType": "fiscal",
+      "value": 63,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "Statutory/resource requirement, not a denominator.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2005 row",
+      "notes": "No requirement in FY2007 is not a zero staffing allocation.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-fte-2006",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Recorded humane-handling FTEs",
+      "year": 2006,
+      "periodType": "fiscal",
+      "value": 124,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "No animal-level denominator; FTEs measure allocated labor.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2006 row",
+      "notes": "Estimated from HATS-recorded time and salary information; not dedicated inspector headcount. FY2009 spans Bush and Obama.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-minimum-2006",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Congressional FTE minimum",
+      "year": 2006,
+      "periodType": "fiscal",
+      "value": 63,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "Statutory/resource requirement, not a denominator.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2006 row",
+      "notes": "No requirement in FY2007 is not a zero staffing allocation.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-fte-2007",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Recorded humane-handling FTEs",
+      "year": 2007,
+      "periodType": "fiscal",
+      "value": 121,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "No animal-level denominator; FTEs measure allocated labor.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2007 row",
+      "notes": "Estimated from HATS-recorded time and salary information; not dedicated inspector headcount. FY2009 spans Bush and Obama.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-minimum-2007",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Congressional FTE minimum",
+      "year": 2007,
+      "periodType": "fiscal",
+      "value": null,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "Statutory/resource requirement, not a denominator.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2007 row",
+      "notes": "No requirement in FY2007 is not a zero staffing allocation.",
+      "status": "not applicable"
+    },
+    {
+      "id": "em-fsis-fte-2008",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Recorded humane-handling FTEs",
+      "year": 2008,
+      "periodType": "fiscal",
+      "value": 157,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "No animal-level denominator; FTEs measure allocated labor.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2008 row",
+      "notes": "Estimated from HATS-recorded time and salary information; not dedicated inspector headcount. FY2009 spans Bush and Obama.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-minimum-2008",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Congressional FTE minimum",
+      "year": 2008,
+      "periodType": "fiscal",
+      "value": 83,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "Statutory/resource requirement, not a denominator.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2008 row",
+      "notes": "No requirement in FY2007 is not a zero staffing allocation.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-fte-2009",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Recorded humane-handling FTEs",
+      "year": 2009,
+      "periodType": "fiscal",
+      "value": 157,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "No animal-level denominator; FTEs measure allocated labor.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2009 row",
+      "notes": "Estimated from HATS-recorded time and salary information; not dedicated inspector headcount. FY2009 spans Bush and Obama.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-minimum-2009",
+      "dataset": "FSIS humane-handling resources",
+      "series": "Congressional FTE minimum",
+      "year": 2009,
+      "periodType": "fiscal",
+      "value": 120,
+      "unit": "full-time equivalents",
+      "denominator": null,
+      "denominatorDescription": "Statutory/resource requirement, not a denominator.",
+      "sourceId": "em-gao2010",
+      "locator": "GAO-10-203, Table 2, FY2009 row",
+      "notes": "No requirement in FY2007 is not a zero staffing allocation.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-total-2018",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "All enforcement actions",
+      "year": 2018,
+      "periodType": "calendar",
+      "value": 109,
+      "unit": "enforcement actions",
+      "denominator": null,
+      "denominatorDescription": "Not available: all abuse incidents or exposed animals.",
+      "sourceId": "em-hheastudy",
+      "locator": "Table 1, 2018 total",
+      "notes": "Independent review of posted letters; repeated actions may involve the same establishment.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-bovine-2018",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Bovine-related actions",
+      "year": 2018,
+      "periodType": "calendar",
+      "value": 46,
+      "unit": "enforcement actions",
+      "denominator": 109,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2018 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-porcine-2018",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Porcine-related actions",
+      "year": 2018,
+      "periodType": "calendar",
+      "value": 50,
+      "unit": "enforcement actions",
+      "denominator": 109,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2018 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-nos-2018",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Notice of suspension",
+      "year": 2018,
+      "periodType": "calendar",
+      "value": 63,
+      "unit": "enforcement actions",
+      "denominator": 109,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2018 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-ros-2018",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Reinstatement of suspension",
+      "year": 2018,
+      "periodType": "calendar",
+      "value": 21,
+      "unit": "enforcement actions",
+      "denominator": 109,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2018 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-noie-2018",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Notice of intended enforcement",
+      "year": 2018,
+      "periodType": "calendar",
+      "value": 25,
+      "unit": "enforcement actions",
+      "denominator": 109,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2018 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-total-2019",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "All enforcement actions",
+      "year": 2019,
+      "periodType": "calendar",
+      "value": 85,
+      "unit": "enforcement actions",
+      "denominator": null,
+      "denominatorDescription": "Not available: all abuse incidents or exposed animals.",
+      "sourceId": "em-hheastudy",
+      "locator": "Table 1, 2019 total",
+      "notes": "Independent review of posted letters; repeated actions may involve the same establishment.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-bovine-2019",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Bovine-related actions",
+      "year": 2019,
+      "periodType": "calendar",
+      "value": 45,
+      "unit": "enforcement actions",
+      "denominator": 85,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2019 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-porcine-2019",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Porcine-related actions",
+      "year": 2019,
+      "periodType": "calendar",
+      "value": 31,
+      "unit": "enforcement actions",
+      "denominator": 85,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2019 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-nos-2019",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Notice of suspension",
+      "year": 2019,
+      "periodType": "calendar",
+      "value": 48,
+      "unit": "enforcement actions",
+      "denominator": 85,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2019 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-ros-2019",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Reinstatement of suspension",
+      "year": 2019,
+      "periodType": "calendar",
+      "value": 20,
+      "unit": "enforcement actions",
+      "denominator": 85,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2019 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-noie-2019",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Notice of intended enforcement",
+      "year": 2019,
+      "periodType": "calendar",
+      "value": 17,
+      "unit": "enforcement actions",
+      "denominator": 85,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2019 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-total-2020",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "All enforcement actions",
+      "year": 2020,
+      "periodType": "calendar",
+      "value": 99,
+      "unit": "enforcement actions",
+      "denominator": null,
+      "denominatorDescription": "Not available: all abuse incidents or exposed animals.",
+      "sourceId": "em-hheastudy",
+      "locator": "Table 1, 2020 total",
+      "notes": "Independent review of posted letters; repeated actions may involve the same establishment.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-bovine-2020",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Bovine-related actions",
+      "year": 2020,
+      "periodType": "calendar",
+      "value": 48,
+      "unit": "enforcement actions",
+      "denominator": 99,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2020 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-porcine-2020",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Porcine-related actions",
+      "year": 2020,
+      "periodType": "calendar",
+      "value": 36,
+      "unit": "enforcement actions",
+      "denominator": 99,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2020 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-nos-2020",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Notice of suspension",
+      "year": 2020,
+      "periodType": "calendar",
+      "value": 59,
+      "unit": "enforcement actions",
+      "denominator": 99,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2020 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-ros-2020",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Reinstatement of suspension",
+      "year": 2020,
+      "periodType": "calendar",
+      "value": 22,
+      "unit": "enforcement actions",
+      "denominator": 99,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2020 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-fsis-hhea-noie-2020",
+      "dataset": "FSIS humane-handling enforcement letters",
+      "series": "Notice of intended enforcement",
+      "year": 2020,
+      "periodType": "calendar",
+      "value": 18,
+      "unit": "enforcement actions",
+      "denominator": 99,
+      "denominatorDescription": "All posted humane-handling enforcement actions reviewed for the year.",
+      "sourceId": "em-hheastudy",
+      "locator": "Tables 1–2, 2020 row",
+      "notes": "Describes composition of enforcement, not probability of abuse. Species and action-type series overlap; do not add across classifications.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-event-inspected-2023",
+      "dataset": "HPA event activity snapshots",
+      "series": "USDA-inspected entries at listed events",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": 2740,
+      "unit": "inspected entries",
+      "denominator": 11603,
+      "denominatorDescription": "Total entries at listed events, not all U.S. HPA events or unique horses.",
+      "sourceId": "em-hpa-event2023",
+      "locator": "Total row p.4; as of 2023-10-06",
+      "notes": "Published report snapshot 2023-10-06. Selected events; entries may repeat horses. Inspection and radiography are distinct activities. No noncompliance numerator is published in these columns; do not join to a different scope.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-event-radiographed-2023",
+      "dataset": "HPA event activity snapshots",
+      "series": "Horses radiographed at listed events",
+      "year": 2023,
+      "periodType": "fiscal",
+      "value": 502,
+      "unit": "reported horses radiographed",
+      "denominator": null,
+      "denominatorDescription": "No validated unique-horse denominator; do not add to inspected entries.",
+      "sourceId": "em-hpa-event2023",
+      "locator": "Total row p.4; as of 2023-10-06",
+      "notes": "Published report snapshot 2023-10-06. Selected events; entries may repeat horses. Inspection and radiography are distinct activities. No noncompliance numerator is published in these columns; do not join to a different scope.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-event-inspected-2024",
+      "dataset": "HPA event activity snapshots",
+      "series": "USDA-inspected entries at listed events",
+      "year": 2024,
+      "periodType": "fiscal",
+      "value": 2031,
+      "unit": "inspected entries",
+      "denominator": 8470,
+      "denominatorDescription": "Total entries at listed events, not all U.S. HPA events or unique horses.",
+      "sourceId": "em-hpa-event2024",
+      "locator": "Total row p.3; as of 2024-10-03",
+      "notes": "Published report snapshot 2024-10-03. Selected events; entries may repeat horses. Inspection and radiography are distinct activities. No noncompliance numerator is published in these columns; do not join to a different scope.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-event-radiographed-2024",
+      "dataset": "HPA event activity snapshots",
+      "series": "Horses radiographed at listed events",
+      "year": 2024,
+      "periodType": "fiscal",
+      "value": 158,
+      "unit": "reported horses radiographed",
+      "denominator": null,
+      "denominatorDescription": "No validated unique-horse denominator; do not add to inspected entries.",
+      "sourceId": "em-hpa-event2024",
+      "locator": "Total row p.3; as of 2024-10-03",
+      "notes": "Published report snapshot 2024-10-03. Selected events; entries may repeat horses. Inspection and radiography are distinct activities. No noncompliance numerator is published in these columns; do not join to a different scope.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-event-inspected-2025",
+      "dataset": "HPA partial FY2025 event activity snapshot",
+      "series": "USDA-inspected entries at listed events (partial FY2025)",
+      "year": 2025,
+      "periodType": "point-in-time",
+      "value": 314,
+      "unit": "inspected entries",
+      "denominator": 2197,
+      "denominatorDescription": "Total entries at listed events, not all U.S. HPA events or unique horses.",
+      "sourceId": "em-hpa-event2025",
+      "locator": "Total row p.1; as of 2025-09-23",
+      "notes": "PARTIAL FY2025 snapshot as of September 23, 2025, before fiscal year-end. Do not connect to complete fiscal years as an annual trend. Published report snapshot 2025-09-23. Predates FY-end and does not establish a complete annual total. Selected events; entries may repeat horses. Inspection and radiography are distinct activities. No noncompliance numerator is published in these columns; do not join to a different scope.",
+      "status": "observed"
+    },
+    {
+      "id": "em-hpa-event-radiographed-2025",
+      "dataset": "HPA partial FY2025 event activity snapshot",
+      "series": "Horses radiographed at listed events (partial FY2025)",
+      "year": 2025,
+      "periodType": "point-in-time",
+      "value": 100,
+      "unit": "reported horses radiographed",
+      "denominator": null,
+      "denominatorDescription": "No validated unique-horse denominator; do not add to inspected entries.",
+      "sourceId": "em-hpa-event2025",
+      "locator": "Total row p.1; as of 2025-09-23",
+      "notes": "PARTIAL FY2025 snapshot as of September 23, 2025, before fiscal year-end. Do not connect to complete fiscal years as an annual trend. Published report snapshot 2025-09-23. Predates FY-end and does not establish a complete annual total. Selected events; entries may repeat horses. Inspection and radiography are distinct activities. No noncompliance numerator is published in these columns; do not join to a different scope.",
+      "status": "observed"
+    }
+  ],
+  "cases": [
+    {
+      "id": "em-hsus-usda-2022",
+      "policyId": "em-policy-hpa",
+      "caseName": "Humane Society of the United States v. United States Department of Agriculture",
+      "court": "U.S. Court of Appeals for the D.C. Circuit",
+      "docket": "20-5291",
+      "date": "2022-07-22",
+      "recordUnit": "case",
+      "statute": "Administrative Procedure Act; Horse Protection Act rulemaking",
+      "disposition": "Reversed and remanded; withdrawal of a rule made available for public inspection required notice and comment.",
+      "defendants": null,
+      "animals": null,
+      "penalty": "No criminal sentence or animal-count finding; regulatory judicial review.",
+      "followup": "USDA conducted notice-and-comment withdrawal in 2023 and finalized a replacement rule in 2024.",
+      "sourceIds": [
+        "em-hpacourt2022",
+        "em-hpawithdraw"
+      ],
+      "limitations": "Procedural decision, not a conviction or measured reduction in soring."
+    },
+    {
+      "id": "em-tennessee-hpa-2025",
+      "policyId": "em-policy-hpa",
+      "caseName": "Tennessee Walking Horse National Celebration Association et al. v. United States Department of Agriculture et al.",
+      "court": "U.S. District Court for the Northern District of Texas",
+      "docket": "2:24-cv-00143",
+      "date": "2025-01-31",
+      "recordUnit": "case",
+      "statute": "Horse Protection Act; Administrative Procedure Act",
+      "disposition": "Partly vacated the 2024 rule, including specified equipment/substance prohibitions, dermatologic criteria and review provisions; inspector-system replacement survived.",
+      "defendants": null,
+      "animals": null,
+      "penalty": "No criminal penalty; regulatory vacatur.",
+      "followup": "USDA's January 2026 rule postponed the main non-vacated amendments until December 31, 2026; §11.19 training authorization was already effective June 7, 2024.",
+      "sourceIds": [
+        "em-hpadelay2026"
+      ],
+      "limitations": "Disposition verified through USDA's subsequent Federal Register account; district-court opinion was not independently retrieved. Do not count as animal-cruelty enforcement."
+    }
+  ],
+  "gaps": [
+    {
+      "id": "em-gap-hpa-selection",
+      "topic": "Horse inspection selection and denominator",
+      "detail": "Inspections target selected shows and entries; repeat horses and overlapping DQP/APHIS groups are not resolved. A rise in detections can reflect targeting or protocol changes.",
+      "neededData": "Event-, entry- and horse-level linked data, selection probabilities, consistent diagnostics and a comparison group.",
+      "impact": "HPA rates describe recorded detection, not national soring prevalence or causal presidential performance."
+    },
+    {
+      "id": "em-gap-hpa-scope",
+      "topic": "Horse data versions and methods",
+      "detail": "The 2024 rule includes VMO referrals to DQPs; event-activity reports use narrower reporting. The two-veterinarian confirmation requirement ended in 2021.",
+      "neededData": "A reconciliation crosswalk across annual event reports, referrals, case dispositions and diagnostic protocols.",
+      "impact": "Do not splice incompatible reports or attribute the 2021 rise wholly to changing horse welfare."
+    },
+    {
+      "id": "em-gap-awa-data",
+      "topic": "AWA data quality and changing operations",
+      "detail": "OIG documented unreliable ACIS queries, manual reports and complaint-follow-up weaknesses. eFile replaced ACIS in 2020; pandemic and virtual inspections changed surveillance.",
+      "neededData": "Validated entity identifiers, unique-facility coverage, standardized inspection types and animal-exposure denominators.",
+      "impact": "Inspection and enforcement trends are implementation evidence with structural breaks."
+    },
+    {
+      "id": "em-gap-period",
+      "topic": "AWA source-count reconciliation",
+      "detail": "Budget prefaces explicitly specify fiscal years unless otherwise noted. CRS separately reports 254 cases/205 warnings for 2022 versus budget FY2022 counts of 262/204; the source discrepancy is unresolved.",
+      "neededData": "A versioned APHIS reconciliation of CRS, budget, impact-report and IES figures.",
+      "impact": "Use the verified fiscal budget series consistently; do not substitute unreconciled CRS figures."
+    },
+    {
+      "id": "em-gap-fsis-access",
+      "topic": "Recent FSIS humane-handling series access",
+      "detail": "Official quarterly-workbook catalog was identified, but direct FSIS page retrieval returned access failure and no workbooks were extracted.",
+      "neededData": "Downloadable quarterly humane-handling tasks, NRs, HATS hours and egregious-event data with matching definitions.",
+      "impact": "No claim of complete annual FY2021–FY2025 FSIS enforcement trends; historical GAO and 2018–2020 letters are the verified evidence."
+    },
+    {
+      "id": "em-gap-outcomes",
+      "topic": "National welfare outcomes",
+      "detail": "No retrieved causal national evaluation isolates the 2013 pet-sales, 2020 dog-care, downer-cattle, veal or organic standards from inspection intensity, private audits, market change and other laws.",
+      "neededData": "Animal-level health/behavior/injury outcomes, exposure populations, adoption dates and credible comparison groups.",
+      "impact": "Legal scope and implementation cannot be translated into numbers of animals helped or net presidential scores."
+    },
+    {
+      "id": "em-gap-timelag",
+      "topic": "Outcome lag and 2026 incompleteness",
+      "detail": "Latest annual APHIS enforcement output is FY2025. Comparable HPA sore-finding series ends FY2023; newer event reports through FY2025 use different columns and the FY2025 snapshot predates fiscal year-end. Organic/HPA transitions extend beyond cutoff.",
+      "neededData": "Final FY2026 reports, subsequent HPA effective-date records and post-compliance organic audits.",
+      "impact": "Do not imply complete 2026 coverage or realized benefits from future effective dates."
+    },
+    {
+      "id": "em-gap-nsis",
+      "topic": "NSIS trial and status limits",
+      "detail": "Six selected trial plants reported task-level humane-handling data with no contemporaneous comparison group. The latest verified implementation update is August 5, 2026; an October search identified no later final rule.",
+      "neededData": "Plant-level exposure, line speeds, observed handling outcomes, comparable controls and latest docket disposition.",
+      "impact": "11/25,821 is an agency verification-task ratio, not a pig-abuse rate or proof of safety; proposed changes remain distinct from implemented rules."
+    },
+    {
+      "id": "em-gap-transparency",
+      "topic": "Transparency mechanism versus effect",
+      "detail": "The public-search restoration is verified but completeness and historical redaction are not independently audited here.",
+      "neededData": "Archived portal snapshots, completeness audit and research linking access to corrective action.",
+      "impact": "Transparency is a plausible mechanism, not a measured welfare gain."
+    },
+    {
+      "id": "em-gap-ars",
+      "topic": "ARS facility denominator",
+      "detail": "The five-year ARS series reports registered facilities and annual inspection visits; the facility portfolio changes and does not represent all research establishments.",
+      "neededData": "Facility-level panel and standardized incident severities.",
+      "impact": "Visits per facility are workload; detected noncompliance fractions are neither animal-harm rates nor generalizable nationally."
+    }
+  ]
+}

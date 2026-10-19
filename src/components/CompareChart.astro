@@ -1,0 +1,11 @@
+---
+import {display,source} from '../lib/data';
+const {rows,title,caption}=Astro.props;
+const groups=[...new Set(rows.map((r:any)=>r.series))] as string[];
+const years=[...new Set(rows.map((r:any)=>r.year))].sort() as number[];
+const max=Math.max(1,...rows.map((r:any)=>r.value))*1.15;
+const x=(year:number)=>70+(year-years[0])/Math.max(1,years.at(-1)!-years[0])*590;
+const y=(v:number)=>245-v/max*205;
+const colors=['#245748','#89601f','#69628a'];
+---
+<div class="chart-panel"><h3>{title}</h3><p class="small">{rows[0].unit} · FY{years[0]}–FY{years.at(-1)} · All series share a zero baseline</p><svg class="chart" viewBox="0 0 720 290" role="img" aria-label={`${title}. Data and denominators follow in the table.`}><title>{title}</title>{[0,.25,.5,.75,1].map(t=><g><line x1="70" x2="680" y1={y(max*t)} y2={y(max*t)} stroke="#d5dcd3"/><text x="60" y={y(max*t)+4} text-anchor="end">{display(max*t)}</text></g>)}{years.map(year=><text x={x(year)} y="272" text-anchor="middle">{year}</text>)}{groups.map((group,j)=>{const points=rows.filter((r:any)=>r.series===group).sort((a:any,b:any)=>a.year-b.year);return points.map((r:any,i:number)=><g>{i>0&&<line x1={x(points[i-1].year)} x2={x(r.year)} y1={y(points[i-1].value)} y2={y(r.value)} stroke={colors[j%3]} stroke-width="3" stroke-dasharray={j===1?'7 4':j===2?'2 4':undefined}/>}<circle cx={x(r.year)} cy={y(r.value)} r="5" fill={colors[j%3]}><title>{group}, {r.year}: {display(r.value)}</title></circle></g>)})}</svg><div class="actions">{groups.map((g,j)=><span style={`color:${colors[j%3]};font-weight:700;font-size:.85rem`}>{j===0?'━━':j===1?'┄┄':'···'} {g}</span>)}</div><p>{caption}</p><p class="small">Administrative measurements; no sampling confidence intervals supplied. Selection and reporting uncertainty remain.</p><details><summary>Inspect calculations and source values</summary><div class="table-wrap"><table><thead><tr><th>FY</th>{groups.map(g=><th>{g}</th>)}</tr></thead><tbody>{years.map(year=><tr><th>{year}</th>{groups.map(group=>{const r=rows.find((r:any)=>r.series===group&&r.year===year);return <td>{r?display(r.value):'No data'}{r?.numerator!==undefined&&<div class="small">{r.numerator} / {r.denominator} × 100</div>}{r&&<div class="small"><a href={source(r.sourceId)?.url}>{source(r.sourceId)?.publisher}</a></div>}</td>})}</tr>)}</tbody></table></div></details></div>

@@ -1,0 +1,562 @@
+{
+  "sources": [
+    {
+      "id": "ct-fbi2016",
+      "title": "Tracking Animal Cruelty",
+      "publisher": "FBI",
+      "url": "https://www.fbi.gov/news/stories/-tracking-animal-cruelty",
+      "publicationDate": "2016-02-01",
+      "locator": "Opening paragraphs; January 1 collection start",
+      "evidenceType": "Agency implementation announcement",
+      "limitations": "Reporting change, not a welfare evaluation.",
+      "accessDate": "2026-10-19",
+      "independentlyVerified": false,
+      "verificationNote": "Read underlying primary source or published abstract; no independent replication of source data."
+    },
+    {
+      "id": "ct-bjs2024",
+      "title": "Crime Known to Law Enforcement, 2024",
+      "publisher": "Bureau of Justice Statistics",
+      "url": "https://bjs.ojp.gov/document/ckle24.pdf",
+      "publicationDate": "2026-03",
+      "locator": "Appendix Table 16, p.32; methodology pp.15–18",
+      "evidenceType": "Official administrative statistics",
+      "limitations": "Reporting coverage only. Prior years include late submissions. At least one month does not mean complete annual reporting; coverage is not specific to animal cruelty.",
+      "accessDate": "2026-10-19",
+      "independentlyVerified": false,
+      "verificationNote": "Read underlying primary source or published abstract; no independent replication of source data."
+    },
+    {
+      "id": "ct-nibrs-study",
+      "title": "Using NIBRS Data to Explore Animal Cruelty Incidents that Occur with Intimate Partner and Family Violence",
+      "publisher": "Journal of Family Violence / Springer Nature",
+      "url": "https://doi.org/10.1007/s10896-024-00684-1",
+      "publicationDate": "2024",
+      "locator": "Data and Methods; Study Limitations",
+      "evidenceType": "Peer-reviewed observational research",
+      "limitations": "Uses reported 2020 incidents; no causal policy evaluation and no animal-victim information.",
+      "accessDate": "2026-10-19",
+      "independentlyVerified": false,
+      "verificationNote": "Read underlying primary source or published abstract; no independent replication of source data."
+    },
+    {
+      "id": "ct-pets",
+      "title": "Pets Evacuation and Transportation Standards Act of 2006, P.L.109-308",
+      "publisher": "Congress / GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-109publ308/pdf/PLAW-109publ308.pdf",
+      "publicationDate": "2006-10-06",
+      "locator": "Sections 2–4, 120 Stat.1725–1726",
+      "evidenceType": "Enacted statute",
+      "limitations": "Statutory authority does not measure rescue outcomes.",
+      "accessDate": "2026-10-19",
+      "independentlyVerified": false,
+      "verificationNote": "Read underlying primary source or published abstract; no independent replication of source data."
+    },
+    {
+      "id": "ct-fema",
+      "title": "Federal Evacuation Support Annex",
+      "publisher": "FEMA",
+      "url": "https://www.fema.gov/sites/default/files/documents/fema_rd_federal-evacuation-support-annex_042025.pdf",
+      "publicationDate": "2025-04",
+      "locator": "Appendix statutory authorities, p.81",
+      "evidenceType": "Agency implementation guidance",
+      "limitations": "Operational guidance; not a longitudinal animal survival dataset.",
+      "accessDate": "2026-10-19",
+      "independentlyVerified": false,
+      "verificationNote": "Read underlying primary source or published abstract; no independent replication of source data."
+    },
+    {
+      "id": "ct-grandin",
+      "title": "Effect of animal welfare audits of slaughter plants by a major fast food company on cattle handling and stunning practices",
+      "publisher": "Journal of the American Veterinary Medical Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22570895/",
+      "publicationDate": "2000-03-15",
+      "locator": "Abstract, results; 216(6):848–851; DOI 10.2460/javma.2000.216.848",
+      "evidenceType": "Peer-reviewed observational survey",
+      "limitations": "Selected 22 plants, no untreated comparison; evaluates private buyer audits, not a presidential intervention. Study observation year not specified in abstract; 2000 is publication year.",
+      "accessDate": "2026-10-19",
+      "independentlyVerified": false,
+      "verificationNote": "Read underlying primary source or published abstract; no independent replication of source data."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ct-c1",
+      "policyId": "ct-nibrs",
+      "claim": "FBI began collecting a distinct animal-cruelty category in NIBRS on January 1, 2016.",
+      "sourceIds": [
+        "ct-fbi2016"
+      ],
+      "locator": "Opening paragraphs",
+      "evidenceType": "Implementation",
+      "confidence": "high",
+      "limitations": "Captures reporting to participating police agencies, not all cruelty.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "ct-c2",
+      "policyId": "ct-nibrs",
+      "claim": "Population coverage of agencies reporting at least one month grew from 33.9% in 2017 to 87.3% in 2024; these are general NIBRS coverage figures.",
+      "sourceIds": [
+        "ct-bjs2024"
+      ],
+      "locator": "Appendix Table16 p.32",
+      "evidenceType": "Administrative measurement",
+      "confidence": "high",
+      "limitations": "Not a stable cohort or a denominator of animals; cannot establish cruelty trends.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "ct-c3",
+      "policyId": "ct-nibrs",
+      "claim": "NIBRS cruelty records do not describe individual animal victims, and some participating agencies may not report animal cruelty.",
+      "sourceIds": [
+        "ct-nibrs-study"
+      ],
+      "locator": "Data and Methods",
+      "evidenceType": "Peer-reviewed measurement assessment",
+      "confidence": "high",
+      "limitations": "Study assesses 2020 data; does not estimate current missingness.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "ct-c4",
+      "policyId": "ct-pets-policy",
+      "claim": "PETS required planning for household pets and service animals and authorized related emergency assistance.",
+      "sourceIds": [
+        "ct-pets",
+        "ct-fema"
+      ],
+      "locator": "PETS §§2–4; FEMA p.81",
+      "evidenceType": "Legal and implementation",
+      "confidence": "high",
+      "limitations": "No comparable survival or reunification series assembled.",
+      "independentlyVerified": false
+    },
+    {
+      "id": "ct-c5",
+      "policyId": null,
+      "claim": "A study published in 2000 reported that 20 of 22 audited slaughter plants rendered all observed cattle insensible before hoisting.",
+      "sourceIds": [
+        "ct-grandin"
+      ],
+      "locator": "Abstract results",
+      "evidenceType": "Observed animal outcome",
+      "confidence": "moderate",
+      "limitations": "Plant pass count, not share of all US cattle; private audit sample, no causal presidential attribution.",
+      "independentlyVerified": false
+    }
+  ],
+  "policies": [
+    {
+      "id": "ct-nibrs",
+      "title": "FBI begins separate animal-cruelty reporting",
+      "area": "Cross-cutting",
+      "species": [
+        "Multiple animal groups"
+      ],
+      "administrations": [
+        "Obama",
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2016-01-01",
+      "status": "Implemented reporting system",
+      "summary": "A new reporting category made some cruelty incidents visible, but changing participation prevents simple national comparisons.",
+      "changed": "FBI added distinct animal-cruelty coding, including neglect, intentional abuse, organized abuse, and sexual abuse.",
+      "afterward": "Reporting expanded substantially. The BJS series measures general reporting coverage, not the prevalence of cruelty or the number of suffering animals.",
+      "attribution": "FBI and participating state/local agencies implemented collection beginning under Obama; later administrations maintained and expanded the broader system. This is a measurement contribution, not proven prevention.",
+      "unknown": "A stable panel of agencies with validated cruelty reporting and animal-level outcomes has not been assembled here.",
+      "mechanism": "More specific recording could improve detection, allocation of enforcement resources and prevention; those downstream effects require evaluation.",
+      "coverage": "Incidents known to and reported by participating law-enforcement agencies.",
+      "exceptions": "Unreported conduct, nonparticipating agencies and lawful practices are outside these counts.",
+      "outcomeEvidence": "implementation",
+      "confidence": "high",
+      "confidenceReason": "Start date and coverage are documented; effectiveness is unestablished.",
+      "contributors": [
+        {
+          "institution": "FBI",
+          "role": "Designed the category and reporting system"
+        },
+        {
+          "institution": "State and local agencies",
+          "role": "Collect and submit incidents"
+        },
+        {
+          "institution": "Congress and successive administrations",
+          "role": "Broader justice statistics oversight; no distinct suffering estimate assigned"
+        }
+      ],
+      "history": [
+        {
+          "date": "2016-01-01",
+          "status": "Implemented",
+          "event": "Separate cruelty collection begins",
+          "sourceIds": [
+            "ct-fbi2016"
+          ]
+        },
+        {
+          "date": "2026-03",
+          "status": "Data release",
+          "event": "BJS publishes revised 2017–2024 reporting coverage",
+          "sourceIds": [
+            "ct-bjs2024"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "ct-fbi2016",
+        "ct-bjs2024",
+        "ct-nibrs-study"
+      ],
+      "claimIds": [
+        "ct-c1",
+        "ct-c2",
+        "ct-c3"
+      ]
+    },
+    {
+      "id": "ct-pets-policy",
+      "title": "PETS Act: pets in disaster planning",
+      "area": "Companion animals",
+      "species": [
+        "Household pets",
+        "Service animals"
+      ],
+      "administrations": [
+        "George W. Bush",
+        "Obama",
+        "Trump I",
+        "Biden",
+        "Trump II"
+      ],
+      "date": "2006-10-06",
+      "status": "Enacted; implementation documented",
+      "summary": "Emergency planning and assistance provisions recognize household pets and service animals.",
+      "changed": "State/local emergency plans must account for people with pets and service animals; the statute authorizes relevant assistance and facilities.",
+      "afterward": "FEMA's April 2025 evacuation annex retains this authority in federal operational guidance.",
+      "attribution": "109th Congress passed the law; George W. Bush signed it. FEMA, state/local authorities and responders implement it across administrations.",
+      "unknown": "No disaster-adjusted causal estimate of pet survival, abandonment or reunification was located in this review.",
+      "mechanism": "Including animals in evacuation and shelter planning could reduce abandonment and allow owners to evacuate earlier.",
+      "coverage": "Household pets and service animals in covered disaster preparedness and assistance.",
+      "exceptions": "This is not a blanket requirement that every hotel or shelter admit every animal.",
+      "outcomeEvidence": "implementation",
+      "confidence": "high",
+      "confidenceReason": "Enacted text and current operational guidance support the institutional change, not quantified benefits.",
+      "contributors": [
+        {
+          "institution": "109th Congress",
+          "role": "Developed and passed H.R.3858"
+        },
+        {
+          "institution": "George W. Bush",
+          "role": "Signed October 6, 2006"
+        },
+        {
+          "institution": "FEMA and state/local responders",
+          "role": "Plan, fund and perform operational response"
+        }
+      ],
+      "history": [
+        {
+          "date": "2006-10-06",
+          "status": "Enacted",
+          "event": "P.L.109-308 approved",
+          "sourceIds": [
+            "ct-pets"
+          ]
+        },
+        {
+          "date": "2025-04",
+          "status": "Implementation guidance",
+          "event": "FEMA operational annex describes PETS authority",
+          "sourceIds": [
+            "ct-fema"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "ct-pets",
+        "ct-fema"
+      ],
+      "claimIds": [
+        "ct-c4"
+      ]
+    }
+  ],
+  "observations": [
+    {
+      "id": "ct-agency-2017",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Agency coverage: at least 1 month",
+      "year": 2017,
+      "periodType": "calendar",
+      "value": 39.2,
+      "unit": "percent",
+      "denominator": 18444,
+      "denominatorDescription": "All eligible law-enforcement agencies in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Not animal-cruelty-specific. Prior years revised for late reporting. Not a stable cohort.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-pop-2017",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Population coverage: at least 1 month",
+      "year": 2017,
+      "periodType": "calendar",
+      "value": 33.9,
+      "unit": "percent",
+      "denominator": 325719178,
+      "denominatorDescription": "U.S. population in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Coverage of reporting agencies; one month is not a full year of observations. Not cruelty prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-agency-2018",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Agency coverage: at least 1 month",
+      "year": 2018,
+      "periodType": "calendar",
+      "value": 41,
+      "unit": "percent",
+      "denominator": 18550,
+      "denominatorDescription": "All eligible law-enforcement agencies in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Not animal-cruelty-specific. Prior years revised for late reporting. Not a stable cohort.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-pop-2018",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Population coverage: at least 1 month",
+      "year": 2018,
+      "periodType": "calendar",
+      "value": 38.2,
+      "unit": "percent",
+      "denominator": 327167434,
+      "denominatorDescription": "U.S. population in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Coverage of reporting agencies; one month is not a full year of observations. Not cruelty prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-agency-2019",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Agency coverage: at least 1 month",
+      "year": 2019,
+      "periodType": "calendar",
+      "value": 48.1,
+      "unit": "percent",
+      "denominator": 18670,
+      "denominatorDescription": "All eligible law-enforcement agencies in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Not animal-cruelty-specific. Prior years revised for late reporting. Not a stable cohort.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-pop-2019",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Population coverage: at least 1 month",
+      "year": 2019,
+      "periodType": "calendar",
+      "value": 47.7,
+      "unit": "percent",
+      "denominator": 328239355,
+      "denominatorDescription": "U.S. population in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Coverage of reporting agencies; one month is not a full year of observations. Not cruelty prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-agency-2020",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Agency coverage: at least 1 month",
+      "year": 2020,
+      "periodType": "calendar",
+      "value": 55.1,
+      "unit": "percent",
+      "denominator": 18631,
+      "denominatorDescription": "All eligible law-enforcement agencies in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Not animal-cruelty-specific. Prior years revised for late reporting. Not a stable cohort.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-pop-2020",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Population coverage: at least 1 month",
+      "year": 2020,
+      "periodType": "calendar",
+      "value": 55.6,
+      "unit": "percent",
+      "denominator": 329484123,
+      "denominatorDescription": "U.S. population in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Coverage of reporting agencies; one month is not a full year of observations. Not cruelty prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-agency-2021",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Agency coverage: at least 1 month",
+      "year": 2021,
+      "periodType": "calendar",
+      "value": 62.4,
+      "unit": "percent",
+      "denominator": 18924,
+      "denominatorDescription": "All eligible law-enforcement agencies in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Not animal-cruelty-specific. Prior years revised for late reporting. Not a stable cohort.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-pop-2021",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Population coverage: at least 1 month",
+      "year": 2021,
+      "periodType": "calendar",
+      "value": 64.8,
+      "unit": "percent",
+      "denominator": 331894354,
+      "denominatorDescription": "U.S. population in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Coverage of reporting agencies; one month is not a full year of observations. Not cruelty prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-agency-2022",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Agency coverage: at least 1 month",
+      "year": 2022,
+      "periodType": "calendar",
+      "value": 72,
+      "unit": "percent",
+      "denominator": 18930,
+      "denominatorDescription": "All eligible law-enforcement agencies in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Not animal-cruelty-specific. Prior years revised for late reporting. Not a stable cohort.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-pop-2022",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Population coverage: at least 1 month",
+      "year": 2022,
+      "periodType": "calendar",
+      "value": 78.6,
+      "unit": "percent",
+      "denominator": 333239652,
+      "denominatorDescription": "U.S. population in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Coverage of reporting agencies; one month is not a full year of observations. Not cruelty prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-agency-2023",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Agency coverage: at least 1 month",
+      "year": 2023,
+      "periodType": "calendar",
+      "value": 74.9,
+      "unit": "percent",
+      "denominator": 19163,
+      "denominatorDescription": "All eligible law-enforcement agencies in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Not animal-cruelty-specific. Prior years revised for late reporting. Not a stable cohort.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-pop-2023",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Population coverage: at least 1 month",
+      "year": 2023,
+      "periodType": "calendar",
+      "value": 84.6,
+      "unit": "percent",
+      "denominator": 334893952,
+      "denominatorDescription": "U.S. population in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Coverage of reporting agencies; one month is not a full year of observations. Not cruelty prevalence.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-agency-2024",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Agency coverage: at least 1 month",
+      "year": 2024,
+      "periodType": "calendar",
+      "value": 75.5,
+      "unit": "percent",
+      "denominator": 19328,
+      "denominatorDescription": "All eligible law-enforcement agencies in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Not animal-cruelty-specific. Prior years revised for late reporting. Not a stable cohort.",
+      "status": "observed"
+    },
+    {
+      "id": "ct-pop-2024",
+      "dataset": "NIBRS reporting coverage",
+      "series": "Population coverage: at least 1 month",
+      "year": 2024,
+      "periodType": "calendar",
+      "value": 87.3,
+      "unit": "percent",
+      "denominator": 340092279,
+      "denominatorDescription": "U.S. population in BJS Table16",
+      "sourceId": "ct-bjs2024",
+      "locator": "Appendix Table16 p.32",
+      "notes": "Coverage of reporting agencies; one month is not a full year of observations. Not cruelty prevalence.",
+      "status": "observed"
+    }
+  ],
+  "cases": [],
+  "gaps": [
+    {
+      "id": "ct-g1",
+      "topic": "Causal comparison",
+      "detail": "No harmonized animal-outcome panel with defensible treatment and comparison groups was assembled.",
+      "neededData": "Facility/animal-level longitudinal outcomes, stable reporting and exposure timing; appropriate comparisons.",
+      "impact": "No national suffering reduction or overall presidential ranking is estimated."
+    },
+    {
+      "id": "ct-g2",
+      "topic": "Resources",
+      "detail": "Historical staffing observations are partial. Comparable welfare-specific budgets and inflation series are not yet assembled.",
+      "neededData": "Actual obligations and welfare-specific FTE by fiscal year; CPI or agency-appropriate deflator and consistent activity boundaries.",
+      "impact": "No nominal-dollar or inflation-adjusted administration ranking."
+    },
+    {
+      "id": "ct-g3",
+      "topic": "NIBRS consistent cohorts",
+      "detail": "General coverage increases are documented; a constant cruelty-reporting agency panel is not validated.",
+      "neededData": "Agency-month participation and offense-level completeness; local coding transitions and covered populations.",
+      "impact": "Raw national cruelty counts are excluded from trend claims."
+    },
+    {
+      "id": "ct-g4",
+      "topic": "Direct welfare and private practices",
+      "detail": "The Grandin audit survey contains direct stunning/handling measures but no federal-policy comparison group.",
+      "neededData": "Comparable plant outcomes before/after federal implementation, private audit histories, exposure and matched controls.",
+      "impact": "Observed private audit outcomes cannot be assigned to Clinton or later presidents."
+    }
+  ]
+}
